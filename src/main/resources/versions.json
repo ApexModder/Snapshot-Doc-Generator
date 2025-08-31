@@ -1,0 +1,628 @@
+[
+  {
+    "id": "25w35a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w35a",
+    "changelog": "https://misode.github.io/versions/?id=25w35a",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/219-or-22/primers/README.md",
+    "notion": "https://www.notion.so/apexmodder/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=25b4f070f888804cb9c3d923b69db2a3&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=tCVV004OceM",
+      "pack": "https://www.youtube.com/watch?v=SiQESnoyoCQ"
+    },
+    "type": "SNAPSHOT",
+    "previous": "25w34b"
+  },
+  {
+    "display_name": "25w34b - Hotfix",
+    "id": "25w34b",
+    "changelog": "https://misode.github.io/versions/?id=25w34a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2544f070f888809abf45f7fb24dbdc80&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w35a",
+    "previous": "25w34a"
+  },
+  {
+    "id": "25w34a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34a",
+    "changelog": "https://misode.github.io/versions/?id=25w34a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2544f070f88880c3bc42e26af83ef00d&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/60460f6928682f12e03f4590dc6fd0db9bca7083",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/60460f6928682f12e03f4590dc6fd0db9bca7083"
+    },
+    "videos": "https://www.youtube.com/watch?v=fCga6TTeAA4",
+    "type": "SNAPSHOT",
+    "next": "25w34b",
+    "previous": "25w33a"
+  },
+  {
+    "id": "25w33a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w33a",
+    "changelog": "https://misode.github.io/versions/?id=25w33a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888809eabc5d2eb194e0361&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c849148d9a52e36d1ba86bf6a32774712c64f4f5",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/c849148d9a52e36d1ba86bf6a32774712c64f4f5"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=xxQ6NlX3cKo",
+      "pack": "https://www.youtube.com/watch?v=riw_p0u-1g8"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w34a",
+    "previous": "25w32a"
+  },
+  {
+    "id": "25w32a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w32a",
+    "changelog": "https://misode.github.io/versions/?id=25w32a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888806ca5a9f12ebb4d30f9&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/140021b11fb008c9a584fb61c77262fef48dc947",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/140021b11fb008c9a584fb61c77262fef48dc947"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=plZzF9GKeBE",
+      "pack": "https://www.youtube.com/watch?v=mMhGxQKF7m4"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w33a",
+    "previous": "25w31a"
+  },
+  {
+    "id": "25w31a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w31a",
+    "changelog": "https://misode.github.io/versions/?id=25w31a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888803a9774d34a3cf022ec&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3d07356f9416d5045b57e8b65626556b99c6f7f8",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/3d07356f9416d5045b57e8b65626556b99c6f7f8"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=bN2X0F4TCWg",
+      "pack": "https://www.youtube.com/watch?v=2UOiIW5nyoA"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w32a",
+    "previous": "1.21.8"
+  },
+  {
+    "display_name": "1.21.8 - Hotfix",
+    "id": "1.21.8",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-8",
+    "changelog": "https://misode.github.io/versions/?id=1.21.8",
+    "primer": "https://docs.neoforged.net/primer/docs/1.21.8",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888097a269d96a6101d2f6&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/cc5b054ab702dd0423b1140fda6a43f7b73f3dbb",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/cc5b054ab702dd0423b1140fda6a43f7b73f3dbb"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=01ipscV0Ni8"
+    },
+    "type": "RELEASE",
+    "next": "25w31a",
+    "previous": "1.21.8-release-candidate-1"
+  },
+  {
+    "display_name": "1.21.8 - Release Candidate 1",
+    "id": "1.21.8-release-candidate-1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-8-release-candidate-1",
+    "changelog": "https://misode.github.io/versions/?id=1.21.8-rc1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888096a4b7d1501403b5fe&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/479b7af38164d160c386807438a63150f3ddfb33",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/479b7af38164d160c386807438a63150f3ddfb33"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=6mrwCFjzzvQ"
+    },
+    "type": "RELEASE_CANDIDATE",
+    "next": "1.21.8",
+    "previous": "1.21.7"
+  },
+  {
+    "display_name": "1.21.7 - Hotfix",
+    "id": "1.21.7",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-7",
+    "changelog": "https://misode.github.io/versions/?id=1.21.7",
+    "primer": "https://docs.neoforged.net/primer/docs/1.21.7",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880fdacb3d293a4f63783&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8af4e5114d1380080b518b7c29c715e5909ea05b",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/8af4e5114d1380080b518b7c29c715e5909ea05b"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=jV2SuTLJXcg"
+    },
+    "type": "RELEASE",
+    "next": "1.21.8-release-candidate-1",
+    "previous": "1.21.7-release-candidate-2"
+  },
+  {
+    "display_name": "1.21.7 - Release Candidate 2",
+    "id": "1.21.7-release-candidate-2",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-7-release-candidate-2",
+    "changelog": "https://misode.github.io/versions/?id=1.21.7-rc2",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888082a708d037506a98b9&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/116e8513bcb947f404c4142e55d96803cae31f12",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/116e8513bcb947f404c4142e55d96803cae31f12"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=7A0bW7Ddmnw"
+    },
+    "type": "RELEASE_CANDIDATE",
+    "next": "1.21.7",
+    "previous": "1.21.7-release-candidate-1"
+  },
+  {
+    "display_name": "1.21.7 - Release Candidate 1",
+    "id": "1.21.7-release-candidate-1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-7-release-candidate-1",
+    "changelog": "https://misode.github.io/versions/?id=1.21.7-rc1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888805b8d64c822f5759a69&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=FS0eIaCxKHc"
+    },
+    "type": "RELEASE_CANDIDATE",
+    "next": "1.21.7-release-candidate-2",
+    "previous": "1.21.6"
+  },
+  {
+    "display_name": "1.21.6 - Chase the Skies",
+    "id": "1.21.6",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-6",
+    "changelog": "https://misode.github.io/versions/?id=1.21.6",
+    "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2524f070f88880a69bbfc51d4e83101d&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/4d8b82cb5bf567b2570c7f4a217ab9cf277c4c6f",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/4d8b82cb5bf567b2570c7f4a217ab9cf277c4c6f"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=ik0r1BjsmBA",
+      "pack": "https://www.youtube.com/watch?v=bRuoC0qUb5Y"
+    },
+    "type": "RELEASE",
+    "next": "1.21.7-release-candidate-1",
+    "previous": "1.21.6-release-candidate-1"
+  },
+  {
+    "display_name": "1.21.6 - Release Candidate 1",
+    "id": "1.21.6-release-candidate-1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-release-candidate-1",
+    "changelog": "https://misode.github.io/versions/?id=1.21.6-rc1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2524f070f88880ea99d7f98889251894&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e2d9b7a950deeb3b4980c523c13357b491cd8008",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/e2d9b7a950deeb3b4980c523c13357b491cd8008"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=ERwctZH07zE"
+    },
+    "type": "RELEASE_CANDIDATE",
+    "next": "1.21.6",
+    "previous": "1.21.6-pre-release-4"
+  },
+  {
+    "display_name": "1.21.6 - Pre Release 4",
+    "id": "1.21.6-pre-release-4",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-4",
+    "changelog": "https://misode.github.io/versions/?id=1.21.6-pre4",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888800e88d3d0631a4b9ecf&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d4064eaf16eb4993a1808ddd05a318f006275357",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/d4064eaf16eb4993a1808ddd05a318f006275357"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=FewXNHTBshw"
+    },
+    "type": "PRE_RELEASE",
+    "next": "1.21.6-release-candidate-1",
+    "previous": "1.21.6-pre-release-3"
+  },
+  {
+    "display_name": "1.21.6 - Pre Release 3",
+    "id": "1.21.6-pre-release-3",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-3",
+    "changelog": "https://misode.github.io/versions/?id=1.21.6-pre3",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888064b6c1e656d9df6351&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f7041ccea260573979ee0d74cf6aac261bb71c67",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/f7041ccea260573979ee0d74cf6aac261bb71c67"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=aixxTVqeAto"
+    },
+    "type": "PRE_RELEASE",
+    "next": "1.21.6-pre-release-4",
+    "previous": "1.21.6-pre-release-2"
+  },
+  {
+    "display_name": "1.21.6 - Pre Release 2",
+    "id": "1.21.6-pre-release-2",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-2",
+    "changelog": "https://misode.github.io/versions/?id=1.21.6-pre2",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888004bea6d1ebc962fb2d&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3572c91c10f8ca9c478df3a11ffefef598d85342",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/3572c91c10f8ca9c478df3a11ffefef598d85342"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=4UVKOigMm1Y"
+    },
+    "type": "PRE_RELEASE",
+    "next": "1.21.6-pre-release-3",
+    "previous": "1.21.6-pre-release-1"
+  },
+  {
+    "display_name": "1.21.6 - Pre Release 1",
+    "id": "1.21.6-pre-release-1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-1",
+    "changelog": "https://misode.github.io/versions/?id=1.21.6-pre1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2524f070f88880bc8f2fd6325326425e&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/755b8c1bf7cffc0a8b4359f49bbb548f74d7d791",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/755b8c1bf7cffc0a8b4359f49bbb548f74d7d791"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=S9V6CzZEOJk",
+      "pack": "https://www.youtube.com/watch?v=9Vm3HYyn_0c"
+    },
+    "type": "PRE_RELEASE",
+    "next": "1.21.6-pre-release-2",
+    "previous": "25w21a"
+  },
+  {
+    "id": "25w21a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w21a",
+    "changelog": "https://misode.github.io/versions/?id=25w21a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888054b6f7c91d6db0d125&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ef1f13ae0dcddc1ab222d20aa160a9a4ee3e40a0",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/ef1f13ae0dcddc1ab222d20aa160a9a4ee3e40a0"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=dOjkGA3HTAc",
+      "pack": "https://www.youtube.com/watch?v=kmKyzcSV-7U"
+    },
+    "type": "SNAPSHOT",
+    "next": "1.21.6-pre-release-1",
+    "previous": "25w20a"
+  },
+  {
+    "id": "25w20a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w20a",
+    "changelog": "https://misode.github.io/versions/?id=25w20a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880a2b8a0fa093dcea244&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/23d9efaa0bb0ab6b6749885d7cb715ce48b46cce",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/23d9efaa0bb0ab6b6749885d7cb715ce48b46cce"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=RchCqaJT85I",
+      "pack": "https://www.youtube.com/watch?v=5_581LBZU74"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w21a",
+    "previous": "25w19a"
+  },
+  {
+    "id": "25w19a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w19a",
+    "changelog": "https://misode.github.io/versions/?id=25w19a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880cabb56e9b1a0cb9a5c&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=Ml6Yvjmaf44",
+      "pack": "https://www.youtube.com/watch?v=aJodr1_eUzs"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w20a",
+    "previous": "25w18a"
+  },
+  {
+    "id": "25w18a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w18a",
+    "changelog": "https://misode.github.io/versions/?id=25w18a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880aca6ffe4232b29a08a&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d3c19d0ace585fe154acf0ec3d2dd4753ed111e7",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/d3c19d0ace585fe154acf0ec3d2dd4753ed111e7"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=fxOI_62Zrss",
+      "pack": "https://www.youtube.com/watch?v=u2QcIMQ3VPo"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w19a",
+    "previous": "25w17a"
+  },
+  {
+    "id": "25w17a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w17a",
+    "changelog": "https://misode.github.io/versions/?id=25w17a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880cf87ebe1a4274c2c5d&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/1f88caed7ce184f8bf6f0c5773c202df06ce863f",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/1f88caed7ce184f8bf6f0c5773c202df06ce863f"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=Vz0NtmXAFaY"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w18a",
+    "previous": "25w16a"
+  },
+  {
+    "id": "25w16a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w16a",
+    "changelog": "https://misode.github.io/versions/?id=25w16a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880a08015d14257b41847&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/77c96b6461bc64b82ecd301129ebdedaae418252",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/77c96b6461bc64b82ecd301129ebdedaae418252"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=g_mss9qDYrY",
+      "pack": "https://www.youtube.com/watch?v=cs6Ir60suMs"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w17a",
+    "previous": "25w15a"
+  },
+  {
+    "id": "25w15a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w15a",
+    "changelog": "https://misode.github.io/versions/?id=25w15a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888070a67bf57fa6d52a05&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f00c8deffced2fd328033f85ebab6ffa5e38aa4a",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/f00c8deffced2fd328033f85ebab6ffa5e38aa4a"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=bwfI-_KqnUs",
+      "pack": "https://www.youtube.com/watch?v=heC2PTE_08E"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w16a",
+    "previous": "1.21.5"
+  },
+  {
+    "display_name": "1.21.5 - Spring to Life",
+    "id": "1.21.5",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-5",
+    "changelog": "https://misode.github.io/versions/?id=1.21.5",
+    "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888032b6bdff55db11aa58&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ddf5d69f89444694f477416e74658d512acb7e7d",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/ddf5d69f89444694f477416e74658d512acb7e7d"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=LcYGZuA7ev4",
+      "pack": "https://www.youtube.com/watch?v=V3nqaMukxf8"
+    },
+    "type": "RELEASE",
+    "next": "25w15a",
+    "previous": "1.21.5-release-candidate-2"
+  },
+  {
+    "display_name": "1.21.5 - Release Candidate 2",
+    "id": "1.21.5-release-candidate-2",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-2",
+    "changelog": "https://misode.github.io/versions/?id=1.21.5-rc2",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888808a9141ff55153f94f0&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c0fd0cb364cda4ec237b866deb806baca039385a",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/c0fd0cb364cda4ec237b866deb806baca039385a"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=P0XnPy_D5kQ"
+    },
+    "type": "RELEASE_CANDIDATE",
+    "next": "1.21.5",
+    "previous": "1.21.5-release-candidate-1"
+  },
+  {
+    "display_name": "1.21.5 - Release Candidate 1",
+    "id": "1.21.5-release-candidate-1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-1",
+    "changelog": "https://misode.github.io/versions/?id=1.21.5-rc1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880d2a1e8f4e4082113aa&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=8sPih4fHc-8"
+    },
+    "type": "RELEASE_CANDIDATE",
+    "next": "1.21.5-release-candidate-2",
+    "previous": "1.21.5-pre-release-3"
+  },
+  {
+    "display_name": "1.21.5 - Pre Release 3",
+    "id": "1.21.5-pre-release-3",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-3",
+    "changelog": "https://misode.github.io/versions/?id=1.21.5-pre3",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880ab9dbaee63d9910ec7&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/cd80d7caf9f23e1300c122d86ac02324866752e3",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/cd80d7caf9f23e1300c122d86ac02324866752e3"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=n7EG6ZbPZIs"
+    },
+    "type": "PRE_RELEASE",
+    "next": "1.21.5-release-candidate-1",
+    "previous": "1.21.5-pre-release-2"
+  },
+  {
+    "display_name": "1.21.5 - Pre Release 2",
+    "id": "1.21.5-pre-release-2",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-2",
+    "changelog": "https://misode.github.io/versions/?id=1.21.5-pre2",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888804ab174eca60f06cce2&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/1474888acbd85eef71e51b6fcad3c94c683ec20b",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/1474888acbd85eef71e51b6fcad3c94c683ec20b"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=9XeTq5sjlG0"
+    },
+    "type": "PRE_RELEASE",
+    "next": "1.21.5-pre-release-3",
+    "previous": "1.21.5-pre-release-1"
+  },
+  {
+    "display_name": "1.21.5 - Pre Release 1",
+    "id": "1.21.5-pre-release-1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-1",
+    "changelog": "https://misode.github.io/versions/?id=1.21.5-pre1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880c284edf23971e23a40&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/899a13de019fbed1d2c8d7e1e51930723b343e4f",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/899a13de019fbed1d2c8d7e1e51930723b343e4f"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=DIUd4fWkm3Y"
+    },
+    "type": "PRE_RELEASE",
+    "next": "1.21.5-pre-release-2",
+    "previous": "25w10a"
+  },
+  {
+    "id": "25w10a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w10a",
+    "changelog": "https://misode.github.io/versions/?id=25w10a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888014bfaad8ddf5fbc3fd&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9875521be8358c308c6cb4c512cc2e31250fce00",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/9875521be8358c308c6cb4c512cc2e31250fce00"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=cDnodfKQ5_s",
+      "pack": "https://www.youtube.com/watch?v=raSxpv8SJn8"
+    },
+    "type": "SNAPSHOT",
+    "next": "1.21.5-pre-release-1",
+    "previous": "25w09b"
+  },
+  {
+    "id": "25w09b",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w09b",
+    "changelog": "https://misode.github.io/versions/?id=25w09b",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880afbf30eb0ea90bc51c&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/4704ba3371d6e4991ff3c4c489d7d388dbb9d541",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/4704ba3371d6e4991ff3c4c489d7d388dbb9d541"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=SD6C2ZPHLYM"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w10a",
+    "previous": "25w09a"
+  },
+  {
+    "id": "25w09a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w09a",
+    "changelog": "https://misode.github.io/versions/?id=25w09a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880c08ea5c539402c9e65&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/7363452196fbfe1002d5549786717a566603c8ce",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/7363452196fbfe1002d5549786717a566603c8ce"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=6PK34Qpl5Lk",
+      "pack": "https://www.youtube.com/watch?v=E_NCyRsdX5g"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w09b",
+    "previous": "25w08a"
+  },
+  {
+    "id": "25w08a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w08a",
+    "changelog": "https://misode.github.io/versions/?id=25w08a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888029bcabfb4fa0808925&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9088716d6c9e892c5e7f3e0396726da7f39ad9f6",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/9088716d6c9e892c5e7f3e0396726da7f39ad9f6"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=owMWwa5nnKg",
+      "pack": "https://www.youtube.com/watch?v=Og1-oecZxzk"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w09a",
+    "previous": "25w07a"
+  },
+  {
+    "id": "25w07a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w07a",
+    "changelog": "https://misode.github.io/versions/?id=25w07a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880ba8b54db7fa26a37c6&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/19e7ee913c184700aa316b1753c9ed58428a580b",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/19e7ee913c184700aa316b1753c9ed58428a580b"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=qqIcucKqtDo",
+      "pack": "https://www.youtube.com/watch?v=fLYwRNBHXTM"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w08a",
+    "previous": "25w06a"
+  },
+  {
+    "id": "25w06a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w06a",
+    "changelog": "https://misode.github.io/versions/?id=25w06a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888800ab1e4f7cba5196502&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/eb667cead5093ec7f80422b1f21243c6003a30fb",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/eb667cead5093ec7f80422b1f21243c6003a30fb"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=HWCY0O1LVgU",
+      "pack": "https://www.youtube.com/watch?v=hGU8J7MMW3Q"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w07a",
+    "previous": "25w05a"
+  },
+  {
+    "id": "25w05a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w05a",
+    "changelog": "https://misode.github.io/versions/?id=25w05a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880c094f6ebda245594b5&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9ed1d6043cc03cb238cec685b73d8278d815608a",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/9ed1d6043cc03cb238cec685b73d8278d815608a"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=YENEOYKT_PI",
+      "pack": "https://www.youtube.com/watch?v=fsJKsxXXWvU"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w06a"
+  }
+]

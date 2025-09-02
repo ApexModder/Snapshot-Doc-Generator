@@ -1,9 +1,25 @@
 [
   {
+    "id": "25w36a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w36a",
+    "changelog": "https://misode.github.io/versions/?id=25w36a",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/219-or-22/primers/README.md",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2624f070f8888019a837e253c146c41f&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f23239ea40b6ad5199ca990a657040b07cf0ae35",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/f23239ea40b6ad5199ca990a657040b07cf0ae35"
+    },
+    "videos": {
+      "main": null,
+      "pack": null
+    },
+    "type": "SNAPSHOT",
+    "previous": "25w35a"
+  },
+  {
     "id": "25w35a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w35a",
     "changelog": "https://misode.github.io/versions/?id=25w35a",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/219-or-22/primers/README.md",
     "notion": "https://www.notion.so/apexmodder/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=25b4f070f888804cb9c3d923b69db2a3&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c",
@@ -14,6 +30,7 @@
       "pack": "https://www.youtube.com/watch?v=SiQESnoyoCQ"
     },
     "type": "SNAPSHOT",
+    "next": "25w36a",
     "previous": "25w34b"
   },
   {

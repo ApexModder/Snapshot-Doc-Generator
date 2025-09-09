@@ -11,7 +11,7 @@
     },
     "videos": {
       "main": "https://www.youtube.com/watch?v=x_TLVuM5FUM",
-      "pack": null
+      "pack": "https://www.youtube.com/watch?v=jDYmkVMtE9k"
     },
     "type": "SNAPSHOT",
     "previous": "25w36a"
@@ -27,7 +27,7 @@
     },
     "videos": {
       "main": "https://www.youtube.com/watch?v=x_TLVuM5FUM",
-      "pack": null
+      "pack": "https://www.youtube.com/watch?v=jDYmkVMtE9k"
     },
     "type": "SNAPSHOT",
     "next": "25w36b",

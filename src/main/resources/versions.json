@@ -1,10 +1,27 @@
 [
   {
+    "id": "1.21.9-pre-release-2",
+    "display_name": "1.21.9 - Pre Release 2",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-2",
+    "changelog": "https://misode.github.io/versions/?id=1.21.9-pre2",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/219-or-22/primers/1.21.9/index.md",
+    "notion":  "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2734f070f888805b8b08f6668256f779&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d89a937021ad6a364f7e7aab1bf9f3be08d232f9",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/9227cd8311deeabb438138822d1c24e6c59edbd0"
+    },
+    "videos": {
+      "main": null,
+      "pack": null
+    },
+    "type": "PRE_RELEASE",
+    "previous": "1.21.9-pre-release-1"
+  },
+  {
     "id": "1.21.9-pre-release-1",
     "display_name": "1.21.9 - Pre Release 1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.9-pre1",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/219-or-22/primers/1.21.9/index.md",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2704f070f888808abae6c8586904736a&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d2a70ff1cc5b80b0e6c94a702212661610694757",
@@ -15,6 +32,7 @@
       "pack": "https://www.youtube.com/watch?v=N7LPEbhNCtk"
     },
     "type": "PRE_RELEASE",
+    "next": "1.21.9-pre-release-2",
     "previous": "25w37a"
   },
   {

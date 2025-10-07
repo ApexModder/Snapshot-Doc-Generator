@@ -1,5 +1,22 @@
 [
   {
+    "display_name": "1.21.10 - Hotfix",
+    "id": "1.21.10",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10",
+    "changelog": "https://misode.github.io/versions/?id=1.21.10",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2804f070f88880daafd0f0ac17031757&pm=c",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6ec8db0e002a8837d924969e15e70e6cde81b4b7",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/1bf13262ccdd4ed0cb1d8bac9f437abe2dd5b0f3"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=IwOBOQydWD0",
+      "pack": null
+    },
+    "type": "RELEASE",
+    "previous": "1.21.10-release-candidate-1"
+  },
+  {
     "display_name": "1.21.10 - Release Candidate 1",
     "id": "1.21.10-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-10-release-candidate-1",
@@ -15,6 +32,7 @@
       "pack": null
     },
     "type": "RELEASE_CANDIDATE",
+    "next": "1.21.10",
     "previous": "1.21.9"
   },
   {

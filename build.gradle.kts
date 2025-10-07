@@ -40,6 +40,7 @@ repositories {
     mavenCentral()
     maven("https://maven.apexstudios.dev/releases")
     maven("https://maven.apexstudios.dev/private")
+    maven("https://libraries.minecraft.net")
 }
 
 dependencies {

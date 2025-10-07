@@ -1,10 +1,27 @@
 [
   {
+    "id": "1.21.9",
+    "display_name": "1.21.9 - Copper Age",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9",
+    "changelog": "https://misode.github.io/versions/?id=1.21.9",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/219-or-22/primers/1.21.9/index.md",
+    "notion":  "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2754f070f88880b4b4e3e4e5d98e5b33&pm=c",
+    "snowman": {
+      "forgecraft": "https://www.youtube.com/watch?v=sJdWQXbtSA8",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/cf8e953561315c86d91e68174bbd9163ebbacf9f"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=jcE-KOlGh_I",
+      "pack": null
+    },
+    "type": "RELEASE",
+    "previous": "1.21.9-release-candidate-1"
+  },
+  {
     "display_name": "1.21.9 - Release Candidate 1",
     "id": "1.21.9-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.9-rc1",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/219-or-22/primers/1.21.9/index.md",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2794f070f8888023b59bd08e9f8eca27&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ab5c6b2f2fe0f8e73bb8ba5b99e3832f516f2239",
@@ -15,6 +32,7 @@
       "pack": null
     },
     "type": "RELEASE_CANDIDATE",
+    "next": "1.21.9",
     "previous": "1.21.9-pre-release-4"
   },
   {

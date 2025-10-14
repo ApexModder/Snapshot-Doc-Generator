@@ -6,8 +6,8 @@
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=28c4f070f888800685f3e67cd0335b57&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/primer/2111-or-22/primers/1.22/index.md",
     "snowman": {
-      "forgecraft": null,
-      "neoforge": null
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c05fc2d20ef5aa448cb849a7924e9d5da60537b0",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/e294f9dba4fe4dd4d797472c4f4bb989fd010e7a"
     },
     "videos": {
       "main": null,

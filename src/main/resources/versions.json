@@ -7,31 +7,14 @@
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2af4f070f8888044940ce57e37fcc147&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/primer/2111-or-22/primers/1.22/index.md",
     "snowman": {
-      "forgecraft": null,
-      "neoforge": null
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/85aa20db3df1762ca25c36625fb96c6db6fd1235",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/269e814dda9001e2934a96cd8807399cb22a1d6e"
     },
     "videos": {
       "main": null,
       "pack": null
     },
     "type": "PRE_RELEASE",
-    "previous": "25w47a"
-  },
-  {
-    "id": "25w47a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w47a",
-    "changelog": "https://misode.github.io/versions/?id=25w47a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2af4f070f888805ab6d9d25d1d300f7f&pm=c",
-    "snowman": {
-      "forgecraft": null,
-      "neoforge": null
-    },
-    "videos": {
-      "main": null,
-      "pack": null
-    },
-    "type": "SNAPSHOT",
-    "next": "1.21.11-pre-release-1",
     "previous": "25w46a"
   },
   {
@@ -48,7 +31,7 @@
       "pack": null
     },
     "type": "SNAPSHOT",
-    "next": "25w47a",
+    "next": "1.21.11-pre-release-1",
     "previous": "25w45a"
   },
   {

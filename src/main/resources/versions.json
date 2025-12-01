@@ -1,11 +1,28 @@
 [
   {
+    "id": "1.21.11-pre-release-4",
+    "display_name": "1.21.11 - Pre Release 4",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-4",
+    "changelog": "https://misode.github.io/versions/?id=1.21.11-pre4",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2b64f070f888800b97b0e1ca65ad62d8&pm=c",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/primer/2111-or-22/primers/1.21.11/index.md",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2a0c4cde35daf0c06a365513056a942eea3a1ae",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/29450878a3b5544175d1d5158ae6d6fe6f11c962"
+    },
+    "videos": {
+      "main": null,
+      "pack": null
+    },
+    "type": "PRE_RELEASE",
+    "previous": "1.21.11-pre-release-3"
+  },
+  {
     "id": "1.21.11-pre-release-3",
     "display_name": "1.21.11 - Pre Release 3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-pre3",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2b64f070f888800b97b0e1ca65ad62d8&pm=c",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/primer/2111-or-22/primers/1.21.11/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/0888d9c69d08a3b0260f90cbab122c18450d2946",
       "neoforge": "https://github.com/neoforged/Snowman/commit/7f7ff44e9d3766b71a451730221e8ced1a86e5dd"
@@ -15,6 +32,7 @@
       "pack": null
     },
     "type": "PRE_RELEASE",
+    "next": "1.21.11-pre-release-4",
     "previous": "1.21.11-pre-release-2"
   },
   {

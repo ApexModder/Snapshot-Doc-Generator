@@ -14,7 +14,7 @@
       "main": "https://www.youtube.com/watch?v=j083J7kmeIk",
       "pack": null
     },
-    "type": "PRE_RELEASE",
+    "type": "RELEASE_CANDIDATE",
     "previous": "1.21.11-pre-release-5"
   },
   {

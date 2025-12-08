@@ -1,9 +1,26 @@
 [
   {
+    "id": "1.21.11-release-candidate-3",
+    "display_name": "1.21.11 - Release Candidate 3",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-3",
+    "changelog": "https://misode.github.io/versions/?id=1.21.11-rc3",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2c34f070f88880f89521c6c66d60fe09&pm=c",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/primer/2111-or-22/primers/1.21.11/index.md",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8e5ee5cf21067ac5e7be6a7d1ec8dfcdf18cb840",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/c8707743ad27c16911980f34716ec06c26082378"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=qc0iUNutF5E",
+      "pack": null
+    },
+    "type": "RELEASE_CANDIDATE",
+    "previous": "1.21.11-release-candidate-2"
+  },
+  {
     "id": "1.21.11-release-candidate-2",
     "display_name": "1.21.11 - Release Candidate 2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-2",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11-rc2",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2c04f070f88880eaa180d8f32d477a4b&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/primer/2111-or-22/primers/1.21.11/index.md",
     "snowman": {
@@ -15,6 +32,7 @@
       "pack": null
     },
     "type": "RELEASE_CANDIDATE",
+    "next": "1.21.11-release-candidate-3",
     "previous": "1.21.11-release-candidate-1"
   },
   {

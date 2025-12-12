@@ -12,7 +12,7 @@
     },
     "videos": {
       "main": "https://www.youtube.com/watch?v=Zqm0v3qaqG4",
-      "pack": null
+      "pack": "https://www.youtube.com/watch?v=5yY25GoWQhs"
     },
     "type": "RELEASE",
     "previous": "1.21.11-release-candidate-3"

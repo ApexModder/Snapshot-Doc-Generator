@@ -1,5 +1,22 @@
 [
   {
+    "display_name": "26.1 Snapshot 1",
+    "id": "26.1-snapshot-1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-1",
+    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2cb4f070f88880f68dd0def7c0fad125&pm=c",
+    "snowman": {
+      "forgecraft": null,
+      "neoforge": null
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=3TQ8ch8bN4A",
+      "pack": null
+    },
+    "type": "SNAPSHOT",
+    "previous": "1.21.11"
+  },
+  {
     "display_name": "1.21.11 - Mounts of Mayhem",
     "id": "1.21.11",
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11",
@@ -15,6 +32,7 @@
       "pack": "https://www.youtube.com/watch?v=5yY25GoWQhs"
     },
     "type": "RELEASE",
+    "next": "26.1-snapshot-1",
     "previous": "1.21.11-release-candidate-3"
   },
   {

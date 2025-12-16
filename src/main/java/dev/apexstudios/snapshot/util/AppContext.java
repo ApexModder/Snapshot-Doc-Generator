@@ -104,6 +104,10 @@ public final class AppContext {
     private static void validateVersionChain(AppContext context, Version version) {
         version.next().ifPresent(nextID -> validateVersionChain(context, version, Util.make(Sets::newHashSet, set -> set.add(version.id())), nextID, "next", Version::next));
         version.previous().ifPresent(previousID -> validateVersionChain(context, version, Util.make(Sets::newHashSet, set -> set.add(version.id())), previousID, "previous", Version::previous));
+
+        if(version.primer(context).isEmpty()) {
+            throw new IllegalStateException("Could not determine primer for verion '" + version.id() + "'");
+        }
     }
 
     private static void validateVersionChain(AppContext context, Version current, Set<String> chain, String otherID, String key, Function<Version, Optional<String>> itr) {

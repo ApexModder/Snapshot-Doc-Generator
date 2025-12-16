@@ -36,11 +36,10 @@ java {
 }
 
 repositories {
+    maven("https://maven.apexstudios.dev/proxy")
     gradlePluginPortal()
     mavenCentral()
-    maven("https://maven.apexstudios.dev/releases")
-    maven("https://maven.apexstudios.dev/private")
-    maven("https://libraries.minecraft.net")
+    // maven("https://libraries.minecraft.net")
 }
 
 dependencies {

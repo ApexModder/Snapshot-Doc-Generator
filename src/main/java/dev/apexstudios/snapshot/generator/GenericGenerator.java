@@ -9,7 +9,7 @@ final class GenericGenerator extends MarkdownGenerator {
     @Override
     public void generate(AppContext context, Version version, StringBuilder output) {
         heading(output, 1);
-        output.append(version.headerName());
+        output.append(version.displayName());
         newLine(output);
 
         newLine(output);
@@ -27,7 +27,7 @@ final class GenericGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
-        link(output, "Primer", version.primer(context), false);
+        link(output, "Primer", version.primer(context).orElseThrow(), false);
         newLine(output);
 
         listItem(output);

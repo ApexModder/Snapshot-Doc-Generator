@@ -27,7 +27,7 @@ final class GenericGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
-        link(output, "Primer", version.primer(context).orElseThrow(), false);
+        link(output, "Primer", version.primer(context), false);
         newLine(output);
 
         listItem(output);

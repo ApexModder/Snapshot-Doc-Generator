@@ -105,7 +105,7 @@ public final class AppContext {
         version.next().ifPresent(nextID -> validateVersionChain(context, version, Util.make(Sets::newHashSet, set -> set.add(version.id())), nextID, "next", Version::next));
         version.previous().ifPresent(previousID -> validateVersionChain(context, version, Util.make(Sets::newHashSet, set -> set.add(version.id())), previousID, "previous", Version::previous));
 
-        if(version.primer(context).isEmpty()) {
+        if(version.next().isPresent() && version.primer(context).isEmpty()) {
             throw new IllegalStateException("Could not determine primer for verion '" + version.id() + "'");
         }
     }

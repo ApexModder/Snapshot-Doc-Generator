@@ -1,11 +1,28 @@
 [
   {
+    "display_name": "26.1 Snapshot 3",
+    "id": "26.1-snapshot-3",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-3",
+    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-3",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2e74f070f88880c0a8f6f1de7e62c418&pm=c",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/267ca579ae98928beff4cbc7c3946c3516b3556b",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/267ca579ae98928beff4cbc7c3946c3516b3556b"
+    },
+    "videos": {
+      "main": null,
+      "pack": null
+    },
+    "type": "SNAPSHOT",
+    "previous": "26.1-snapshot-2"
+  },
+  {
     "display_name": "26.1 Snapshot 2",
     "id": "26.1-snapshot-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-2",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-2",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2e14f070f88880ec8dd7d172e6ba4e58&pm=c",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c75852363925125bdc02842fa03e93589b9dab82",
       "neoforge": "https://github.com/neoforged/Snowman/commit/c75852363925125bdc02842fa03e93589b9dab82"
@@ -15,6 +32,7 @@
       "pack": "https://www.youtube.com/watch?v=RzGvQBs-h-0"
     },
     "type": "SNAPSHOT",
+    "next": "26.1-snapshot-3",
     "previous": "26.1-snapshot-1"
   },
   {
@@ -23,7 +41,6 @@
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-1",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-1",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2cb4f070f88880f68dd0def7c0fad125&pm=c",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9e0b9a280d3c3531fd4520236172f944fe625812",
       "neoforge": "https://github.com/neoforged/Snowman/commit/9e0b9a280d3c3531fd4520236172f944fe625812"

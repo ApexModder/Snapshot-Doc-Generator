@@ -1,5 +1,23 @@
 [
   {
+    "display_name": "26.1 Snapshot 5",
+    "id": "26.1-snapshot-5",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-5",
+    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-5",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2f54f070f88880c08579ed403fd0d4bc&pm=c",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c14348a275c60e45552e626c4763bd107ed4bf24",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/c14348a275c60e45552e626c4763bd107ed4bf24"
+    },
+    "videos": {
+      "main": "https://www.youtube.com/watch?v=a8gPl8AIRz4",
+      "pack": "https://www.youtube.com/watch?v=ePEvmb1BLKY"
+    },
+    "type": "SNAPSHOT",
+    "previous": "26.1-snapshot-4"
+  },
+  {
     "display_name": "26.1 Snapshot 4",
     "id": "26.1-snapshot-4",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-4",
@@ -15,7 +33,8 @@
       "pack": "https://www.youtube.com/watch?v=Vc88sfOxfkI"
     },
     "type": "SNAPSHOT",
-    "previous": "26.1-snapshot-2"
+    "next": "26.1-snapshot-5",
+    "previous": "26.1-snapshot-3"
   },
   {
     "display_name": "26.1 Snapshot 3",

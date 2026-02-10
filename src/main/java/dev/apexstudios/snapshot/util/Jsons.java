@@ -21,12 +21,13 @@ public interface Jsons {
         map.put("id", 1);
         map.put("article", 2);
         map.put("changelog", 3);
-        map.put("primer", 4);
-        map.put("snowman", 5);
-        map.put("videos", 6);
-        map.put("type", 7);
-        map.put("next", 8);
-        map.put("previous", 9);
+        map.put("notion", 4);
+        map.put("primer", 5);
+        map.put("snowman", 6);
+        map.put("videos", 7);
+        map.put("type", 8);
+        map.put("next", 9);
+        map.put("previous", 10);
 
         map.put("forgecraft", 0);
         map.put("neoforge", 1);
@@ -34,7 +35,7 @@ public interface Jsons {
         map.put("main", 0);
         map.put("pack", 1);
 
-        map.defaultReturnValue(10);
+        map.defaultReturnValue(map.values().intStream().map(i -> i + 1).max().orElse(Integer.MAX_VALUE));
     });
 
     Comparator<String> KEY_COMPARATOR = Comparator.comparingInt(FIXED_ORDER_FIELDS);

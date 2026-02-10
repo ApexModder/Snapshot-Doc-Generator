@@ -65,9 +65,9 @@ jobs:
 
       - name: Generate Metadata Files
         run: | 
-          java -jar "${{ steps.download-jars.outputs.download-path }}/snapshotgen-${{ needs.generate-vars.outputs.version }}-all.jar"
-          -o output
-          -g generic,json,neoforge,forgecraft
+          java -jar "${{ steps.download-jars.outputs.download-path }}/snapshotgen-${{ needs.generate-vars.outputs.version }}-all.jar" \
+          -o output \
+          -g generic,json,neoforge,forgecraft \
           --all
 
       - name: Upload Generated Files

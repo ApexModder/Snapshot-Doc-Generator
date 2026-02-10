@@ -59,11 +59,6 @@ jobs:
           path: generated
           ref: generated
 
-      - name: Setup Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
       - name: Setup Java
         uses: ApexStudios-Dev/.github/actions/setup-java@master
         with:
@@ -84,6 +79,9 @@ jobs:
       - name: Commit Generated Files
         run: |
           cd generated/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
           git status
           
           if [ -n "$(git status --porcelain)" ]; then

@@ -1,9 +1,10 @@
-name: Generate Metadata Files
+name: Validate PR
 
 on:
-  push:
-    branches: [ 'master' ]
-    paths: [ 'src/**' ]
+  pull_request:
+    types:
+      - synchronize
+      - opened
 
 jobs:
   generate-vars:
@@ -47,15 +48,7 @@ jobs:
     name: Generate
     needs: [ generate-vars, build ]
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v6
-        with:
-          path: generated
-          ref: generated
-
       - name: Setup Java
         uses: ApexStudios-Dev/.github/actions/setup-java@master
         with:
@@ -73,16 +66,9 @@ jobs:
           -g generic,json,neoforge,forgecraft \
           --all
 
-      - name: Commit Generated Files
-        run: |
-          cd generated/
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          git status
-          
-          if [ -n "$(git status --porcelain)" ]; then
-            git add .
-            git commit -m "update generated files"
-            git push
-          fi
+      - name: Upload Generated Files
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated
+          path: generated
+          if-no-files-found: error

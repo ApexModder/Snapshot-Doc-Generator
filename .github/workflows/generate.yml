@@ -53,6 +53,16 @@ jobs:
     needs: [ generate-vars, build ]
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v6
+        with:
+          ref: generated
+
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Setup Java
         uses: ApexStudios-Dev/.github/actions/setup-java@master
         with:
@@ -66,13 +76,20 @@ jobs:
       - name: Generate Metadata Files
         run: | 
           java -jar "${{ steps.download-jars.outputs.download-path }}/snapshotgen-${{ needs.generate-vars.outputs.version }}-all.jar" \
-          -o output \
+          -o ./ \
           -g generic,json,neoforge,forgecraft \
           --all
 
-      - name: Upload Generated Files
-        uses: actions/upload-artifact@v4
-        with:
-          name: generated
-          path: output
-          if-no-files-found: error
+      - name: Check Local Changes Are Present
+        run: |
+          git status
+          if [ -n "$(git status --porcelain)" ]; then exit 1; fi
+
+      - name: Commit Generated Files
+        run: |
+          git status
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "update generated files"
+          fi

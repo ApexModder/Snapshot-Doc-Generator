@@ -1,0 +1,18 @@
+{
+    "display_name": "25w34b - Hotfix",
+    "id": "25w34b",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34a",
+    "changelog": "https://misode.github.io/versions/?id=25w34b",
+    "snowman": {
+        "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d",
+        "neoforge": "https://github.com/neoforged/Snowman/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=fCga6TTeAA4",
+        "pack": "https://www.youtube.com/watch?v=RX5VC-WTo7A"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w35a",
+    "previous": "25w34a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2544f070f888809abf45f7fb24dbdc80&pm=c"
+}

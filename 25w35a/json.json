@@ -1,0 +1,18 @@
+{
+    "display_name": "Snapshot 25w35a",
+    "id": "25w35a",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w35a",
+    "changelog": "https://misode.github.io/versions/?id=25w35a",
+    "snowman": {
+        "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c",
+        "neoforge": "https://github.com/neoforged/Snowman/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=tCVV004OceM",
+        "pack": "https://www.youtube.com/watch?v=SiQESnoyoCQ"
+    },
+    "type": "SNAPSHOT",
+    "next": "25w36a",
+    "previous": "25w34b",
+    "notion": "https://www.notion.so/apexmodder/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=25b4f070f888804cb9c3d923b69db2a3&pm=c"
+}

@@ -1,0 +1,17 @@
+{
+    "display_name": "1.21.5 - Release Candidate 1",
+    "id": "1.21.5-release-candidate-1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-1",
+    "changelog": "https://misode.github.io/versions/?id=1.21.5-rc1",
+    "snowman": {
+        "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be",
+        "neoforge": "https://github.com/neoforged/Snowman/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=8sPih4fHc-8"
+    },
+    "type": "RELEASE_CANDIDATE",
+    "next": "1.21.5-release-candidate-2",
+    "previous": "1.21.5-pre-release-3",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880d2a1e8f4e4082113aa&pm=c"
+}

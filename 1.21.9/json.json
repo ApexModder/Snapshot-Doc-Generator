@@ -1,0 +1,18 @@
+{
+    "display_name": "1.21.9 - Copper Age",
+    "id": "1.21.9",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9",
+    "changelog": "https://misode.github.io/versions/?id=1.21.9",
+    "primer": "https://docs.neoforged.net/primer/docs/1.21.9/",
+    "snowman": {
+        "forgecraft": "https://www.youtube.com/watch?v=sJdWQXbtSA8",
+        "neoforge": "https://github.com/neoforged/Snowman/commit/cf8e953561315c86d91e68174bbd9163ebbacf9f"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=jcE-KOlGh_I"
+    },
+    "type": "RELEASE",
+    "next": "1.21.10-release-candidate-1",
+    "previous": "1.21.9-release-candidate-1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2754f070f88880b4b4e3e4e5d98e5b33&pm=c"
+}

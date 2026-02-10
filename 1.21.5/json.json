@@ -1,0 +1,19 @@
+{
+    "display_name": "1.21.5 - Spring to Life",
+    "id": "1.21.5",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-5",
+    "changelog": "https://misode.github.io/versions/?id=1.21.5",
+    "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+    "snowman": {
+        "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ddf5d69f89444694f477416e74658d512acb7e7d",
+        "neoforge": "https://github.com/neoforged/Snowman/commit/ddf5d69f89444694f477416e74658d512acb7e7d"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=LcYGZuA7ev4",
+        "pack": "https://www.youtube.com/watch?v=V3nqaMukxf8"
+    },
+    "type": "RELEASE",
+    "next": "25w15a",
+    "previous": "1.21.5-release-candidate-2",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888032b6bdff55db11aa58&pm=c"
+}

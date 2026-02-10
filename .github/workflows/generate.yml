@@ -1,0 +1,88 @@
+name: Generate Metadata Files
+
+on:
+  push:
+    branches: [ 'master' ]
+    paths: [ 'src/**' ]
+
+jobs:
+  generate-vars:
+    name: Generate Vars
+    uses: ApexStudios-Dev/.github/.github/workflows/_generate-vars.yml@master
+    secrets: inherit
+    with:
+      use-self-runner: false
+
+  build:
+    name: Build
+    needs: generate-vars
+    runs-on: ${{ needs.generate-vars.outputs.runner }}
+    steps:
+      - name: Checkout Repository
+        uses: ApexStudios-Dev/.github/actions/checkout@master
+
+      - name: Setup Java
+        uses: ApexStudios-Dev/.github/actions/setup-java@master
+        with:
+          java-version: 21
+          java-vendor: temurin
+
+      - name: Setup Gradle
+        uses: ApexStudios-Dev/.github/actions/setup-gradle@master
+        with:
+          use-gradle-cache: true
+
+      - name: Build with Gradle
+        run: ./gradlew :build
+        env:
+          VERSION: ${{ needs.generate-vars.outputs.version }}
+
+      - name: Upload Jars
+        uses: actions/upload-artifact@v4
+        with:
+          path: build/libs
+          if-no-files-found: error
+
+  generate:
+    name: Generate
+    needs: [ generate-vars, build ]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v6
+        with:
+          path: generated
+          ref: generated
+
+      - name: Setup Java
+        uses: ApexStudios-Dev/.github/actions/setup-java@master
+        with:
+          java-version: 21
+          java-vendor: temurin
+
+      - name: Download Jars
+        id: download-jars
+        uses: actions/download-artifact@v5
+
+      - name: Generate Metadata Files
+        run: | 
+          java -jar "${{ steps.download-jars.outputs.download-path }}/snapshotgen-${{ needs.generate-vars.outputs.version }}-all.jar" \
+          -o generated/ \
+          -g generic,json,neoforge,forgecraft \
+          --all
+
+      - name: Commit Generated Files
+        run: |
+          cd generated/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git status
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "update generated files"
+            git push
+          fi

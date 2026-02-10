@@ -1,0 +1,74 @@
+name: Validate PR
+
+on:
+  pull_request:
+    types:
+      - synchronize
+      - opened
+
+jobs:
+  generate-vars:
+    name: Generate Vars
+    uses: ApexStudios-Dev/.github/.github/workflows/_generate-vars.yml@master
+    secrets: inherit
+    with:
+      use-self-runner: false
+
+  build:
+    name: Build
+    needs: generate-vars
+    runs-on: ${{ needs.generate-vars.outputs.runner }}
+    steps:
+      - name: Checkout Repository
+        uses: ApexStudios-Dev/.github/actions/checkout@master
+
+      - name: Setup Java
+        uses: ApexStudios-Dev/.github/actions/setup-java@master
+        with:
+          java-version: 21
+          java-vendor: temurin
+
+      - name: Setup Gradle
+        uses: ApexStudios-Dev/.github/actions/setup-gradle@master
+        with:
+          use-gradle-cache: true
+
+      - name: Build with Gradle
+        run: ./gradlew :build
+        env:
+          VERSION: ${{ needs.generate-vars.outputs.version }}
+
+      - name: Upload Jars
+        uses: actions/upload-artifact@v4
+        with:
+          path: build/libs
+          if-no-files-found: error
+
+  generate:
+    name: Generate
+    needs: [ generate-vars, build ]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Java
+        uses: ApexStudios-Dev/.github/actions/setup-java@master
+        with:
+          java-version: 21
+          java-vendor: temurin
+
+      - name: Download Jars
+        id: download-jars
+        uses: actions/download-artifact@v5
+
+      - name: Generate Metadata Files
+        run: | 
+          java -jar "${{ steps.download-jars.outputs.download-path }}/snapshotgen-${{ needs.generate-vars.outputs.version }}-all.jar" \
+          -o generated/ \
+          -g generic,json,neoforge,forgecraft \
+          --all
+
+      - name: Upload Generated Files
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated
+          path: generated
+          if-no-files-found: error

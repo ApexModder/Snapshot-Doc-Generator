@@ -52,6 +52,8 @@ jobs:
     name: Generate
     needs: [ generate-vars, build ]
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v6
@@ -77,6 +79,7 @@ jobs:
           --all
 
       - name: Commit Generated Files
+
         run: |
           cd generated/
           git config user.name "github-actions[bot]"

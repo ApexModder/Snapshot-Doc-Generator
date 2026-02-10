@@ -87,4 +87,5 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add .
             git commit -m "update generated files"
+            git push
           fi

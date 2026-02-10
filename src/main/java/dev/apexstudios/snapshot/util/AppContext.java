@@ -1,6 +1,8 @@
 package dev.apexstudios.snapshot.util;
 
+import com.google.common.collect.HashBasedTable;
 import com.google.common.collect.Sets;
+import com.google.common.collect.Table;
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;
 import com.mojang.serialization.Codec;
@@ -19,9 +21,11 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
+import java.util.Objects;
 import java.util.Optional;
 import java.util.Set;
 import java.util.function.Function;
+import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import org.jetbrains.annotations.Nullable;
 
@@ -63,10 +67,7 @@ public final class AppContext {
         return Util.make(() -> new AppContext(
                 outputDir,
                 versions
-        ), context -> {
-            versions.forEach(AppContext::validateVersion);
-            versions.forEach(version -> validateVersionChain(context, version));
-        });
+        ), AppContext::validateVersions);
     }
 
     private static List<Version> parseVersions(@Nullable File versionsJson) {
@@ -121,5 +122,92 @@ public final class AppContext {
 
         var itrVer = other.get();
         itr.apply(itrVer).ifPresent(itrID -> validateVersionChain(context, itrVer, chain, itrID, key, itr));
+    }
+
+    private static void validateVersions(AppContext context) {
+        context.versions().forEach(AppContext::validateVersion);
+        context.versions().forEach(version -> validateVersionChain(context, version));
+
+        var reversed = List.copyOf(context.versions());
+        reversed.reversed();
+
+        for(var a : context.versions()) {
+            for(var b : reversed) {
+                if(a != b) {
+                    validateUnique(a, b);
+                }
+            }
+        }
+    }
+
+    private static void validateUnique(Version a, Version b) {
+        var whitelist = HashBasedTable.<String, String, Set<String>>create();
+        whitelist.put("25w36a", "25w36b", Set.of("article", "videos.main", "videos.pack"));
+        whitelist.put("25w34b", "25w34a", Set.of("article", "videos.main", "videos.pack"));
+
+        validateUnique(a, b, Version::id, () -> "Duplicate version id: " + a.id());
+        validateUnique(a, b, Version::displayName, "display_name", whitelist);
+        validateUnique(a, b, Version::article, "article", whitelist);
+        validateUnique(a, b, Version::changelog, "changelog", whitelist);
+        validateUniqueOptional(a, b, Version::notion, "notion", whitelist);
+        validateUniqueOptional(a, b, version -> version.snowman().forgecraft(), "snowman.forgecraft", whitelist);
+        validateUniqueOptional(a, b, version -> version.snowman().neoforge(), "snowman.neoforge", whitelist);
+        validateUniqueOptional(a, b, version -> version.videos().main(), "videos.main", whitelist);
+        validateUniqueOptional(a, b, version -> version.videos().pack(), "videos.pack", whitelist);
+        validateUniqueOptional(a, b, Version::next, "next", whitelist);
+        validateUniqueOptional(a, b, Version::previous, "previous", whitelist);
+    }
+
+    private static String propertyError(Version a, Version b, String property) {
+        return "Versions " + a.id() + " / " + b.id() + " have duplicate '" + property + "' property";
+    }
+
+    private static boolean isWhitelisted(Version a, Version b, String property, Table<String, String, Set<String>> whitelist) {
+        var list = whitelist.get(a.id(), b.id());
+
+        if(list == null) {
+            list = whitelist.get(b.id(), a.id());
+        }
+
+        if(list == null || list.isEmpty()) {
+            return false;
+        }
+
+        return list.contains(property);
+    }
+
+    private static <T> void validateUnique(Version a, Version b, Function<Version, T> getter, String property, Table<String, String, Set<String>> whitelist) {
+        if(isWhitelisted(a, b, property, whitelist)) {
+            return;
+        }
+
+        validateUnique(a, b, getter, () -> propertyError(a, b, property));
+    }
+
+    private static <T> void validateUnique(Version a, Version b, Function<Version, T> getter, Supplier<String> error) {
+        validateUnique(getter.apply(a), getter.apply(b), error);
+    }
+
+    private static <T> void validateUniqueOptional(Version a, Version b, Function<Version, Optional<T>> getter, String property, Table<String, String, Set<String>> whitelist) {
+        if(isWhitelisted(a, b, property, whitelist)) {
+            return;
+        }
+
+        validateUniqueOptional(a, b, getter, () -> propertyError(a, b, property));
+    }
+
+    private static <T> void validateUniqueOptional(Version a, Version b, Function<Version, Optional<T>> getter, Supplier<String> error) {
+        var valA = getter.apply(a);
+        var valB = getter.apply(b);
+
+        if(valA.isPresent() && valB.isPresent()) {
+            validateUnique(valA.get(), valB.get(), error);
+        }
+    }
+
+    private static <T> void validateUnique(T a, T b, Supplier<String> error) {
+        if(Objects.equals(a, b)) {
+            throw new IllegalStateException(error.get());
+        }
     }
 }

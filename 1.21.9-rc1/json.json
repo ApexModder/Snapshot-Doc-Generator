@@ -3,6 +3,7 @@
     "id": "1.21.9-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.9-rc1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2794f070f8888023b59bd08e9f8eca27&pm=c",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ab5c6b2f2fe0f8e73bb8ba5b99e3832f516f2239",
         "neoforge": "https://github.com/neoforged/Snowman/commit/9857185387079527a8606cbaa4a587040e344fc5"
@@ -12,6 +13,5 @@
     },
     "type": "RELEASE_CANDIDATE",
     "next": "1.21.9",
-    "previous": "1.21.9-pre-release-4",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2794f070f8888023b59bd08e9f8eca27&pm=c"
+    "previous": "1.21.9-pre-release-4"
 }

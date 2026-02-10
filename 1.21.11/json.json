@@ -3,6 +3,7 @@
     "id": "1.21.11",
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11",
     "changelog": "https://misode.github.io/versions/?id=1.21.11",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2c44f070f8888055ad50c3fb70ba0284&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/primer/2111-or-22/primers/1.21.11/index.md",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c6967bc41398f6848393b6cce8cea606e5955e0d",
@@ -14,6 +15,5 @@
     },
     "type": "RELEASE",
     "next": "26.1-snapshot-1",
-    "previous": "1.21.11-release-candidate-3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2c44f070f8888055ad50c3fb70ba0284&pm=c"
+    "previous": "1.21.11-release-candidate-3"
 }

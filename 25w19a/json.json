@@ -3,6 +3,7 @@
     "id": "25w19a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w19a",
     "changelog": "https://misode.github.io/versions/?id=25w19a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880cabb56e9b1a0cb9a5c&pm=c",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46",
         "neoforge": "https://github.com/neoforged/Snowman/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46"
@@ -13,6 +14,5 @@
     },
     "type": "SNAPSHOT",
     "next": "25w20a",
-    "previous": "25w18a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880cabb56e9b1a0cb9a5c&pm=c"
+    "previous": "25w18a"
 }

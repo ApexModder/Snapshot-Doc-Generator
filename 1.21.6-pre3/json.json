@@ -3,6 +3,7 @@
     "id": "1.21.6-pre-release-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=1.21.6-pre3",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888064b6c1e656d9df6351&pm=c",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f7041ccea260573979ee0d74cf6aac261bb71c67",
         "neoforge": "https://github.com/neoforged/Snowman/commit/f7041ccea260573979ee0d74cf6aac261bb71c67"
@@ -12,6 +13,5 @@
     },
     "type": "PRE_RELEASE",
     "next": "1.21.6-pre-release-4",
-    "previous": "1.21.6-pre-release-2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888064b6c1e656d9df6351&pm=c"
+    "previous": "1.21.6-pre-release-2"
 }

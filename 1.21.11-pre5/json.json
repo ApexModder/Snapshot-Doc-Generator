@@ -3,12 +3,12 @@
     "id": "1.21.11-pre-release-5",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-5",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-pre5",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2be4f070f888802f9bddefd653bfca32&pm=c",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bca7cf25ae012064467180618d2b161d06ffbe91",
         "neoforge": "https://github.com/neoforged/Snowman/commit/5df8be572efaa818239145eb7c8d4734580d36f7"
     },
     "type": "PRE_RELEASE",
     "next": "1.21.11-release-candidate-1",
-    "previous": "1.21.11-pre-release-4",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2be4f070f888802f9bddefd653bfca32&pm=c"
+    "previous": "1.21.11-pre-release-4"
 }

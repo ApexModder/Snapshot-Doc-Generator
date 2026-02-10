@@ -3,6 +3,7 @@
     "id": "1.21.7-release-candidate-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-7-release-candidate-2",
     "changelog": "https://misode.github.io/versions/?id=1.21.7-rc2",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888082a708d037506a98b9&pm=c",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/116e8513bcb947f404c4142e55d96803cae31f12",
         "neoforge": "https://github.com/neoforged/Snowman/commit/116e8513bcb947f404c4142e55d96803cae31f12"
@@ -12,6 +13,5 @@
     },
     "type": "RELEASE_CANDIDATE",
     "next": "1.21.7",
-    "previous": "1.21.7-release-candidate-1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888082a708d037506a98b9&pm=c"
+    "previous": "1.21.7-release-candidate-1"
 }

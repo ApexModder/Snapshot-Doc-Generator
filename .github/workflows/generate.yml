@@ -56,6 +56,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v6
         with:
+          path: generated
           ref: generated
 
       - name: Setup Git
@@ -76,12 +77,13 @@ jobs:
       - name: Generate Metadata Files
         run: | 
           java -jar "${{ steps.download-jars.outputs.download-path }}/snapshotgen-${{ needs.generate-vars.outputs.version }}-all.jar" \
-          -o ./ \
+          -o generated/ \
           -g generic,json,neoforge,forgecraft \
           --all
 
       - name: Commit Generated Files
         run: |
+          cd generated/
           git status
           
           if [ -n "$(git status --porcelain)" ]; then

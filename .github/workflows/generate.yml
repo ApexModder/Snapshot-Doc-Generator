@@ -80,11 +80,6 @@ jobs:
           -g generic,json,neoforge,forgecraft \
           --all
 
-      - name: Check Local Changes Are Present
-        run: |
-          git status
-          if [ -n "$(git status --porcelain)" ]; then exit 1; fi
-
       - name: Commit Generated Files
         run: |
           git status

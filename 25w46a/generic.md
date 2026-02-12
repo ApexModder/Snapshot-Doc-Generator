@@ -5,7 +5,7 @@
 |  25w46a  |    SNAPSHOT    |  1.21.11-pre-release-1  |       25w45a       |
 
 ### Links
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/primer/2111-or-22/primers/1.21.11/index.md>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11/>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-snapshot-25w46a>
 - **Changelog**: <https://misode.github.io/versions/?id=25w46a>
 - **Notion**: <https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2a84f070f88880319495ecf29ae1c349&pm=c>

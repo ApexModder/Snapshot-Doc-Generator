@@ -5,7 +5,7 @@
 |  1.21.11-pre-release-2  |  PRE_RELEASE   |  1.21.11-pre-release-3  |  1.21.11-pre-release-1  |
 
 ### Links
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/primer/2111-or-22/primers/1.21.11/index.md>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11/>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-2>
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.11-pre2>
 - **Notion**: <https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2b24f070f888800d9ba1e74dacb04c5d&pm=c>

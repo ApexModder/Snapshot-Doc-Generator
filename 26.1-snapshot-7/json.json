@@ -10,7 +10,8 @@
         "neoforge": "https://github.com/neoforged/Snowman/commit/70df7cea5af6fa9db2aa26058ece5817587872ea"
     },
     "videos": {
-        "main": "https://www.youtube.com/watch?v=a6MpHtZohIg"
+        "main": "https://www.youtube.com/watch?v=a6MpHtZohIg",
+        "pack": "https://www.youtube.com/watch?v=Q_xXuAr8t94"
     },
     "type": "SNAPSHOT",
     "previous": "26.1-snapshot-6"

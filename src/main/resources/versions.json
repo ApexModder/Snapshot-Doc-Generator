@@ -1,11 +1,28 @@
 [
   {
+    "display_name": "26.1 Snapshot 8",
+    "id": "26.1-snapshot-8",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-8",
+    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-8",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=30a4f070f888803ca1e4f11b62fbcd0a&pm=c",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/82d6f33da9f31c96ea27818b3ab466fc7134c0fd",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/82d6f33da9f31c96ea27818b3ab466fc7134c0fd"
+    },
+    "videos": {
+      "main": null,
+      "pack": null
+    },
+    "type": "SNAPSHOT",
+    "previous": "26.1-snapshot-7"
+  },
+  {
     "display_name": "26.1 Snapshot 7",
     "id": "26.1-snapshot-7",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-7",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-7",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3034f070f8888083ba89c4a42fa91ffc&pm=c",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/70df7cea5af6fa9db2aa26058ece5817587872ea",
       "neoforge": "https://github.com/neoforged/Snowman/commit/70df7cea5af6fa9db2aa26058ece5817587872ea"
@@ -15,6 +32,7 @@
       "pack": "https://www.youtube.com/watch?v=Q_xXuAr8t94"
     },
     "type": "SNAPSHOT",
+    "next": "26.1-snapshot-8",
     "previous": "26.1-snapshot-6"
   },
   {

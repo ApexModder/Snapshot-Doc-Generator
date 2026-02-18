@@ -12,7 +12,7 @@
 
 ### SnowMan
 - **NeoForge**: <https://github.com/neoforged/Snowman/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe>
-- **ForgeCraft**: N/A
+- **ForgeCraft**: <https://github.com/forgecraft/minecraft-sources/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe>
 
 ### Update Videos
 - **Main**: N/A

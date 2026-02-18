@@ -4,7 +4,7 @@
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-9
 - **Changelog**: <https://misode.github.io/versions/?id=26.1-snapshot-9>
 - **Notion**: <https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=30b4f070f8888085ab59cbd93f3ccf2a&pm=c>
-- **SnowMan**: N/A
+- **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe>
 -# _Ping Mikey for access_
 
 **SlicedLimes Videos**:

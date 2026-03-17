@@ -1,8 +1,8 @@
 # 26.1 - Pre Release 2
 
-|          ID          |  Release Type  |  Next Version  |   Previous Version   |
-|:--------------------:|:--------------:|:--------------:|:--------------------:|
-|  26.1-pre-release-2  |  PRE_RELEASE   |      N/A       |  26.1-pre-release-1  |
+|          ID          |  Release Type  |     Next Version     |   Previous Version   |
+|:--------------------:|:--------------:|:--------------------:|:--------------------:|
+|  26.1-pre-release-2  |  PRE_RELEASE   |  26.1-pre-release-3  |  26.1-pre-release-1  |
 
 ### Links
 - **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md>

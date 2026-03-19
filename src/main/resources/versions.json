@@ -1,20 +1,37 @@
 [
   {
+    "display_name": "26.1 - Release Candidate 1",
+    "id": "26.1-release-candidate-1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-1",
+    "changelog": "https://misode.github.io/versions/?id=26.1-rc1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3284f070f88880c08698c15f90ae5f40&pm=c",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+    "snowman": {
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2f42ae4232f26161b4a07008c8104573e9acab3",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/4c9105d034a3bf9fdab7a8fd02b97aae3b553c56"
+    },
+    "videos": {
+      "main": null,
+      "pack": null
+    },
+    "type": "RELEASE_CANDIDATE",
+    "previous": "26.1-pre-release-3"
+  },
+  {
     "display_name": "26.1 - Pre Release 3",
     "id": "26.1-pre-release-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=26.1-pre3",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3264f070f88880afbadce050e5dc7c0f&pm=c",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/935700989716f4da0ebce7b187224ae3e38acf11",
       "neoforge": "https://github.com/neoforged/Snowman/commit/935700989716f4da0ebce7b187224ae3e38acf11"
     },
     "videos": {
-      "main": "https://www.youtube.com/watch?v=e8k3g3MO2kU",
-      "pack": null
+      "main": "https://www.youtube.com/watch?v=e8k3g3MO2kU"
     },
     "type": "PRE_RELEASE",
+    "next": "26.1-release-candidate-1",
     "previous": "26.1-pre-release-2"
   },
   {

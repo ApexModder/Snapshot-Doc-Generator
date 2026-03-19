@@ -4,7 +4,6 @@
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=26.1-pre3",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3264f070f88880afbadce050e5dc7c0f&pm=c",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/935700989716f4da0ebce7b187224ae3e38acf11",
         "neoforge": "https://github.com/neoforged/Snowman/commit/935700989716f4da0ebce7b187224ae3e38acf11"
@@ -13,5 +12,6 @@
         "main": "https://www.youtube.com/watch?v=e8k3g3MO2kU"
     },
     "type": "PRE_RELEASE",
+    "next": "26.1-release-candidate-1",
     "previous": "26.1-pre-release-2"
 }

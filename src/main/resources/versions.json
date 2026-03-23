@@ -3,7 +3,7 @@
     "display_name": "26.1 - Release Candidate 3",
     "id": "26.1-release-candidate-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-3",
-    "changelog": "https://misode.github.io/versions/?id=26.1-rc3",
+    "changelog": "https://misode.github.io/versions/?id=26.1-rc-3",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=32c4f070f88880dd9af7c4dc949c5501&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
@@ -21,7 +21,7 @@
     "display_name": "26.1 - Release Candidate 2",
     "id": "26.1-release-candidate-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-2",
-    "changelog": "https://misode.github.io/versions/?id=26.1-rc2",
+    "changelog": "https://misode.github.io/versions/?id=26.1-rc-2",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3294f070f88880eebc16e128599a2dd3&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6cd67428324c905330fa0cb1717200749c9e2561",
@@ -35,7 +35,7 @@
     "display_name": "26.1 - Release Candidate 1",
     "id": "26.1-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=26.1-rc1",
+    "changelog": "https://misode.github.io/versions/?id=26.1-rc-1",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3284f070f88880c08698c15f90ae5f40&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2f42ae4232f26161b4a07008c8104573e9acab3",
@@ -49,7 +49,7 @@
     "display_name": "26.1 - Pre Release 3",
     "id": "26.1-pre-release-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3",
-    "changelog": "https://misode.github.io/versions/?id=26.1-pre3",
+    "changelog": "https://misode.github.io/versions/?id=26.1-pre-3",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3264f070f88880afbadce050e5dc7c0f&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/935700989716f4da0ebce7b187224ae3e38acf11",
@@ -66,7 +66,7 @@
     "display_name": "26.1 - Pre Release 2",
     "id": "26.1-pre-release-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-2",
-    "changelog": "https://misode.github.io/versions/?id=26.1-pre2",
+    "changelog": "https://misode.github.io/versions/?id=26.1-pre-2",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3224f070f8888084b7a9e46bbff145f7&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/99c90ca244d9079dfde29232d212361d03b61326",
@@ -83,7 +83,7 @@
     "display_name": "26.1 - Pre Release 1",
     "id": "26.1-pre-release-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-1",
-    "changelog": "https://misode.github.io/versions/?id=26.1-pre1",
+    "changelog": "https://misode.github.io/versions/?id=26.1-pre-1",
     "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=31f4f070f88880a08d10e21a858f290b&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/97465eb64d68b2ac6238f767ceb7041f72f500d6",

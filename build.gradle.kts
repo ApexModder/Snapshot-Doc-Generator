@@ -36,7 +36,7 @@ java {
 }
 
 repositories {
-    maven("https://maven.apexstudios.dev/proxy")
+    maven("https://maven.apexmodder.com/proxy")
     gradlePluginPortal()
     mavenCentral()
     // maven("https://libraries.minecraft.net")

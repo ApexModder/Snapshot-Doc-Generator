@@ -1,0 +1,14 @@
+{
+    "display_name": "26.1 - Tiny Takeover",
+    "id": "26.1",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1",
+    "changelog": "https://misode.github.io/versions/?id=26.1",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=32c4f070f888807fa951d2171663cec5&pm=c",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+    "snowman": {
+        "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a60d071c7ddc89b3787a5a261f53aa02f12974c4",
+        "neoforge": "https://github.com/neoforged/Snowman/commit/a60d071c7ddc89b3787a5a261f53aa02f12974c4"
+    },
+    "type": "RELEASE",
+    "previous": "26.1-release-candidate-3"
+}

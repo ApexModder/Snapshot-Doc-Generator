@@ -2,7 +2,7 @@
 
 |             ID             |    Release Type     |  Next Version  |      Previous Version      |
 |:--------------------------:|:-------------------:|:--------------:|:--------------------------:|
-|  26.1-release-candidate-3  |  RELEASE_CANDIDATE  |      N/A       |  26.1-release-candidate-2  |
+|  26.1-release-candidate-3  |  RELEASE_CANDIDATE  |      26.1      |  26.1-release-candidate-2  |
 
 ### Links
 - **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md>

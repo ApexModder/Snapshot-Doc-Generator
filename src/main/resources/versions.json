@@ -12,7 +12,8 @@
     },
     "videos": {
       "main": "https://www.youtube.com/watch?v=8wqIYgk-uD0",
-      "pack": "https://www.youtube.com/watch?v=UCZxN8Snfig"
+      "pack": "https://www.youtube.com/watch?v=UCZxN8Snfig",
+      "resource": "https://www.youtube.com/watch?v=XM-o2E5DhvA"
     },
     "type": "RELEASE",
     "previous": "26.1-release-candidate-3"

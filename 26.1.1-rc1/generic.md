@@ -15,5 +15,5 @@
 - **ForgeCraft**: <https://github.com/forgecraft/minecraft-sources/commit/b97e334158419e089da2ca8c809e7e30b03a45a1>
 
 ### Update Videos
-- **Main**: N/A
+- **Main**: <https://www.youtube.com/watch?v=mjFo9nMD5Vo>
 - **Resource/Data Pack**: N/A

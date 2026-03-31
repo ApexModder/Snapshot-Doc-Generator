@@ -14,5 +14,6 @@
         "pack": "https://www.youtube.com/watch?v=UCZxN8Snfig"
     },
     "type": "RELEASE",
+    "next": "26.1.1-release-candidate-1",
     "previous": "26.1-release-candidate-3"
 }

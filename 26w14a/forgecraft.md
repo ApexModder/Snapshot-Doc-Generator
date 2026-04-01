@@ -4,7 +4,7 @@
 - **Article**: https://www.minecraft.net/en-us/article/the-herdcraft-update
 - **Changelog**: <https://misode.github.io/versions/?id=26w14a>
 - **Notion**: <https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3354f070f88880e7a421e1e2d581968c&pm=c>
-- **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/dc49106dd5576a9ceb4dd4c08eed9e90b1aa1442>
+- **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/92ce49795a08824d15223b2161b9798f1b80d6ea>
 -# _Ping Mikey for access_
 
 **SlicedLimes Videos**:

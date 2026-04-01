@@ -11,8 +11,8 @@
 - **Notion**: <https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3354f070f88880e7a421e1e2d581968c&pm=c>
 
 ### SnowMan
-- **NeoForge**: <https://github.com/neoforged/Snowman/commit/545902a3bec3efe5a35eb22609bb0620cd58de6a>
-- **ForgeCraft**: <https://github.com/forgecraft/minecraft-sources/commit/dc49106dd5576a9ceb4dd4c08eed9e90b1aa1442>
+- **NeoForge**: <https://github.com/neoforged/Snowman/commit/4c979212ec73069a3d9e1cb8e978f2208396713e>
+- **ForgeCraft**: <https://github.com/forgecraft/minecraft-sources/commit/92ce49795a08824d15223b2161b9798f1b80d6ea>
 
 ### Update Videos
 - **Main**: N/A

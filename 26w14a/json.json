@@ -1,0 +1,14 @@
+{
+    "display_name": "26w14a - HerdCraft",
+    "id": "26w14a",
+    "article": "https://www.minecraft.net/en-us/article/the-herdcraft-update",
+    "changelog": "https://misode.github.io/versions/?id=26w14a",
+    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3354f070f88880e7a421e1e2d581968c&pm=c",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+    "snowman": {
+        "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/dc49106dd5576a9ceb4dd4c08eed9e90b1aa1442",
+        "neoforge": "https://github.com/neoforged/Snowman/commit/545902a3bec3efe5a35eb22609bb0620cd58de6a"
+    },
+    "type": "APRIL_FOOLS",
+    "previous": "26.1"
+}

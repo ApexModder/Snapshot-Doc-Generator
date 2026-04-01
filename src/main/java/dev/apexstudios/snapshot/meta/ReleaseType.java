@@ -9,7 +9,8 @@ public enum ReleaseType {
     RELEASE(UnaryOperator.identity()),
     RELEASE_CANDIDATE(id -> StringUtils.replace(id, "release-candidate-", "rc")),
     PRE_RELEASE(id -> StringUtils.replace(id, "pre-release-", "pre")),
-    SNAPSHOT(UnaryOperator.identity());
+    SNAPSHOT(UnaryOperator.identity()),
+    APRIL_FOOLS(UnaryOperator.identity());
 
     public static final Codec<ReleaseType> CODEC = Codecs.forEnum(ReleaseType.class);
 

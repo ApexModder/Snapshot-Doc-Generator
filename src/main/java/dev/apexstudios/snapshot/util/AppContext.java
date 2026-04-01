@@ -17,6 +17,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.nio.file.Path;
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
@@ -128,8 +129,8 @@ public final class AppContext {
         context.versions().forEach(AppContext::validateVersion);
         context.versions().forEach(version -> validateVersionChain(context, version));
 
-        var reversed = List.copyOf(context.versions());
-        reversed.reversed();
+        var reversed = new ArrayList<>(context.versions());
+        Collections.reverse(reversed);
 
         for(var a : context.versions()) {
             for(var b : reversed) {
@@ -145,17 +146,35 @@ public final class AppContext {
         whitelist.put("25w36a", "25w36b", Set.of("article", "videos.main", "videos.pack"));
         whitelist.put("25w34b", "25w34a", Set.of("article", "videos.main", "videos.pack"));
 
-        validateUnique(a, b, Version::id, () -> "Duplicate version id: " + a.id());
-        validateUnique(a, b, Version::displayName, "display_name", whitelist);
-        validateUnique(a, b, Version::article, "article", whitelist);
-        validateUnique(a, b, Version::changelog, "changelog", whitelist);
-        validateUniqueOptional(a, b, Version::notion, "notion", whitelist);
-        validateUniqueOptional(a, b, version -> version.snowman().forgecraft(), "snowman.forgecraft", whitelist);
-        validateUniqueOptional(a, b, version -> version.snowman().neoforge(), "snowman.neoforge", whitelist);
-        validateUniqueOptional(a, b, version -> version.videos().main(), "videos.main", whitelist);
-        validateUniqueOptional(a, b, version -> version.videos().pack(), "videos.pack", whitelist);
-        validateUniqueOptional(a, b, Version::next, "next", whitelist);
-        validateUniqueOptional(a, b, Version::previous, "previous", whitelist);
+        Throwable thrown = null;
+
+        thrown = validate(thrown, () -> validateUnique(a, b, Version::id, () -> "Duplicate version id: " + a.id()));
+        thrown = validate(thrown, () -> validateUnique(a, b, Version::displayName, "display_name", whitelist));
+        thrown = validate(thrown, () -> validateUnique(a, b, Version::article, "article", whitelist));
+        thrown = validate(thrown, () -> validateUnique(a, b, Version::changelog, "changelog", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, Version::notion, "notion", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.snowman().forgecraft(), "snowman.forgecraft", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.snowman().neoforge(), "snowman.neoforge", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.videos().main(), "videos.main", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.videos().pack(), "videos.pack", whitelist));
+
+        if(thrown != null) {
+            throw new RuntimeException("Failed to validate versions '" + a.id() + "' and '" + b.id() + "'", thrown);
+        }
+    }
+
+    private static @Nullable Throwable validate(@Nullable Throwable err, Runnable validator) {
+        try {
+            validator.run();
+        } catch (Throwable t) {
+            if(err == null) {
+                return t;
+            } else {
+                err.addSuppressed(t);
+            }
+        }
+
+        return err;
     }
 
     private static String propertyError(Version a, Version b, String property) {

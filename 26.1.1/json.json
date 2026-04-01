@@ -9,6 +9,9 @@
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d2920a647525f68855161083756bac13e2f247a0",
         "neoforge": "https://github.com/neoforged/Snowman/commit/d6ab32ecb2efdd1b8522aa3949ce94605e7951df"
     },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=HqwNepcqAd4"
+    },
     "type": "RELEASE",
     "previous": "26.1.1-release-candidate-1"
 }

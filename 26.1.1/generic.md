@@ -1,8 +1,8 @@
 # 26.1.1 - Hotfix
 
-|    ID    |  Release Type  |  Next Version  |       Previous Version       |
-|:--------:|:--------------:|:--------------:|:----------------------------:|
-|  26.1.1  |    RELEASE     |      N/A       |  26.1.1-release-candidate-1  |
+|    ID    |  Release Type  |   Next Version    |       Previous Version       |
+|:--------:|:--------------:|:-----------------:|:----------------------------:|
+|  26.1.1  |    RELEASE     |  26.2-snapshot-1  |  26.1.1-release-candidate-1  |
 
 ### Links
 - **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md>

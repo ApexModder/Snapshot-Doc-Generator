@@ -10,10 +10,6 @@
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/92ce49795a08824d15223b2161b9798f1b80d6ea",
       "neoforge": "https://github.com/neoforged/Snowman/commit/4c979212ec73069a3d9e1cb8e978f2208396713e"
     },
-    "videos": {
-      "main": null,
-      "pack": null
-    },
     "type": "APRIL_FOOLS",
     "previous": "26.1"
   },
@@ -29,8 +25,7 @@
       "neoforge": "https://github.com/neoforged/Snowman/commit/d6ab32ecb2efdd1b8522aa3949ce94605e7951df"
     },
     "videos": {
-      "main": "https://www.youtube.com/watch?v=HqwNepcqAd4",
-      "pack": null
+      "main": "https://www.youtube.com/watch?v=HqwNepcqAd4"
     },
     "type": "RELEASE",
     "previous": "26.1.1-release-candidate-1"
@@ -46,8 +41,7 @@
       "neoforge": "https://github.com/neoforged/Snowman/commit/729991d8096a4201c127ae4ae1a5ee0b6ad4b257"
     },
     "videos": {
-      "main": "https://www.youtube.com/watch?v=mjFo9nMD5Vo",
-      "pack": null
+      "main": "https://www.youtube.com/watch?v=mjFo9nMD5Vo"
     },
     "type": "RELEASE_CANDIDATE",
     "next": "26.1.1",

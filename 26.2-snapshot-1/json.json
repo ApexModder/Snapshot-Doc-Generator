@@ -9,5 +9,6 @@
         "neoforge": "https://github.com/neoforged/Snowman/commit/80d71c9c7e96c72906fb4836362fc90151a40305"
     },
     "type": "SNAPSHOT",
+    "next": "26.2-snapshot-2",
     "previous": "26.1.1"
 }

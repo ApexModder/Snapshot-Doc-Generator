@@ -13,5 +13,6 @@
         "main": "https://www.youtube.com/watch?v=F-Qmu5tKIsI"
     },
     "type": "SNAPSHOT",
+    "next": "26.2-snapshot-3",
     "previous": "26.2-snapshot-1"
 }

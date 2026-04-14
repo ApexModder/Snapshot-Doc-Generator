@@ -9,6 +9,9 @@
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3674fc8e63de2b59b018f6bba00bed5db36d315b",
         "neoforge": "https://github.com/neoforged/Snowman/commit/e7f33df5ad981dd3cef42d63e0ad1e052e6bc204"
     },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=yXBeZqfkXas"
+    },
     "type": "SNAPSHOT",
     "previous": "26.2-snapshot-2"
 }

@@ -23,7 +23,7 @@ public final class Generator {
     public void generate(AppContext context, Version version) {
         try {
             Main.LOGGER.info("Running generator: '{}'", id);
-            var outputDir = context.outputDir().resolve(version.shortHand());
+            var outputDir = context.outputDir().resolve(version.id());
             var outputFile = outputDir.resolve(id + ext);
             var output = generator.generate(context, version);
 

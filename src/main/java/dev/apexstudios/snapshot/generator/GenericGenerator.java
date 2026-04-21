@@ -16,8 +16,6 @@ final class GenericGenerator extends MarkdownGenerator {
         table(output, Util.make(Maps::newLinkedHashMap, table -> {
             table.put("ID", version.id());
             table.put("Release Type", version.type().toString());
-            table.put("Next Version", version.next().orElse("N/A"));
-            table.put("Previous Version", version.previous().orElse("N/A"));
         }));
         newLine(output);
 
@@ -27,7 +25,7 @@ final class GenericGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
-        link(output, "Primer", version.primer(context), false);
+        link(output, "Primer", version.metadata().primer(), false);
         newLine(output);
 
         listItem(output);
@@ -44,11 +42,11 @@ final class GenericGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
-        link(output, "NeoForge", version.snowman().neoforge(), false);
+        link(output, "NeoForge", version.snowman(false), false);
         newLine(output);
 
         listItem(output);
-        link(output, "ForgeCraft", version.snowman().forgecraft(), false);
+        link(output, "ForgeCraft", version.snowman(true), false);
         newLine(output);
 
         newLine(output);
@@ -57,34 +55,10 @@ final class GenericGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
-        link(output, "Main", version.videos().main(), false);
+        link(output, "Main", version.video(true), false);
         newLine(output);
 
         listItem(output);
-        link(output, "Resource/Data Pack", version.videos().pack(), false);
+        link(output, "Resource/Data Pack", version.video(false), false);
     }
-
-    /*
-    List.of(
-                version.header(),
-                "",
-                "| ID | Release Type | Next Version | Previous Version |",
-                "|:---:|:---:|:---:|:---:|",
-                "| " + version.id() + " | " + version.type() + " | " + version.next().orElse("N/A") + " | " + version.previous().orElse("N/A") + " |",
-                "",
-                "### Links",
-                "- " + link("Primer", version.primer(), false),
-                "- " + link("Article", version.article(), false),
-                "- " + link("Changelog", version.changelog(), false),
-                "- " + link(" Notion", version.notion(), false),
-                "",
-                "### Update Videos",
-                "- " + link("Main", version.videos().main(), false),
-                "- " + link("Resource/Data Pack", version.videos().pack(), false),
-                "",
-                "### Snowman",
-                "- " + link("NeoForge", version.snowman().neoforge(), false),
-                "- " + link("ForgeCraft", version.snowman().forgecraft(), false)
-        )
-     */
 }

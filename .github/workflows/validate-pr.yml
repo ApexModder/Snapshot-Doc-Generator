@@ -64,7 +64,8 @@ jobs:
           java -jar "${{ steps.download-jars.outputs.download-path }}/snapshotgen-${{ needs.generate-vars.outputs.version }}-all.jar" \
           -o generated/ \
           -g generic,json,neoforge,forgecraft \
-          --all
+          --all \
+          --fresh
 
       - name: Upload Generated Files
         uses: actions/upload-artifact@v4

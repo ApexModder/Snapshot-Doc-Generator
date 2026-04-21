@@ -1,14 +1,12 @@
 package dev.apexstudios.snapshot.util;
 
 import com.google.common.collect.HashBasedTable;
-import com.google.common.collect.Sets;
 import com.google.common.collect.Table;
 import com.google.gson.Gson;
-import com.google.gson.JsonElement;
-import com.mojang.serialization.Codec;
-import com.mojang.serialization.DataResult;
+import com.google.gson.JsonObject;
 import com.mojang.serialization.JsonOps;
 import dev.apexstudios.snapshot.Main;
+import dev.apexstudios.snapshot.meta.MetaData;
 import dev.apexstudios.snapshot.meta.ReleaseType;
 import dev.apexstudios.snapshot.meta.Version;
 import java.io.File;
@@ -20,6 +18,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
@@ -89,46 +88,20 @@ public final class AppContext {
     }
 
     private static List<Version> parseVersions(InputStream stream) throws IOException {
-        var singleList = Version.CODEC.flatComapMap(Collections::singletonList, versions -> versions.size() == 1 ? DataResult.success(versions.getFirst()) : DataResult.error(() -> "Expected list of size 1!"));
-        var listCodec = Codec.withAlternative(Version.CODEC.listOf(), singleList);
-
         try(var reader = new InputStreamReader(stream)) {
-            var json = new Gson().fromJson(reader, JsonElement.class);
-            return listCodec.decode(JsonOps.INSTANCE, json).getOrThrow().getFirst();
+            var json = new Gson().fromJson(reader, JsonObject.class);
+            var versions = new LinkedList<Version>();
+
+            for(var id : json.keySet()) {
+                var meta = MetaData.CODEC.decode(JsonOps.INSTANCE, json.get(id)).getOrThrow().getFirst();
+                versions.add(new Version(id, meta));
+            }
+
+            return versions;
         }
-    }
-
-    private static void validateVersion(Version version) {
-        if(version.next().isEmpty() && version.previous().isEmpty())
-            throw new IllegalStateException("Version: '" + version.id() + "' must have either 'next' or 'previous' property");
-    }
-
-    private static void validateVersionChain(AppContext context, Version version) {
-        version.next().ifPresent(nextID -> validateVersionChain(context, version, Util.make(Sets::newHashSet, set -> set.add(version.id())), nextID, "next", Version::next));
-        version.previous().ifPresent(previousID -> validateVersionChain(context, version, Util.make(Sets::newHashSet, set -> set.add(version.id())), previousID, "previous", Version::previous));
-
-        if(version.next().isPresent() && version.primer(context).isEmpty()) {
-            throw new IllegalStateException("Could not determine primer for verion '" + version.id() + "'");
-        }
-    }
-
-    private static void validateVersionChain(AppContext context, Version current, Set<String> chain, String otherID, String key, Function<Version, Optional<String>> itr) {
-        if(!chain.add(otherID))
-            throw new IllegalStateException("Version '" + current.id() + "' has circular '" + key + "' property");
-
-        var other = context.findVersion(otherID);
-
-        if(other.isEmpty())
-            throw new IllegalStateException("Version '" + current.id() + "' specified '" + key + "' as '" + otherID + "' but no version could be found");
-
-        var itrVer = other.get();
-        itr.apply(itrVer).ifPresent(itrID -> validateVersionChain(context, itrVer, chain, itrID, key, itr));
     }
 
     private static void validateVersions(AppContext context) {
-        context.versions().forEach(AppContext::validateVersion);
-        context.versions().forEach(version -> validateVersionChain(context, version));
-
         var reversed = new ArrayList<>(context.versions());
         Collections.reverse(reversed);
 
@@ -137,6 +110,21 @@ public final class AppContext {
                 if(a != b) {
                     validateUnique(a, b);
                 }
+            }
+
+            var hasDrop = a.metadata().drop().isPresent();
+            var isRelease = a.type() == ReleaseType.RELEASE;
+
+            if(isRelease && !hasDrop) {
+                throw new IllegalStateException("Version '" + a.id() + "' is missing 'drop' property");
+            }
+
+            if(!isRelease && hasDrop) {
+                if(a.id().equals("26w14a")) {
+                    continue;
+                }
+
+                throw new IllegalStateException("Version '" + a.id() + "' has invalid 'drop' property");
             }
         }
     }
@@ -149,13 +137,11 @@ public final class AppContext {
         Throwable thrown = null;
 
         thrown = validate(thrown, () -> validateUnique(a, b, Version::id, () -> "Duplicate version id: " + a.id()));
-        thrown = validate(thrown, () -> validateUnique(a, b, Version::displayName, "display_name", whitelist));
-        thrown = validate(thrown, () -> validateUnique(a, b, Version::article, "article", whitelist));
-        thrown = validate(thrown, () -> validateUnique(a, b, Version::changelog, "changelog", whitelist));
-        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.snowman().forgecraft(), "snowman.forgecraft", whitelist));
-        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.snowman().neoforge(), "snowman.neoforge", whitelist));
-        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.videos().main(), "videos.main", whitelist));
-        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.videos().pack(), "videos.pack", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.metadata().articleOverride(), "article_override", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.snowman(true), "snowman.forgecraft", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.snowman(false), "snowman.neoforge", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.video(true), "videos.main", whitelist));
+        thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.video(false), "videos.pack", whitelist));
 
         if(thrown != null) {
             throw new RuntimeException("Failed to validate versions '" + a.id() + "' and '" + b.id() + "'", thrown);

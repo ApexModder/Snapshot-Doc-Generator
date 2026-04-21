@@ -12,6 +12,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import joptsimple.OptionParser;
 import joptsimple.util.PathConverter;
+import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -25,6 +26,7 @@ public class Main {
         var listSpec = parser.acceptsAll(List.of("list", "l"), "List all known versions");
         var versionSpec = parser.acceptsAll(List.of("version", "v"), "Version id to process").withRequiredArg();
         var outputDirSpec = parser.acceptsAll(List.of("out", "o"), "Directory to store generated files").withRequiredArg().withValuesConvertedBy(new PathConverter()).defaultsTo(Path.of("out"));
+        var freshRunSpec = parser.acceptsAll(List.of("fresh", "f"), "Clean out output directory before running");
         var generatorSpec = parser.acceptsAll(List.of("generator", "g"), "Generator type to run").withRequiredArg().defaultsTo("generic").withValuesSeparatedBy(',');
         var allSpec = parser.accepts("all", "Generate all known versions");
 
@@ -62,6 +64,11 @@ public class Main {
             return;
         }
 
+        if(options.has(freshRunSpec)) {
+            LOGGER.info("Cleaning output directory: '{}'", context.outputDir());
+            FileUtils.deleteDirectory(context.outputDir().toFile());
+        }
+
         var generators = options.valuesOf(generatorSpec).stream().map(Generator::valueOf).collect(Collectors.toSet());
 
         toProcess.forEach(version -> {
@@ -80,7 +87,8 @@ public class Main {
                 .ifPresentOrElse(toProcess::add, () -> unknownVersions.add(id))
         );
 
-        if(all)
+        if(all) {
             toProcess.addAll(context.versions());
+        }
     }
 }

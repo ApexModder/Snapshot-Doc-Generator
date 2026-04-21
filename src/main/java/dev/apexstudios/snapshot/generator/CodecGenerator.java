@@ -1,6 +1,7 @@
 package dev.apexstudios.snapshot.generator;
 
 import com.mojang.serialization.DynamicOps;
+import dev.apexstudios.snapshot.meta.MetaData;
 import dev.apexstudios.snapshot.meta.Version;
 import dev.apexstudios.snapshot.util.AppContext;
 import dev.apexstudios.snapshot.util.Codecs;
@@ -9,7 +10,7 @@ import java.io.IOException;
 public abstract class CodecGenerator<T> implements IGenerator {
     @Override
     public String generate(AppContext context, Version version) throws IOException {
-        return generate(context, Codecs.encode(dynamicOps(), Version.CODEC, version));
+        return generate(context, Codecs.encode(dynamicOps(), MetaData.CODEC, version.metadata()));
     }
 
     protected abstract DynamicOps<T> dynamicOps();

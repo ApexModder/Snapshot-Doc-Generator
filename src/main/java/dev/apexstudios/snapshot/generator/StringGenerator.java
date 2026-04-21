@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public abstract class StringGenerator implements IGenerator {
     @Override
-    public String generate(AppContext context,Version version) throws IOException {
+    public String generate(AppContext context, Version version) throws IOException {
         var output = new StringBuilder();
         generate(context, version, output);
         return output.toString();

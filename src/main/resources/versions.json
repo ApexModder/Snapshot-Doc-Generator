@@ -1,1480 +1,940 @@
-[
-  {
-    "display_name": "26.2 Snapshot 4",
-    "id": "26.2-snapshot-4",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-4",
-    "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-4",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port%2F26.2/primers/26.2/index.md",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a43a04a720cace4ea5a52e3423af35f869ae5e78",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/43b5fdb25e4f6d2fac4be5c30bce63ec65505ed0"
-    },
-    "videos": {
-      "main": null,
-      "pack": null
-    },
-    "type": "SNAPSHOT",
-    "previous": "26.2-snapshot-3"
-  },
-  {
-    "display_name": "26.2 Snapshot 3",
-    "id": "26.2-snapshot-3",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-3",
-    "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-3",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port%2F26.2/primers/26.2/index.md",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3674fc8e63de2b59b018f6bba00bed5db36d315b",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/e7f33df5ad981dd3cef42d63e0ad1e052e6bc204"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=yXBeZqfkXas",
-      "pack": "https://www.youtube.com/watch?v=mD4nduuih1g"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.2-snapshot-4",
-    "previous": "26.2-snapshot-2"
-  },
-  {
-    "display_name": "26.2 Snapshot 2",
-    "id": "26.2-snapshot-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-2",
-    "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-2",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ca0d7902a5ccf624421ca1847d7fd6af1b03d356",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/fdbe65f4b1c76e792d9cbf4c673596ddf408b072"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=F-Qmu5tKIsI",
-      "pack": null
-    },
-    "type": "SNAPSHOT",
-    "next": "26.2-snapshot-3",
-    "previous": "26.2-snapshot-1"
-  },
-  {
-    "display_name": "26.1.2 - Hotfix",
-    "id": "26.1.2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-2",
-    "changelog": "https://misode.github.io/versions/?id=26.1.2",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/0069910efbd90234b002dc8ef811d33e304f44a3",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/8ed310cd004e860a683e518349e03b468b431682"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=49q_Hf_0-o8"
-    },
-    "type": "RELEASE",
-    "previous": "26.1.2-release-candidate-1"
-  },
-  {
-    "display_name": "26.1.2 - Release Candidate 1",
-    "id": "26.1.2-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-2-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=26.1.2-rc-1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/895e979c9b3cd22ee2e65bf0f72bd0711926951f",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/01ebdc391b4ae9a1488603204ed327a1ad59c002"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "26.1.2",
-    "previous": "26.1.1"
-  },
-  {
-    "display_name": "26.2 Snapshot 1",
-    "id": "26.2-snapshot-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-1",
-    "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/2f8defa650c5786c6743d8e4a8b80c10c081d442",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/80d71c9c7e96c72906fb4836362fc90151a40305"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.2-snapshot-2",
-    "previous": "26.1.1"
-  },
-  {
-    "display_name": "26w14a - HerdCraft",
-    "id": "26w14a",
-    "article": "https://www.minecraft.net/en-us/article/the-herdcraft-update",
-    "changelog": "https://misode.github.io/versions/?id=26w14a",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/92ce49795a08824d15223b2161b9798f1b80d6ea",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/4c979212ec73069a3d9e1cb8e978f2208396713e"
-    },
-    "type": "APRIL_FOOLS",
-    "previous": "26.1"
-  },
-  {
-    "display_name": "26.1.1 - Hotfix",
-    "id": "26.1.1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-1",
-    "changelog": "https://misode.github.io/versions/?id=26.1.1",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d2920a647525f68855161083756bac13e2f247a0",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/d6ab32ecb2efdd1b8522aa3949ce94605e7951df"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=HqwNepcqAd4"
-    },
-    "type": "RELEASE",
-    "next": "26.2-snapshot-1",
-    "previous": "26.1.1-release-candidate-1"
-  },
-  {
-    "display_name": "26.1.1 - Release Candidate 1",
-    "id": "26.1.1-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-1-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=26.1.1-rc-1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/b97e334158419e089da2ca8c809e7e30b03a45a1",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/729991d8096a4201c127ae4ae1a5ee0b6ad4b257"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=mjFo9nMD5Vo"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "26.1.1",
-    "previous": "26.1"
-  },
-  {
-    "display_name": "26.1 - Tiny Takeover",
-    "id": "26.1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1",
-    "changelog": "https://misode.github.io/versions/?id=26.1",
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a60d071c7ddc89b3787a5a261f53aa02f12974c4",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/a60d071c7ddc89b3787a5a261f53aa02f12974c4"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=8wqIYgk-uD0",
-      "pack": "https://www.youtube.com/watch?v=UCZxN8Snfig",
-      "resource": "https://www.youtube.com/watch?v=XM-o2E5DhvA"
-    },
-    "type": "RELEASE",
-    "next": "26.1.1-release-candidate-1",
-    "previous": "26.1-release-candidate-3"
-  },
-  {
-    "display_name": "26.1 - Release Candidate 3",
-    "id": "26.1-release-candidate-3",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-3",
-    "changelog": "https://misode.github.io/versions/?id=26.1-rc-3",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/68f2c28a3e4e6c22fa1228cf273f7b113f2efed6",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/fd82ed7d3efdc1190d14b1785a901ca7c1af4f48"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=amh7jYPWGFw"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "26.1",
-    "previous": "26.1-release-candidate-2"
-  },
-  {
-    "display_name": "26.1 - Release Candidate 2",
-    "id": "26.1-release-candidate-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-2",
-    "changelog": "https://misode.github.io/versions/?id=26.1-rc-2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6cd67428324c905330fa0cb1717200749c9e2561",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/8f42f359a7c9ce8778cf17f3794848dc699a97d7"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "26.1-release-candidate-3",
-    "previous": "26.1-release-candidate-1"
-  },
-  {
-    "display_name": "26.1 - Release Candidate 1",
-    "id": "26.1-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=26.1-rc-1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2f42ae4232f26161b4a07008c8104573e9acab3",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/4c9105d034a3bf9fdab7a8fd02b97aae3b553c56"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "26.1-release-candidate-2",
-    "previous": "26.1-pre-release-3"
-  },
-  {
-    "display_name": "26.1 - Pre Release 3",
-    "id": "26.1-pre-release-3",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3",
-    "changelog": "https://misode.github.io/versions/?id=26.1-pre-3",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/935700989716f4da0ebce7b187224ae3e38acf11",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/935700989716f4da0ebce7b187224ae3e38acf11"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=e8k3g3MO2kU"
-    },
-    "type": "PRE_RELEASE",
-    "next": "26.1-release-candidate-1",
-    "previous": "26.1-pre-release-2"
-  },
-  {
-    "display_name": "26.1 - Pre Release 2",
-    "id": "26.1-pre-release-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-2",
-    "changelog": "https://misode.github.io/versions/?id=26.1-pre-2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/99c90ca244d9079dfde29232d212361d03b61326",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/99c90ca244d9079dfde29232d212361d03b61326"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=Y7tlF9tkzw8"
-    },
-    "type": "PRE_RELEASE",
-    "next": "26.1-pre-release-3",
-    "previous": "26.1-pre-release-1"
-  },
-  {
-    "display_name": "26.1 - Pre Release 1",
-    "id": "26.1-pre-release-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-1",
-    "changelog": "https://misode.github.io/versions/?id=26.1-pre-1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/97465eb64d68b2ac6238f767ceb7041f72f500d6",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/7e8243c27171436e5e9bd5fef7151818446ef5ea"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=a_yMZeNl_14",
-      "pack": "https://www.youtube.com/watch?v=LtD-CMxDW2Q"
-    },
-    "type": "PRE_RELEASE",
-    "next": "26.1-pre-release-2",
-    "previous": "26.1-snapshot-11"
-  },
-  {
-    "display_name": "26.1 Snapshot 11",
-    "id": "26.1-snapshot-11",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-11",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-11",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/b18b1649ad5123f032bd63987c5e58a7a4e983e8",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/561fae2d879e70fdff0bad7371245c397f2c8b02"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=BJ1uLeZKKyc",
-      "pack": "https://www.youtube.com/watch?v=uQtFpQvQ4Tk"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-pre-release-1",
-    "previous": "26.1-snapshot-10"
-  },
-  {
-    "display_name": "26.1 Snapshot 10",
-    "id": "26.1-snapshot-10",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-10",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-10",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3fe5b8ed0a2bde4842cbce7be0f7f33286823411",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/6e3426b980524452edabfd91023752ff3a4ebc8d"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=dQC2NKHDQpA",
-      "pack": "https://www.youtube.com/watch?v=HpEJ0Y9Atf4"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-11",
-    "previous": "26.1-snapshot-9"
-  },
-  {
-    "display_name": "26.1 Snapshot 9",
-    "id": "26.1-snapshot-9",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-9",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-9",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=2RG8a2YYyjU"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-10",
-    "previous": "26.1-snapshot-8"
-  },
-  {
-    "display_name": "26.1 Snapshot 8",
-    "id": "26.1-snapshot-8",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-8",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-8",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/82d6f33da9f31c96ea27818b3ab466fc7134c0fd",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/82d6f33da9f31c96ea27818b3ab466fc7134c0fd"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=9gjc-o9uspo",
-      "pack": "https://www.youtube.com/watch?v=djEaQOSSi7M"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-9",
-    "previous": "26.1-snapshot-7"
-  },
-  {
-    "display_name": "26.1 Snapshot 7",
-    "id": "26.1-snapshot-7",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-7",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-7",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/70df7cea5af6fa9db2aa26058ece5817587872ea",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/70df7cea5af6fa9db2aa26058ece5817587872ea"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=a6MpHtZohIg",
-      "pack": "https://www.youtube.com/watch?v=Q_xXuAr8t94"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-8",
-    "previous": "26.1-snapshot-6"
-  },
-  {
-    "display_name": "26.1 Snapshot 6",
-    "id": "26.1-snapshot-6",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-6",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-6",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/50e8572b700be19726d9d250c03142196fa396d8",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/50e8572b700be19726d9d250c03142196fa396d8"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=_I5g7zBkDK0",
-      "pack": "https://www.youtube.com/watch?v=WJTVsDD_eoQ"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-7",
-    "previous": "26.1-snapshot-5"
-  },
-  {
-    "display_name": "26.1 Snapshot 5",
-    "id": "26.1-snapshot-5",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-5",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-5",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c14348a275c60e45552e626c4763bd107ed4bf24",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/c14348a275c60e45552e626c4763bd107ed4bf24"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=a8gPl8AIRz4",
-      "pack": "https://www.youtube.com/watch?v=ePEvmb1BLKY"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-6",
-    "previous": "26.1-snapshot-4"
-  },
-  {
-    "display_name": "26.1 Snapshot 4",
-    "id": "26.1-snapshot-4",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-4",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-4",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a680b7c5a7fb3af094e1df0378a2f8098dd066d6",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/a680b7c5a7fb3af094e1df0378a2f8098dd066d6"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=Xhq6WsoUYbE",
-      "pack": "https://www.youtube.com/watch?v=Vc88sfOxfkI"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-5",
-    "previous": "26.1-snapshot-3"
-  },
-  {
-    "display_name": "26.1 Snapshot 3",
-    "id": "26.1-snapshot-3",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-3",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-3",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/267ca579ae98928beff4cbc7c3946c3516b3556b",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/267ca579ae98928beff4cbc7c3946c3516b3556b"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=YLHTLf8RNIs",
-      "pack": "https://www.youtube.com/watch?v=ILnYqYftvX4"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-4",
-    "previous": "26.1-snapshot-2"
-  },
-  {
-    "display_name": "26.1 Snapshot 2",
-    "id": "26.1-snapshot-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-2",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c75852363925125bdc02842fa03e93589b9dab82",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/c75852363925125bdc02842fa03e93589b9dab82"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=ro-fzLZXEfI",
-      "pack": "https://www.youtube.com/watch?v=RzGvQBs-h-0"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-3",
-    "previous": "26.1-snapshot-1"
-  },
-  {
-    "display_name": "26.1 Snapshot 1",
-    "id": "26.1-snapshot-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-1",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9e0b9a280d3c3531fd4520236172f944fe625812",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/9e0b9a280d3c3531fd4520236172f944fe625812"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=3TQ8ch8bN4A",
-      "pack": "https://www.youtube.com/watch?v=iymV0-l0HUE"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-2",
-    "previous": "1.21.11"
-  },
-  {
-    "display_name": "1.21.11 - Mounts of Mayhem",
-    "id": "1.21.11",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11",
-    "primer": "https://docs.neoforged.net/primer/docs/1.21.11/",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c6967bc41398f6848393b6cce8cea606e5955e0d",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/2b20261ce2875fed454fddad2091fb1a126153ea"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=Zqm0v3qaqG4",
-      "pack": "https://www.youtube.com/watch?v=5yY25GoWQhs"
-    },
-    "type": "RELEASE",
-    "next": "26.1-snapshot-1",
-    "previous": "1.21.11-release-candidate-3"
-  },
-  {
-    "display_name": "1.21.11 - Release Candidate 3",
-    "id": "1.21.11-release-candidate-3",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-3",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11-rc3",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8e5ee5cf21067ac5e7be6a7d1ec8dfcdf18cb840",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/c8707743ad27c16911980f34716ec06c26082378"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=qc0iUNutF5E"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.11",
-    "previous": "1.21.11-release-candidate-2"
-  },
-  {
-    "display_name": "1.21.11 - Release Candidate 2",
-    "id": "1.21.11-release-candidate-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-2",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11-rc2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8e85c35d76b1e5a9a6df9f3e34ebca34e3e79216",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/dba57227544fe247d5cd9284b68679dcce29ce82"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=rVrdRT4HjaI"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.11-release-candidate-3",
-    "previous": "1.21.11-release-candidate-1"
-  },
-  {
-    "display_name": "1.21.11 - Release Candidate 1",
-    "id": "1.21.11-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11-rc1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e523b3da8cc64f77131ac8064e54a41b31f0bb4b",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/2e940ecc98dca79a750dd05d0bb859541721cf08"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=j083J7kmeIk"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.11-release-candidate-2",
-    "previous": "1.21.11-pre-release-5"
-  },
-  {
-    "display_name": "1.21.11 - Pre Release 5",
-    "id": "1.21.11-pre-release-5",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-5",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11-pre5",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bca7cf25ae012064467180618d2b161d06ffbe91",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/5df8be572efaa818239145eb7c8d4734580d36f7"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.11-release-candidate-1",
-    "previous": "1.21.11-pre-release-4"
-  },
-  {
-    "display_name": "1.21.11 - Pre Release 4",
-    "id": "1.21.11-pre-release-4",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-4",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11-pre4",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2a0c4cde35daf0c06a365513056a942eea3a1ae",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/29450878a3b5544175d1d5158ae6d6fe6f11c962"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=AXuybVwjZzE"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.11-pre-release-5",
-    "previous": "1.21.11-pre-release-3"
-  },
-  {
-    "display_name": "1.21.11 - Pre Release 3",
-    "id": "1.21.11-pre-release-3",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-3",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11-pre3",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/0888d9c69d08a3b0260f90cbab122c18450d2946",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/7f7ff44e9d3766b71a451730221e8ced1a86e5dd"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=Eo_qi3N0zxc"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.11-pre-release-4",
-    "previous": "1.21.11-pre-release-2"
-  },
-  {
-    "display_name": "1.21.11 - Pre Release 2",
-    "id": "1.21.11-pre-release-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-2",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11-pre2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/552ace82f671a2366fa8cc595b961516c0e367b0",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/a87d4454f335188bafc83d14e06bf39bd5e96677"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=K9g37Sa46PM"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.11-pre-release-3",
-    "previous": "1.21.11-pre-release-1"
-  },
-  {
-    "display_name": "1.21.11 - Pre Release 1",
-    "id": "1.21.11-pre-release-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.11-pre1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/85aa20db3df1762ca25c36625fb96c6db6fd1235",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/269e814dda9001e2934a96cd8807399cb22a1d6e"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=CH_mI68_Ljk"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.11-pre-release-2",
-    "previous": "25w46a"
-  },
-  {
-    "display_name": "Snapshot 25w46a",
-    "id": "25w46a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w46a",
-    "changelog": "https://misode.github.io/versions/?id=25w46a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/05ecc0fac4c1dc715b638d7a95ddef02bcd3c61c",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/ae4fe2cce41c62627a56052be36cee28ea4d61f7"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=_TZQp5fy4fw"
-    },
-    "type": "SNAPSHOT",
-    "next": "1.21.11-pre-release-1",
-    "previous": "25w45a"
-  },
-  {
-    "display_name": "Snapshot 25w45a",
-    "id": "25w45a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w45a",
-    "changelog": "https://misode.github.io/versions/?id=25w45a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8ca5d2d1a1842efefb7b1aa04047e5c9ab9ef3e9",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/3ea660bd0b9481306ce5bc99c3673f02361baba2"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=JBhZriLnIFs",
-      "pack": "https://www.youtube.com/watch?v=AdzhN1oPYR0"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w46a",
-    "previous": "25w44a"
-  },
-  {
-    "display_name": "Snapshot 25w44a",
-    "id": "25w44a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w44a",
-    "changelog": "https://misode.github.io/versions/?id=25w44a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/071cef72bcd38f534be08b57606113c573766b46",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/659cd0f62b3f39c4a87ee87260ab1fdb6b04cfb4"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=vzoFl5Lodeg",
-      "pack": "https://www.youtube.com/watch?v=YNvWGMO2LKs"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w45a",
-    "previous": "25w43a"
-  },
-  {
-    "display_name": "Snapshot 25w43a",
-    "id": "25w43a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w43a",
-    "changelog": "https://misode.github.io/versions/?id=25w43a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/61e38e2ec24e7c31cc7f379138071f89158b85f0",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/2bc64296c468ac77a321bbc367b1a95d8775275f"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=-Lyn7aBevNc",
-      "pack": "https://www.youtube.com/watch?v=Rg52DxX0_t0"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w44a",
-    "previous": "25w42a"
-  },
-  {
-    "display_name": "Snapshot 25w42a",
-    "id": "25w42a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w42a",
-    "changelog": "https://misode.github.io/versions/?id=25w42a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c05fc2d20ef5aa448cb849a7924e9d5da60537b0",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/e294f9dba4fe4dd4d797472c4f4bb989fd010e7a"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=Xb0Mlu81aRU",
-      "pack": "https://www.youtube.com/watch?v=MvCaASGRvEM"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w43a",
-    "previous": "25w41a"
-  },
-  {
-    "display_name": "Snapshot 25w41a",
-    "id": "25w41a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w41a",
-    "changelog": "https://misode.github.io/versions/?id=25w41a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bab931029a9c0d9028afe9ce0b4aa4b916df2fb5",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/507f56cd5b759b50f6e3a91d962556ec8cfa0ce2"
-    },
-    "videos": {
-      "main": "https://youtu.be/uW0rhMk8DwE?si=lSxf1zYaxIoiHT7c",
-      "pack": "https://www.youtube.com/watch?v=2NRkypmHfaQ"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w42a",
-    "previous": "1.21.10"
-  },
-  {
-    "display_name": "1.21.10 - Hotfix",
-    "id": "1.21.10",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10",
-    "changelog": "https://misode.github.io/versions/?id=1.21.10",
-    "primer": "https://docs.neoforged.net/primer/docs/1.21.10/",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6ec8db0e002a8837d924969e15e70e6cde81b4b7",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/1bf13262ccdd4ed0cb1d8bac9f437abe2dd5b0f3"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=IwOBOQydWD0"
-    },
-    "type": "RELEASE",
-    "next": "25w41a",
-    "previous": "1.21.10-release-candidate-1"
-  },
-  {
-    "display_name": "1.21.10 - Release Candidate 1",
-    "id": "1.21.10-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-10-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.10-rc1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/80c55709f2d1b418aaa093e2910e90bda77e0973",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/0f6ec3a0af999a933bf3e56454e80b0f78bb08da"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=v7Mh6kj828k"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.10",
-    "previous": "1.21.9"
-  },
-  {
-    "display_name": "1.21.9 - Copper Age",
-    "id": "1.21.9",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9",
-    "changelog": "https://misode.github.io/versions/?id=1.21.9",
-    "primer": "https://docs.neoforged.net/primer/docs/1.21.9/",
-    "snowman": {
-      "forgecraft": "https://www.youtube.com/watch?v=sJdWQXbtSA8",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/cf8e953561315c86d91e68174bbd9163ebbacf9f"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=jcE-KOlGh_I"
-    },
-    "type": "RELEASE",
-    "next": "1.21.10-release-candidate-1",
-    "previous": "1.21.9-release-candidate-1"
-  },
-  {
-    "display_name": "1.21.9 - Release Candidate 1",
-    "id": "1.21.9-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.9-rc1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ab5c6b2f2fe0f8e73bb8ba5b99e3832f516f2239",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/9857185387079527a8606cbaa4a587040e344fc5"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=VNM8xiegswc"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.9",
-    "previous": "1.21.9-pre-release-4"
-  },
-  {
-    "display_name": "1.21.9 - Pre Release 4",
-    "id": "1.21.9-pre-release-4",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-4",
-    "changelog": "https://misode.github.io/versions/?id=1.21.9-pre4",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6eeffabf5da0a7348735f374eb95c9665f469205",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/63cf18bd3e1bf5feb65bc04d6e43be6ecd92eb32"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=_A9Fhb8zmII"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.9-release-candidate-1",
-    "previous": "1.21.9-pre-release-3"
-  },
-  {
-    "display_name": "1.21.9 - Pre Release 3",
-    "id": "1.21.9-pre-release-3",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-3",
-    "changelog": "https://misode.github.io/versions/?id=1.21.9-pre3",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/5bc6a8b6b648db19781a9313c803376c2e1a7d09",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/e4a838591c62bf24669ccf9db40a8f321efb6c58"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=kYTw2qmEU6o"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.9-pre-release-4",
-    "previous": "1.21.9-pre-release-2"
-  },
-  {
-    "display_name": "1.21.9 - Pre Release 2",
-    "id": "1.21.9-pre-release-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-2",
-    "changelog": "https://misode.github.io/versions/?id=1.21.9-pre2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d89a937021ad6a364f7e7aab1bf9f3be08d232f9",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/9227cd8311deeabb438138822d1c24e6c59edbd0"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=nPOcXAzS3Uk"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.9-pre-release-3",
-    "previous": "1.21.9-pre-release-1"
-  },
-  {
-    "display_name": "1.21.9 - Pre Release 1",
-    "id": "1.21.9-pre-release-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.9-pre1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d2a70ff1cc5b80b0e6c94a702212661610694757",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/d2a70ff1cc5b80b0e6c94a702212661610694757"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=RjbXy0vek50",
-      "pack": "https://www.youtube.com/watch?v=N7LPEbhNCtk"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.9-pre-release-2",
-    "previous": "25w37a"
-  },
-  {
-    "display_name": "Snapshot 25w37a",
-    "id": "25w37a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w37a",
-    "changelog": "https://misode.github.io/versions/?id=25w37a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6185955ea9df2576c4b70b05602abdb80c855d8d",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/6185955ea9df2576c4b70b05602abdb80c855d8d"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=Bu1O2wH0BCg"
-    },
-    "type": "SNAPSHOT",
-    "next": "1.21.9-pre-release-1",
-    "previous": "25w36b"
-  },
-  {
-    "display_name": "Snapshot 25w36b",
-    "id": "25w36b",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w36a",
-    "changelog": "https://misode.github.io/versions/?id=25w36b",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/af69b4ba9f50958b1da8d225796502463614b7a6",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/af69b4ba9f50958b1da8d225796502463614b7a6"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=x_TLVuM5FUM",
-      "pack": "https://www.youtube.com/watch?v=jDYmkVMtE9k"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w37a",
-    "previous": "25w36a"
-  },
-  {
-    "display_name": "Snapshot 25w36a",
-    "id": "25w36a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w36a",
-    "changelog": "https://misode.github.io/versions/?id=25w36a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f23239ea40b6ad5199ca990a657040b07cf0ae35",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/f23239ea40b6ad5199ca990a657040b07cf0ae35"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=x_TLVuM5FUM",
-      "pack": "https://www.youtube.com/watch?v=jDYmkVMtE9k"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w36b",
-    "previous": "25w35a"
-  },
-  {
-    "display_name": "Snapshot 25w35a",
-    "id": "25w35a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w35a",
-    "changelog": "https://misode.github.io/versions/?id=25w35a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=tCVV004OceM",
-      "pack": "https://www.youtube.com/watch?v=SiQESnoyoCQ"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w36a",
-    "previous": "25w34b"
-  },
-  {
-    "display_name": "25w34b - Hotfix",
-    "id": "25w34b",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34a",
-    "changelog": "https://misode.github.io/versions/?id=25w34b",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=fCga6TTeAA4",
-      "pack": "https://www.youtube.com/watch?v=RX5VC-WTo7A"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w35a",
-    "previous": "25w34a"
-  },
-  {
-    "display_name": "Snapshot 25w34a",
-    "id": "25w34a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34a",
-    "changelog": "https://misode.github.io/versions/?id=25w34a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/60460f6928682f12e03f4590dc6fd0db9bca7083",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/60460f6928682f12e03f4590dc6fd0db9bca7083"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=fCga6TTeAA4",
-      "pack": "https://www.youtube.com/watch?v=RX5VC-WTo7A"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w34b",
-    "previous": "25w33a"
-  },
-  {
-    "display_name": "Snapshot 25w33a",
-    "id": "25w33a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w33a",
-    "changelog": "https://misode.github.io/versions/?id=25w33a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c849148d9a52e36d1ba86bf6a32774712c64f4f5",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/c849148d9a52e36d1ba86bf6a32774712c64f4f5"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=xxQ6NlX3cKo",
-      "pack": "https://www.youtube.com/watch?v=riw_p0u-1g8"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w34a",
-    "previous": "25w32a"
-  },
-  {
-    "display_name": "Snapshot 25w32a",
-    "id": "25w32a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w32a",
-    "changelog": "https://misode.github.io/versions/?id=25w32a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/140021b11fb008c9a584fb61c77262fef48dc947",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/140021b11fb008c9a584fb61c77262fef48dc947"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=plZzF9GKeBE",
-      "pack": "https://www.youtube.com/watch?v=mMhGxQKF7m4"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w33a",
-    "previous": "25w31a"
-  },
-  {
-    "display_name": "Snapshot 25w31a",
-    "id": "25w31a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w31a",
-    "changelog": "https://misode.github.io/versions/?id=25w31a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3d07356f9416d5045b57e8b65626556b99c6f7f8",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/3d07356f9416d5045b57e8b65626556b99c6f7f8"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=bN2X0F4TCWg",
-      "pack": "https://www.youtube.com/watch?v=2UOiIW5nyoA"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w32a",
-    "previous": "1.21.8"
-  },
-  {
-    "display_name": "1.21.8 - Hotfix",
-    "id": "1.21.8",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-8",
-    "changelog": "https://misode.github.io/versions/?id=1.21.8",
-    "primer": "https://docs.neoforged.net/primer/docs/1.21.8",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/cc5b054ab702dd0423b1140fda6a43f7b73f3dbb",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/cc5b054ab702dd0423b1140fda6a43f7b73f3dbb"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=01ipscV0Ni8"
-    },
-    "type": "RELEASE",
-    "next": "25w31a",
-    "previous": "1.21.8-release-candidate-1"
-  },
-  {
-    "display_name": "1.21.8 - Release Candidate 1",
-    "id": "1.21.8-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-8-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.8-rc1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/479b7af38164d160c386807438a63150f3ddfb33",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/479b7af38164d160c386807438a63150f3ddfb33"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=6mrwCFjzzvQ"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.8",
-    "previous": "1.21.7"
-  },
-  {
-    "display_name": "1.21.7 - Hotfix",
-    "id": "1.21.7",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-7",
-    "changelog": "https://misode.github.io/versions/?id=1.21.7",
-    "primer": "https://docs.neoforged.net/primer/docs/1.21.7",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8af4e5114d1380080b518b7c29c715e5909ea05b",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/8af4e5114d1380080b518b7c29c715e5909ea05b"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=jV2SuTLJXcg"
-    },
-    "type": "RELEASE",
-    "next": "1.21.8-release-candidate-1",
-    "previous": "1.21.7-release-candidate-2"
-  },
-  {
-    "display_name": "1.21.7 - Release Candidate 2",
-    "id": "1.21.7-release-candidate-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-7-release-candidate-2",
-    "changelog": "https://misode.github.io/versions/?id=1.21.7-rc2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/116e8513bcb947f404c4142e55d96803cae31f12",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/116e8513bcb947f404c4142e55d96803cae31f12"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=7A0bW7Ddmnw"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.7",
-    "previous": "1.21.7-release-candidate-1"
-  },
-  {
-    "display_name": "1.21.7 - Release Candidate 1",
-    "id": "1.21.7-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-7-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.7-rc1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=FS0eIaCxKHc"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.7-release-candidate-2",
-    "previous": "1.21.6"
-  },
-  {
-    "display_name": "1.21.6 - Chase the Skies",
-    "id": "1.21.6",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-6",
-    "changelog": "https://misode.github.io/versions/?id=1.21.6",
-    "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/4d8b82cb5bf567b2570c7f4a217ab9cf277c4c6f",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/4d8b82cb5bf567b2570c7f4a217ab9cf277c4c6f"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=ik0r1BjsmBA",
-      "pack": "https://www.youtube.com/watch?v=bRuoC0qUb5Y"
-    },
-    "type": "RELEASE",
-    "next": "1.21.7-release-candidate-1",
-    "previous": "1.21.6-release-candidate-1"
-  },
-  {
-    "display_name": "1.21.6 - Release Candidate 1",
-    "id": "1.21.6-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.6-rc1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e2d9b7a950deeb3b4980c523c13357b491cd8008",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/e2d9b7a950deeb3b4980c523c13357b491cd8008"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=ERwctZH07zE"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.6",
-    "previous": "1.21.6-pre-release-4"
-  },
-  {
-    "display_name": "1.21.6 - Pre Release 4",
-    "id": "1.21.6-pre-release-4",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-4",
-    "changelog": "https://misode.github.io/versions/?id=1.21.6-pre4",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d4064eaf16eb4993a1808ddd05a318f006275357",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/d4064eaf16eb4993a1808ddd05a318f006275357"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=FewXNHTBshw"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.6-release-candidate-1",
-    "previous": "1.21.6-pre-release-3"
-  },
-  {
-    "display_name": "1.21.6 - Pre Release 3",
-    "id": "1.21.6-pre-release-3",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-3",
-    "changelog": "https://misode.github.io/versions/?id=1.21.6-pre3",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f7041ccea260573979ee0d74cf6aac261bb71c67",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/f7041ccea260573979ee0d74cf6aac261bb71c67"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=aixxTVqeAto"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.6-pre-release-4",
-    "previous": "1.21.6-pre-release-2"
-  },
-  {
-    "display_name": "1.21.6 - Pre Release 2",
-    "id": "1.21.6-pre-release-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-2",
-    "changelog": "https://misode.github.io/versions/?id=1.21.6-pre2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3572c91c10f8ca9c478df3a11ffefef598d85342",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/3572c91c10f8ca9c478df3a11ffefef598d85342"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=4UVKOigMm1Y"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.6-pre-release-3",
-    "previous": "1.21.6-pre-release-1"
-  },
-  {
-    "display_name": "1.21.6 - Pre Release 1",
-    "id": "1.21.6-pre-release-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.6-pre1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/755b8c1bf7cffc0a8b4359f49bbb548f74d7d791",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/755b8c1bf7cffc0a8b4359f49bbb548f74d7d791"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=S9V6CzZEOJk",
-      "pack": "https://www.youtube.com/watch?v=9Vm3HYyn_0c"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.6-pre-release-2",
-    "previous": "25w21a"
-  },
-  {
-    "display_name": "Snapshot 25w21a",
-    "id": "25w21a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w21a",
-    "changelog": "https://misode.github.io/versions/?id=25w21a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ef1f13ae0dcddc1ab222d20aa160a9a4ee3e40a0",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/ef1f13ae0dcddc1ab222d20aa160a9a4ee3e40a0"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=dOjkGA3HTAc",
-      "pack": "https://www.youtube.com/watch?v=kmKyzcSV-7U"
-    },
-    "type": "SNAPSHOT",
-    "next": "1.21.6-pre-release-1",
-    "previous": "25w20a"
-  },
-  {
-    "display_name": "Snapshot 25w20a",
-    "id": "25w20a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w20a",
-    "changelog": "https://misode.github.io/versions/?id=25w20a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/23d9efaa0bb0ab6b6749885d7cb715ce48b46cce",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/23d9efaa0bb0ab6b6749885d7cb715ce48b46cce"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=RchCqaJT85I",
-      "pack": "https://www.youtube.com/watch?v=5_581LBZU74"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w21a",
-    "previous": "25w19a"
-  },
-  {
-    "display_name": "Snapshot 25w19a",
-    "id": "25w19a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w19a",
-    "changelog": "https://misode.github.io/versions/?id=25w19a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=Ml6Yvjmaf44",
-      "pack": "https://www.youtube.com/watch?v=aJodr1_eUzs"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w20a",
-    "previous": "25w18a"
-  },
-  {
-    "display_name": "Snapshot 25w18a",
-    "id": "25w18a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w18a",
-    "changelog": "https://misode.github.io/versions/?id=25w18a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d3c19d0ace585fe154acf0ec3d2dd4753ed111e7",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/d3c19d0ace585fe154acf0ec3d2dd4753ed111e7"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=fxOI_62Zrss",
-      "pack": "https://www.youtube.com/watch?v=u2QcIMQ3VPo"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w19a",
-    "previous": "25w17a"
-  },
-  {
-    "display_name": "Snapshot 25w17a",
-    "id": "25w17a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w17a",
-    "changelog": "https://misode.github.io/versions/?id=25w17a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/1f88caed7ce184f8bf6f0c5773c202df06ce863f",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/1f88caed7ce184f8bf6f0c5773c202df06ce863f"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=Vz0NtmXAFaY"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w18a",
-    "previous": "25w16a"
-  },
-  {
-    "display_name": "Snapshot 25w16a",
-    "id": "25w16a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w16a",
-    "changelog": "https://misode.github.io/versions/?id=25w16a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/77c96b6461bc64b82ecd301129ebdedaae418252",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/77c96b6461bc64b82ecd301129ebdedaae418252"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=g_mss9qDYrY",
-      "pack": "https://www.youtube.com/watch?v=cs6Ir60suMs"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w17a",
-    "previous": "25w15a"
-  },
-  {
-    "display_name": "Snapshot 25w15a",
-    "id": "25w15a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w15a",
-    "changelog": "https://misode.github.io/versions/?id=25w15a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f00c8deffced2fd328033f85ebab6ffa5e38aa4a",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/f00c8deffced2fd328033f85ebab6ffa5e38aa4a"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=bwfI-_KqnUs",
-      "pack": "https://www.youtube.com/watch?v=heC2PTE_08E"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w16a",
-    "previous": "1.21.5"
-  },
-  {
-    "display_name": "1.21.5 - Spring to Life",
-    "id": "1.21.5",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-5",
-    "changelog": "https://misode.github.io/versions/?id=1.21.5",
-    "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ddf5d69f89444694f477416e74658d512acb7e7d",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/ddf5d69f89444694f477416e74658d512acb7e7d"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=LcYGZuA7ev4",
-      "pack": "https://www.youtube.com/watch?v=V3nqaMukxf8"
-    },
-    "type": "RELEASE",
-    "next": "25w15a",
-    "previous": "1.21.5-release-candidate-2"
-  },
-  {
-    "display_name": "1.21.5 - Release Candidate 2",
-    "id": "1.21.5-release-candidate-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-2",
-    "changelog": "https://misode.github.io/versions/?id=1.21.5-rc2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c0fd0cb364cda4ec237b866deb806baca039385a",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/c0fd0cb364cda4ec237b866deb806baca039385a"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=P0XnPy_D5kQ"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.5",
-    "previous": "1.21.5-release-candidate-1"
-  },
-  {
-    "display_name": "1.21.5 - Release Candidate 1",
-    "id": "1.21.5-release-candidate-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.5-rc1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=8sPih4fHc-8"
-    },
-    "type": "RELEASE_CANDIDATE",
-    "next": "1.21.5-release-candidate-2",
-    "previous": "1.21.5-pre-release-3"
-  },
-  {
-    "display_name": "1.21.5 - Pre Release 3",
-    "id": "1.21.5-pre-release-3",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-3",
-    "changelog": "https://misode.github.io/versions/?id=1.21.5-pre3",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/cd80d7caf9f23e1300c122d86ac02324866752e3",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/cd80d7caf9f23e1300c122d86ac02324866752e3"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=n7EG6ZbPZIs"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.5-release-candidate-1",
-    "previous": "1.21.5-pre-release-2"
-  },
-  {
-    "display_name": "1.21.5 - Pre Release 2",
-    "id": "1.21.5-pre-release-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-2",
-    "changelog": "https://misode.github.io/versions/?id=1.21.5-pre2",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/1474888acbd85eef71e51b6fcad3c94c683ec20b",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/1474888acbd85eef71e51b6fcad3c94c683ec20b"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=9XeTq5sjlG0"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.5-pre-release-3",
-    "previous": "1.21.5-pre-release-1"
-  },
-  {
-    "display_name": "1.21.5 - Pre Release 1",
-    "id": "1.21.5-pre-release-1",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-1",
-    "changelog": "https://misode.github.io/versions/?id=1.21.5-pre1",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/899a13de019fbed1d2c8d7e1e51930723b343e4f",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/899a13de019fbed1d2c8d7e1e51930723b343e4f"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=DIUd4fWkm3Y"
-    },
-    "type": "PRE_RELEASE",
-    "next": "1.21.5-pre-release-2",
-    "previous": "25w10a"
-  },
-  {
-    "display_name": "Snapshot 25w10a",
-    "id": "25w10a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w10a",
-    "changelog": "https://misode.github.io/versions/?id=25w10a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9875521be8358c308c6cb4c512cc2e31250fce00",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/9875521be8358c308c6cb4c512cc2e31250fce00"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=cDnodfKQ5_s",
-      "pack": "https://www.youtube.com/watch?v=raSxpv8SJn8"
-    },
-    "type": "SNAPSHOT",
-    "next": "1.21.5-pre-release-1",
-    "previous": "25w09b"
-  },
-  {
-    "display_name": "Snapshot 25w09b",
-    "id": "25w09b",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w09b",
-    "changelog": "https://misode.github.io/versions/?id=25w09b",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/4704ba3371d6e4991ff3c4c489d7d388dbb9d541",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/4704ba3371d6e4991ff3c4c489d7d388dbb9d541"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=SD6C2ZPHLYM"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w10a",
-    "previous": "25w09a"
-  },
-  {
-    "display_name": "Snapshot 25w09a",
-    "id": "25w09a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w09a",
-    "changelog": "https://misode.github.io/versions/?id=25w09a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/7363452196fbfe1002d5549786717a566603c8ce",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/7363452196fbfe1002d5549786717a566603c8ce"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=6PK34Qpl5Lk",
-      "pack": "https://www.youtube.com/watch?v=E_NCyRsdX5g"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w09b",
-    "previous": "25w08a"
-  },
-  {
-    "display_name": "Snapshot 25w08a",
-    "id": "25w08a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w08a",
-    "changelog": "https://misode.github.io/versions/?id=25w08a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9088716d6c9e892c5e7f3e0396726da7f39ad9f6",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/9088716d6c9e892c5e7f3e0396726da7f39ad9f6"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=owMWwa5nnKg",
-      "pack": "https://www.youtube.com/watch?v=Og1-oecZxzk"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w09a",
-    "previous": "25w07a"
-  },
-  {
-    "display_name": "Snapshot 25w07a",
-    "id": "25w07a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w07a",
-    "changelog": "https://misode.github.io/versions/?id=25w07a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/19e7ee913c184700aa316b1753c9ed58428a580b",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/19e7ee913c184700aa316b1753c9ed58428a580b"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=qqIcucKqtDo",
-      "pack": "https://www.youtube.com/watch?v=fLYwRNBHXTM"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w08a",
-    "previous": "25w06a"
-  },
-  {
-    "display_name": "Snapshot 25w06a",
-    "id": "25w06a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w06a",
-    "changelog": "https://misode.github.io/versions/?id=25w06a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/eb667cead5093ec7f80422b1f21243c6003a30fb",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/eb667cead5093ec7f80422b1f21243c6003a30fb"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=HWCY0O1LVgU",
-      "pack": "https://www.youtube.com/watch?v=hGU8J7MMW3Q"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w07a",
-    "previous": "25w05a"
-  },
-  {
-    "display_name": "Snapshot 25w05a",
-    "id": "25w05a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w05a",
-    "changelog": "https://misode.github.io/versions/?id=25w05a",
-    "snowman": {
-      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9ed1d6043cc03cb238cec685b73d8278d815608a",
-      "neoforge": "https://github.com/neoforged/Snowman/commit/9ed1d6043cc03cb238cec685b73d8278d815608a"
-    },
-    "videos": {
-      "main": "https://www.youtube.com/watch?v=YENEOYKT_PI",
-      "pack": "https://www.youtube.com/watch?v=fsJKsxXXWvU"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w06a"
-  }
-]
+{
+    "26.2-snapshot-4": {
+        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a43a04a720cace4ea5a52e3423af35f869ae5e78",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/43b5fdb25e4f6d2fac4be5c30bce63ec65505ed0"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=sLkfyTZXsU0",
+            "pack": null
+        }
+    },
+    "26.2-snapshot-3": {
+        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3674fc8e63de2b59b018f6bba00bed5db36d315b",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/e7f33df5ad981dd3cef42d63e0ad1e052e6bc204"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=yXBeZqfkXas",
+            "pack": "https://www.youtube.com/watch?v=mD4nduuih1g"
+        }
+    },
+    "26.2-snapshot-2": {
+        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ca0d7902a5ccf624421ca1847d7fd6af1b03d356",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/fdbe65f4b1c76e792d9cbf4c673596ddf408b072"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=F-Qmu5tKIsI"
+        }
+    },
+    "26.1.2": {
+        "drop": "Hotfix",
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/0069910efbd90234b002dc8ef811d33e304f44a3",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/8ed310cd004e860a683e518349e03b468b431682"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=49q_Hf_0-o8"
+        }
+    },
+    "26.1.2-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/895e979c9b3cd22ee2e65bf0f72bd0711926951f",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/01ebdc391b4ae9a1488603204ed327a1ad59c002"
+        }
+    },
+    "26.2-snapshot-1": {
+        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/2f8defa650c5786c6743d8e4a8b80c10c081d442",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/80d71c9c7e96c72906fb4836362fc90151a40305"
+        }
+    },
+    "26w14a": {
+        "drop": "HerdCraft",
+        "article_override": "https://www.minecraft.net/en-us/article/the-herdcraft-update",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/92ce49795a08824d15223b2161b9798f1b80d6ea",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/4c979212ec73069a3d9e1cb8e978f2208396713e"
+        }
+    },
+    "26.1.1": {
+        "drop": "Hotfix",
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d2920a647525f68855161083756bac13e2f247a0",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/d6ab32ecb2efdd1b8522aa3949ce94605e7951df"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=HqwNepcqAd4"
+        }
+    },
+    "26.1.1-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/b97e334158419e089da2ca8c809e7e30b03a45a1",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/729991d8096a4201c127ae4ae1a5ee0b6ad4b257"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=mjFo9nMD5Vo"
+        }
+    },
+    "26.1": {
+        "drop": "Tiny Takeover",
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a60d071c7ddc89b3787a5a261f53aa02f12974c4",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/a60d071c7ddc89b3787a5a261f53aa02f12974c4"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=8wqIYgk-uD0",
+            "pack": "https://www.youtube.com/watch?v=UCZxN8Snfig",
+            "resource": "https://www.youtube.com/watch?v=XM-o2E5DhvA"
+        }
+    },
+    "26.1-release-candidate-3": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/68f2c28a3e4e6c22fa1228cf273f7b113f2efed6",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/fd82ed7d3efdc1190d14b1785a901ca7c1af4f48"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=amh7jYPWGFw"
+        }
+    },
+    "26.1-release-candidate-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6cd67428324c905330fa0cb1717200749c9e2561",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/8f42f359a7c9ce8778cf17f3794848dc699a97d7"
+        }
+    },
+    "26.1-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2f42ae4232f26161b4a07008c8104573e9acab3",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/4c9105d034a3bf9fdab7a8fd02b97aae3b553c56"
+        }
+    },
+    "26.1-pre-release-3": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/935700989716f4da0ebce7b187224ae3e38acf11",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/935700989716f4da0ebce7b187224ae3e38acf11"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=e8k3g3MO2kU"
+        }
+    },
+    "26.1-pre-release-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/99c90ca244d9079dfde29232d212361d03b61326",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/99c90ca244d9079dfde29232d212361d03b61326"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=Y7tlF9tkzw8"
+        }
+    },
+    "26.1-pre-release-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/97465eb64d68b2ac6238f767ceb7041f72f500d6",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/7e8243c27171436e5e9bd5fef7151818446ef5ea"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=a_yMZeNl_14",
+            "pack": "https://www.youtube.com/watch?v=LtD-CMxDW2Q"
+        }
+    },
+    "26.1-snapshot-11": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/b18b1649ad5123f032bd63987c5e58a7a4e983e8",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/561fae2d879e70fdff0bad7371245c397f2c8b02"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=BJ1uLeZKKyc",
+            "pack": "https://www.youtube.com/watch?v=uQtFpQvQ4Tk"
+        }
+    },
+    "26.1-snapshot-10": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3fe5b8ed0a2bde4842cbce7be0f7f33286823411",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/6e3426b980524452edabfd91023752ff3a4ebc8d"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=dQC2NKHDQpA",
+            "pack": "https://www.youtube.com/watch?v=HpEJ0Y9Atf4"
+        }
+    },
+    "26.1-snapshot-9": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=2RG8a2YYyjU"
+        }
+    },
+    "26.1-snapshot-8": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/82d6f33da9f31c96ea27818b3ab466fc7134c0fd",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/82d6f33da9f31c96ea27818b3ab466fc7134c0fd"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=9gjc-o9uspo",
+            "pack": "https://www.youtube.com/watch?v=djEaQOSSi7M"
+        }
+    },
+    "26.1-snapshot-7": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/70df7cea5af6fa9db2aa26058ece5817587872ea",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/70df7cea5af6fa9db2aa26058ece5817587872ea"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=a6MpHtZohIg",
+            "pack": "https://www.youtube.com/watch?v=Q_xXuAr8t94"
+        }
+    },
+    "26.1-snapshot-6": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/50e8572b700be19726d9d250c03142196fa396d8",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/50e8572b700be19726d9d250c03142196fa396d8"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=_I5g7zBkDK0",
+            "pack": "https://www.youtube.com/watch?v=WJTVsDD_eoQ"
+        }
+    },
+    "26.1-snapshot-5": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c14348a275c60e45552e626c4763bd107ed4bf24",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/c14348a275c60e45552e626c4763bd107ed4bf24"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=a8gPl8AIRz4",
+            "pack": "https://www.youtube.com/watch?v=ePEvmb1BLKY"
+        }
+    },
+    "26.1-snapshot-4": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a680b7c5a7fb3af094e1df0378a2f8098dd066d6",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/a680b7c5a7fb3af094e1df0378a2f8098dd066d6"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=Xhq6WsoUYbE",
+            "pack": "https://www.youtube.com/watch?v=Vc88sfOxfkI"
+        }
+    },
+    "26.1-snapshot-3": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/267ca579ae98928beff4cbc7c3946c3516b3556b",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/267ca579ae98928beff4cbc7c3946c3516b3556b"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=YLHTLf8RNIs",
+            "pack": "https://www.youtube.com/watch?v=ILnYqYftvX4"
+        }
+    },
+    "26.1-snapshot-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c75852363925125bdc02842fa03e93589b9dab82",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/c75852363925125bdc02842fa03e93589b9dab82"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=ro-fzLZXEfI",
+            "pack": "https://www.youtube.com/watch?v=RzGvQBs-h-0"
+        }
+    },
+    "26.1-snapshot-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/26.1",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9e0b9a280d3c3531fd4520236172f944fe625812",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/9e0b9a280d3c3531fd4520236172f944fe625812"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=3TQ8ch8bN4A",
+            "pack": "https://www.youtube.com/watch?v=iymV0-l0HUE"
+        }
+    },
+    "1.21.11": {
+        "drop": "Mounts of Mayhem",
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c6967bc41398f6848393b6cce8cea606e5955e0d",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/2b20261ce2875fed454fddad2091fb1a126153ea"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=Zqm0v3qaqG4",
+            "pack": "https://www.youtube.com/watch?v=5yY25GoWQhs"
+        }
+    },
+    "1.21.11-release-candidate-3": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8e5ee5cf21067ac5e7be6a7d1ec8dfcdf18cb840",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/c8707743ad27c16911980f34716ec06c26082378"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=qc0iUNutF5E"
+        }
+    },
+    "1.21.11-release-candidate-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8e85c35d76b1e5a9a6df9f3e34ebca34e3e79216",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/dba57227544fe247d5cd9284b68679dcce29ce82"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=rVrdRT4HjaI"
+        }
+    },
+    "1.21.11-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e523b3da8cc64f77131ac8064e54a41b31f0bb4b",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/2e940ecc98dca79a750dd05d0bb859541721cf08"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=j083J7kmeIk"
+        }
+    },
+    "1.21.11-pre-release-5": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bca7cf25ae012064467180618d2b161d06ffbe91",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/5df8be572efaa818239145eb7c8d4734580d36f7"
+        }
+    },
+    "1.21.11-pre-release-4": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2a0c4cde35daf0c06a365513056a942eea3a1ae",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/29450878a3b5544175d1d5158ae6d6fe6f11c962"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=AXuybVwjZzE"
+        }
+    },
+    "1.21.11-pre-release-3": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/0888d9c69d08a3b0260f90cbab122c18450d2946",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/7f7ff44e9d3766b71a451730221e8ced1a86e5dd"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=Eo_qi3N0zxc"
+        }
+    },
+    "1.21.11-pre-release-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/552ace82f671a2366fa8cc595b961516c0e367b0",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/a87d4454f335188bafc83d14e06bf39bd5e96677"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=K9g37Sa46PM"
+        }
+    },
+    "1.21.11-pre-release-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/85aa20db3df1762ca25c36625fb96c6db6fd1235",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/269e814dda9001e2934a96cd8807399cb22a1d6e"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=CH_mI68_Ljk"
+        }
+    },
+    "25w46a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/05ecc0fac4c1dc715b638d7a95ddef02bcd3c61c",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/ae4fe2cce41c62627a56052be36cee28ea4d61f7"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=_TZQp5fy4fw"
+        }
+    },
+    "25w45a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8ca5d2d1a1842efefb7b1aa04047e5c9ab9ef3e9",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/3ea660bd0b9481306ce5bc99c3673f02361baba2"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=JBhZriLnIFs",
+            "pack": "https://www.youtube.com/watch?v=AdzhN1oPYR0"
+        }
+    },
+    "25w44a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/071cef72bcd38f534be08b57606113c573766b46",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/659cd0f62b3f39c4a87ee87260ab1fdb6b04cfb4"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=vzoFl5Lodeg",
+            "pack": "https://www.youtube.com/watch?v=YNvWGMO2LKs"
+        }
+    },
+    "25w43a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/61e38e2ec24e7c31cc7f379138071f89158b85f0",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/2bc64296c468ac77a321bbc367b1a95d8775275f"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=-Lyn7aBevNc",
+            "pack": "https://www.youtube.com/watch?v=Rg52DxX0_t0"
+        }
+    },
+    "25w42a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c05fc2d20ef5aa448cb849a7924e9d5da60537b0",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/e294f9dba4fe4dd4d797472c4f4bb989fd010e7a"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=Xb0Mlu81aRU",
+            "pack": "https://www.youtube.com/watch?v=MvCaASGRvEM"
+        }
+    },
+    "25w41a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bab931029a9c0d9028afe9ce0b4aa4b916df2fb5",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/507f56cd5b759b50f6e3a91d962556ec8cfa0ce2"
+        },
+        "videos": {
+            "main": "https://youtu.be/uW0rhMk8DwE?si=lSxf1zYaxIoiHT7c",
+            "pack": "https://www.youtube.com/watch?v=2NRkypmHfaQ"
+        }
+    },
+    "1.21.10": {
+        "drop": "Hotfix",
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.10",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6ec8db0e002a8837d924969e15e70e6cde81b4b7",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/1bf13262ccdd4ed0cb1d8bac9f437abe2dd5b0f3"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=IwOBOQydWD0"
+        }
+    },
+    "1.21.10-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.10",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/80c55709f2d1b418aaa093e2910e90bda77e0973",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/0f6ec3a0af999a933bf3e56454e80b0f78bb08da"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=v7Mh6kj828k"
+        }
+    },
+    "1.21.9": {
+        "drop": "Copper Age",
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://www.youtube.com/watch?v=sJdWQXbtSA8",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/cf8e953561315c86d91e68174bbd9163ebbacf9f"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=jcE-KOlGh_I"
+        }
+    },
+    "1.21.9-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ab5c6b2f2fe0f8e73bb8ba5b99e3832f516f2239",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/9857185387079527a8606cbaa4a587040e344fc5"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=VNM8xiegswc"
+        }
+    },
+    "1.21.9-pre-release-4": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6eeffabf5da0a7348735f374eb95c9665f469205",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/63cf18bd3e1bf5feb65bc04d6e43be6ecd92eb32"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=_A9Fhb8zmII"
+        }
+    },
+    "1.21.9-pre-release-3": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/5bc6a8b6b648db19781a9313c803376c2e1a7d09",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/e4a838591c62bf24669ccf9db40a8f321efb6c58"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=kYTw2qmEU6o"
+        }
+    },
+    "1.21.9-pre-release-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d89a937021ad6a364f7e7aab1bf9f3be08d232f9",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/9227cd8311deeabb438138822d1c24e6c59edbd0"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=nPOcXAzS3Uk"
+        }
+    },
+    "1.21.9-pre-release-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d2a70ff1cc5b80b0e6c94a702212661610694757",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/d2a70ff1cc5b80b0e6c94a702212661610694757"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=RjbXy0vek50",
+            "pack": "https://www.youtube.com/watch?v=N7LPEbhNCtk"
+        }
+    },
+    "25w37a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6185955ea9df2576c4b70b05602abdb80c855d8d",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/6185955ea9df2576c4b70b05602abdb80c855d8d"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=Bu1O2wH0BCg"
+        }
+    },
+    "25w36b": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/af69b4ba9f50958b1da8d225796502463614b7a6",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/af69b4ba9f50958b1da8d225796502463614b7a6"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=x_TLVuM5FUM",
+            "pack": "https://www.youtube.com/watch?v=jDYmkVMtE9k"
+        }
+    },
+    "25w36a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f23239ea40b6ad5199ca990a657040b07cf0ae35",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/f23239ea40b6ad5199ca990a657040b07cf0ae35"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=x_TLVuM5FUM",
+            "pack": "https://www.youtube.com/watch?v=jDYmkVMtE9k"
+        }
+    },
+    "25w35a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=tCVV004OceM",
+            "pack": "https://www.youtube.com/watch?v=SiQESnoyoCQ"
+        }
+    },
+    "25w34b": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=fCga6TTeAA4",
+            "pack": "https://www.youtube.com/watch?v=RX5VC-WTo7A"
+        }
+    },
+    "25w34a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/60460f6928682f12e03f4590dc6fd0db9bca7083",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/60460f6928682f12e03f4590dc6fd0db9bca7083"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=fCga6TTeAA4",
+            "pack": "https://www.youtube.com/watch?v=RX5VC-WTo7A"
+        }
+    },
+    "25w33a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c849148d9a52e36d1ba86bf6a32774712c64f4f5",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/c849148d9a52e36d1ba86bf6a32774712c64f4f5"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=xxQ6NlX3cKo",
+            "pack": "https://www.youtube.com/watch?v=riw_p0u-1g8"
+        }
+    },
+    "25w32a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/140021b11fb008c9a584fb61c77262fef48dc947",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/140021b11fb008c9a584fb61c77262fef48dc947"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=plZzF9GKeBE",
+            "pack": "https://www.youtube.com/watch?v=mMhGxQKF7m4"
+        }
+    },
+    "25w31a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.9",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3d07356f9416d5045b57e8b65626556b99c6f7f8",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/3d07356f9416d5045b57e8b65626556b99c6f7f8"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=bN2X0F4TCWg",
+            "pack": "https://www.youtube.com/watch?v=2UOiIW5nyoA"
+        }
+    },
+    "1.21.8": {
+        "drop": "Hotfix",
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.8",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/cc5b054ab702dd0423b1140fda6a43f7b73f3dbb",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/cc5b054ab702dd0423b1140fda6a43f7b73f3dbb"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=01ipscV0Ni8"
+        }
+    },
+    "1.21.8-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.8",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/479b7af38164d160c386807438a63150f3ddfb33",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/479b7af38164d160c386807438a63150f3ddfb33"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=6mrwCFjzzvQ"
+        }
+    },
+    "1.21.7": {
+        "drop": "Hotfix",
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.7",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8af4e5114d1380080b518b7c29c715e5909ea05b",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/8af4e5114d1380080b518b7c29c715e5909ea05b"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=jV2SuTLJXcg"
+        }
+    },
+    "1.21.7-release-candidate-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.7",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/116e8513bcb947f404c4142e55d96803cae31f12",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/116e8513bcb947f404c4142e55d96803cae31f12"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=7A0bW7Ddmnw"
+        }
+    },
+    "1.21.7-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.7",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=FS0eIaCxKHc"
+        }
+    },
+    "1.21.6": {
+        "drop": "Chase the Skies",
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/4d8b82cb5bf567b2570c7f4a217ab9cf277c4c6f",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/4d8b82cb5bf567b2570c7f4a217ab9cf277c4c6f"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=ik0r1BjsmBA",
+            "pack": "https://www.youtube.com/watch?v=bRuoC0qUb5Y"
+        }
+    },
+    "1.21.6-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e2d9b7a950deeb3b4980c523c13357b491cd8008",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/e2d9b7a950deeb3b4980c523c13357b491cd8008"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=ERwctZH07zE"
+        }
+    },
+    "1.21.6-pre-release-4": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d4064eaf16eb4993a1808ddd05a318f006275357",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/d4064eaf16eb4993a1808ddd05a318f006275357"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=FewXNHTBshw"
+        }
+    },
+    "1.21.6-pre-release-3": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f7041ccea260573979ee0d74cf6aac261bb71c67",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/f7041ccea260573979ee0d74cf6aac261bb71c67"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=aixxTVqeAto"
+        }
+    },
+    "1.21.6-pre-release-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3572c91c10f8ca9c478df3a11ffefef598d85342",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/3572c91c10f8ca9c478df3a11ffefef598d85342"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=4UVKOigMm1Y"
+        }
+    },
+    "1.21.6-pre-release-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/755b8c1bf7cffc0a8b4359f49bbb548f74d7d791",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/755b8c1bf7cffc0a8b4359f49bbb548f74d7d791"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=S9V6CzZEOJk",
+            "pack": "https://www.youtube.com/watch?v=9Vm3HYyn_0c"
+        }
+    },
+    "25w21a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ef1f13ae0dcddc1ab222d20aa160a9a4ee3e40a0",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/ef1f13ae0dcddc1ab222d20aa160a9a4ee3e40a0"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=dOjkGA3HTAc",
+            "pack": "https://www.youtube.com/watch?v=kmKyzcSV-7U"
+        }
+    },
+    "25w20a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/23d9efaa0bb0ab6b6749885d7cb715ce48b46cce",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/23d9efaa0bb0ab6b6749885d7cb715ce48b46cce"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=RchCqaJT85I",
+            "pack": "https://www.youtube.com/watch?v=5_581LBZU74"
+        }
+    },
+    "25w19a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=Ml6Yvjmaf44",
+            "pack": "https://www.youtube.com/watch?v=aJodr1_eUzs"
+        }
+    },
+    "25w18a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d3c19d0ace585fe154acf0ec3d2dd4753ed111e7",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/d3c19d0ace585fe154acf0ec3d2dd4753ed111e7"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=fxOI_62Zrss",
+            "pack": "https://www.youtube.com/watch?v=u2QcIMQ3VPo"
+        }
+    },
+    "25w17a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/1f88caed7ce184f8bf6f0c5773c202df06ce863f",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/1f88caed7ce184f8bf6f0c5773c202df06ce863f"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=Vz0NtmXAFaY"
+        }
+    },
+    "25w16a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/77c96b6461bc64b82ecd301129ebdedaae418252",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/77c96b6461bc64b82ecd301129ebdedaae418252"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=g_mss9qDYrY",
+            "pack": "https://www.youtube.com/watch?v=cs6Ir60suMs"
+        }
+    },
+    "25w15a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f00c8deffced2fd328033f85ebab6ffa5e38aa4a",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/f00c8deffced2fd328033f85ebab6ffa5e38aa4a"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=bwfI-_KqnUs",
+            "pack": "https://www.youtube.com/watch?v=heC2PTE_08E"
+        }
+    },
+    "1.21.5": {
+        "drop": "Spring to Life",
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ddf5d69f89444694f477416e74658d512acb7e7d",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/ddf5d69f89444694f477416e74658d512acb7e7d"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=LcYGZuA7ev4",
+            "pack": "https://www.youtube.com/watch?v=V3nqaMukxf8"
+        }
+    },
+    "1.21.5-release-candidate-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c0fd0cb364cda4ec237b866deb806baca039385a",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/c0fd0cb364cda4ec237b866deb806baca039385a"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=P0XnPy_D5kQ"
+        }
+    },
+    "1.21.5-release-candidate-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=8sPih4fHc-8"
+        }
+    },
+    "1.21.5-pre-release-3": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/cd80d7caf9f23e1300c122d86ac02324866752e3",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/cd80d7caf9f23e1300c122d86ac02324866752e3"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=n7EG6ZbPZIs"
+        }
+    },
+    "1.21.5-pre-release-2": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/1474888acbd85eef71e51b6fcad3c94c683ec20b",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/1474888acbd85eef71e51b6fcad3c94c683ec20b"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=9XeTq5sjlG0"
+        }
+    },
+    "1.21.5-pre-release-1": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/899a13de019fbed1d2c8d7e1e51930723b343e4f",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/899a13de019fbed1d2c8d7e1e51930723b343e4f"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=DIUd4fWkm3Y"
+        }
+    },
+    "25w10a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9875521be8358c308c6cb4c512cc2e31250fce00",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/9875521be8358c308c6cb4c512cc2e31250fce00"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=cDnodfKQ5_s",
+            "pack": "https://www.youtube.com/watch?v=raSxpv8SJn8"
+        }
+    },
+    "25w09b": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/4704ba3371d6e4991ff3c4c489d7d388dbb9d541",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/4704ba3371d6e4991ff3c4c489d7d388dbb9d541"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=SD6C2ZPHLYM"
+        }
+    },
+    "25w09a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/7363452196fbfe1002d5549786717a566603c8ce",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/7363452196fbfe1002d5549786717a566603c8ce"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=6PK34Qpl5Lk",
+            "pack": "https://www.youtube.com/watch?v=E_NCyRsdX5g"
+        }
+    },
+    "25w08a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9088716d6c9e892c5e7f3e0396726da7f39ad9f6",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/9088716d6c9e892c5e7f3e0396726da7f39ad9f6"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=owMWwa5nnKg",
+            "pack": "https://www.youtube.com/watch?v=Og1-oecZxzk"
+        }
+    },
+    "25w07a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/19e7ee913c184700aa316b1753c9ed58428a580b",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/19e7ee913c184700aa316b1753c9ed58428a580b"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=qqIcucKqtDo",
+            "pack": "https://www.youtube.com/watch?v=fLYwRNBHXTM"
+        }
+    },
+    "25w06a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/eb667cead5093ec7f80422b1f21243c6003a30fb",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/eb667cead5093ec7f80422b1f21243c6003a30fb"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=HWCY0O1LVgU",
+            "pack": "https://www.youtube.com/watch?v=hGU8J7MMW3Q"
+        }
+    },
+    "25w05a": {
+        "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9ed1d6043cc03cb238cec685b73d8278d815608a",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/9ed1d6043cc03cb238cec685b73d8278d815608a"
+        },
+        "videos": {
+            "main": "https://www.youtube.com/watch?v=YENEOYKT_PI",
+            "pack": "https://www.youtube.com/watch?v=fsJKsxXXWvU"
+        }
+    }
+}

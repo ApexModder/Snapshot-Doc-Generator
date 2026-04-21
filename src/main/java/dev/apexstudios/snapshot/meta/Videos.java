@@ -18,4 +18,8 @@ public record Videos(
 
     public static final Codec<Videos> SIMPLE_CODEC = Codecs.OPTIONAL_STRING.xmap(main -> new Videos(main, Optional.empty()), Videos::main);
     public static final Codec<Videos> CODEC = Codec.withAlternative(FULL_CODEC, SIMPLE_CODEC);
+
+    public Optional<String> get(boolean main) {
+        return main ? this.main : pack;
+    }
 }

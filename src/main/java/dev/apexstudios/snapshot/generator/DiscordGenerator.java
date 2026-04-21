@@ -19,7 +19,7 @@ final class DiscordGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
-        link(output, "Primer", version.primer(context), false);
+        link(output, "Primer", version.metadata().primer(), false);
         newLine(output);
 
         listItem(output);
@@ -31,7 +31,7 @@ final class DiscordGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
-        link(output, "SnowMan", version.snowman().get(forgeCraft), false);
+        link(output, "SnowMan", version.snowman(forgeCraft), false);
         newLine(output);
 
         if(forgeCraft) {
@@ -47,11 +47,11 @@ final class DiscordGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
-        link(output, "Main", version.videos().main(), true);
+        link(output, "Main", version.video(true), true);
         newLine(output);
 
         listItem(output);
-        link(output, "Pack", version.videos().pack(), true);
+        link(output, "Pack", version.video(false), true);
 
         if(!forgeCraft) {
             newLine(output);

@@ -1,5 +1,22 @@
 [
   {
+    "display_name": "26.2 Snapshot 44",
+    "id": "26.2-snapshot-4",
+    "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-4",
+    "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-4",
+    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port%2F26.2/primers/26.2/index.md",
+    "snowman": {
+      "forgecraft": null,
+      "neoforge": null
+    },
+    "videos": {
+      "main": null,
+      "pack": null
+    },
+    "type": "SNAPSHOT",
+    "previous": "26.2-snapshot-3"
+  },
+  {
     "display_name": "26.2 Snapshot 3",
     "id": "26.2-snapshot-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-3",
@@ -14,6 +31,7 @@
       "pack": "https://www.youtube.com/watch?v=mD4nduuih1g"
     },
     "type": "SNAPSHOT",
+    "next": "26.2-snapshot-3",
     "previous": "26.2-snapshot-2"
   },
   {

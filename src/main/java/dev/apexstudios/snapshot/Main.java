@@ -6,15 +6,19 @@ import dev.apexstudios.snapshot.meta.Version;
 import dev.apexstudios.snapshot.util.AppContext;
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.FileVisitResult;
+import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.SimpleFileVisitor;
+import java.nio.file.attribute.BasicFileAttributes;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 import joptsimple.OptionParser;
 import joptsimple.util.PathConverter;
-import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.jetbrains.annotations.Nullable;
 
 public class Main {
     public static final Logger LOGGER = LogManager.getLogger();
@@ -64,9 +68,9 @@ public class Main {
             return;
         }
 
-        if(options.has(freshRunSpec)) {
+        if(options.has(freshRunSpec) && Files.exists(context.outputDir())) {
             LOGGER.info("Cleaning output directory: '{}'", context.outputDir());
-            FileUtils.deleteDirectory(context.outputDir().toFile());
+            safeDeleteDirectory(context.outputDir());
         }
 
         var generators = options.valuesOf(generatorSpec).stream().map(Generator::valueOf).collect(Collectors.toSet());
@@ -90,5 +94,44 @@ public class Main {
         if(all) {
             toProcess.addAll(context.versions());
         }
+    }
+
+    private static void safeDeleteDirectory(Path root) throws IOException {
+        if (!Files.exists(root)) {
+            return;
+        }
+
+        Files.walkFileTree(root, new SimpleFileVisitor<>() {
+            @Override
+            public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
+                if(Files.isHidden(dir)) {
+                    return FileVisitResult.SKIP_SUBTREE;
+                }
+
+                return FileVisitResult.CONTINUE;
+            }
+
+            @Override
+            public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
+                if(!Files.isHidden(file)) {
+                    Files.delete(file);
+                }
+
+                return FileVisitResult.CONTINUE;
+            }
+
+            @Override
+            public FileVisitResult postVisitDirectory(Path dir, @Nullable IOException exc) throws IOException {
+                if(exc != null) {
+                    throw exc;
+                }
+
+                if(!dir.equals(root) && !Files.isHidden(dir)) {
+                    Files.delete(dir);
+                }
+
+                return FileVisitResult.CONTINUE;
+            }
+        });
     }
 }

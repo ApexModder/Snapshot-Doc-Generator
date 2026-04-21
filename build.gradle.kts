@@ -50,7 +50,7 @@ dependencies {
     // implementation("com.google.guava:guava:33.3.1-jre")
     // implementation("com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava")
     // implementation("commons-codec:commons-codec:1.17.1")
-    implementation("commons-io:commons-io:2.17.0")
+    // implementation("commons-io:commons-io:2.17.0")
     // implementation("commons-logging:commons-logging:1.3.4")
     // implementation("it.unimi.dsi:fastutil:8.5.15")
     implementation("net.sf.jopt-simple:jopt-simple:5.0.4")

@@ -38,10 +38,6 @@ final class GenericGenerator extends MarkdownGenerator {
         link(output, "Changelog", version.changelog(), false);
         newLine(output);
 
-        listItem(output);
-        link(output, "Notion", version.notion(), false);
-        newLine(output);
-
         newLine(output);
         heading(output, 3);
         output.append("SnowMan");

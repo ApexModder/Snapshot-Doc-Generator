@@ -152,7 +152,6 @@ public final class AppContext {
         thrown = validate(thrown, () -> validateUnique(a, b, Version::displayName, "display_name", whitelist));
         thrown = validate(thrown, () -> validateUnique(a, b, Version::article, "article", whitelist));
         thrown = validate(thrown, () -> validateUnique(a, b, Version::changelog, "changelog", whitelist));
-        thrown = validate(thrown, () -> validateUniqueOptional(a, b, Version::notion, "notion", whitelist));
         thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.snowman().forgecraft(), "snowman.forgecraft", whitelist));
         thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.snowman().neoforge(), "snowman.neoforge", whitelist));
         thrown = validate(thrown, () -> validateUniqueOptional(a, b, version -> version.videos().main(), "videos.main", whitelist));

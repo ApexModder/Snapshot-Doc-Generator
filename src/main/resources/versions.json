@@ -4,7 +4,6 @@
     "id": "26.2-snapshot-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-3",
     "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3424f070f8888085b763e52f01186a55&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port%2F26.2/primers/26.2/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3674fc8e63de2b59b018f6bba00bed5db36d315b",
@@ -22,7 +21,6 @@
     "id": "26.2-snapshot-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-2",
     "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=33d4f070f88880a69d61fb0cfc9d98b8&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ca0d7902a5ccf624421ca1847d7fd6af1b03d356",
@@ -41,7 +39,6 @@
     "id": "26.1.2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-2",
     "changelog": "https://misode.github.io/versions/?id=26.1.2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=33d4f070f88880e6ba11e9bd06f90754&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/0069910efbd90234b002dc8ef811d33e304f44a3",
@@ -58,7 +55,6 @@
     "id": "26.1.2-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-2-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=26.1.2-rc-1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=33c4f070f888801bb449e5cae78ddd8c&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/895e979c9b3cd22ee2e65bf0f72bd0711926951f",
       "neoforge": "https://github.com/neoforged/Snowman/commit/01ebdc391b4ae9a1488603204ed327a1ad59c002"
@@ -72,7 +68,6 @@
     "id": "26.2-snapshot-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-1",
     "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=33b4f070f888806bb2b1c8c986fddafd&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/2f8defa650c5786c6743d8e4a8b80c10c081d442",
       "neoforge": "https://github.com/neoforged/Snowman/commit/80d71c9c7e96c72906fb4836362fc90151a40305"
@@ -86,7 +81,6 @@
     "id": "26w14a",
     "article": "https://www.minecraft.net/en-us/article/the-herdcraft-update",
     "changelog": "https://misode.github.io/versions/?id=26w14a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3354f070f88880e7a421e1e2d581968c&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/92ce49795a08824d15223b2161b9798f1b80d6ea",
@@ -100,7 +94,6 @@
     "id": "26.1.1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-1",
     "changelog": "https://misode.github.io/versions/?id=26.1.1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3344f070f8888019b47ff9ea8f18d857&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d2920a647525f68855161083756bac13e2f247a0",
@@ -118,7 +111,6 @@
     "id": "26.1.1-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-1-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=26.1.1-rc-1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3344f070f8888073bc5ada9ba8ffc25c&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/b97e334158419e089da2ca8c809e7e30b03a45a1",
       "neoforge": "https://github.com/neoforged/Snowman/commit/729991d8096a4201c127ae4ae1a5ee0b6ad4b257"
@@ -135,7 +127,6 @@
     "id": "26.1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1",
     "changelog": "https://misode.github.io/versions/?id=26.1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=32c4f070f888807fa951d2171663cec5&pm=c",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a60d071c7ddc89b3787a5a261f53aa02f12974c4",
@@ -155,7 +146,6 @@
     "id": "26.1-release-candidate-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-3",
     "changelog": "https://misode.github.io/versions/?id=26.1-rc-3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=32c4f070f88880dd9af7c4dc949c5501&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/68f2c28a3e4e6c22fa1228cf273f7b113f2efed6",
       "neoforge": "https://github.com/neoforged/Snowman/commit/fd82ed7d3efdc1190d14b1785a901ca7c1af4f48"
@@ -172,7 +162,6 @@
     "id": "26.1-release-candidate-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-2",
     "changelog": "https://misode.github.io/versions/?id=26.1-rc-2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3294f070f88880eebc16e128599a2dd3&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6cd67428324c905330fa0cb1717200749c9e2561",
       "neoforge": "https://github.com/neoforged/Snowman/commit/8f42f359a7c9ce8778cf17f3794848dc699a97d7"
@@ -186,7 +175,6 @@
     "id": "26.1-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=26.1-rc-1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3284f070f88880c08698c15f90ae5f40&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2f42ae4232f26161b4a07008c8104573e9acab3",
       "neoforge": "https://github.com/neoforged/Snowman/commit/4c9105d034a3bf9fdab7a8fd02b97aae3b553c56"
@@ -200,7 +188,6 @@
     "id": "26.1-pre-release-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=26.1-pre-3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3264f070f88880afbadce050e5dc7c0f&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/935700989716f4da0ebce7b187224ae3e38acf11",
       "neoforge": "https://github.com/neoforged/Snowman/commit/935700989716f4da0ebce7b187224ae3e38acf11"
@@ -217,7 +204,6 @@
     "id": "26.1-pre-release-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-2",
     "changelog": "https://misode.github.io/versions/?id=26.1-pre-2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3224f070f8888084b7a9e46bbff145f7&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/99c90ca244d9079dfde29232d212361d03b61326",
       "neoforge": "https://github.com/neoforged/Snowman/commit/99c90ca244d9079dfde29232d212361d03b61326"
@@ -234,7 +220,6 @@
     "id": "26.1-pre-release-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-1",
     "changelog": "https://misode.github.io/versions/?id=26.1-pre-1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=31f4f070f88880a08d10e21a858f290b&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/97465eb64d68b2ac6238f767ceb7041f72f500d6",
       "neoforge": "https://github.com/neoforged/Snowman/commit/7e8243c27171436e5e9bd5fef7151818446ef5ea"
@@ -252,7 +237,6 @@
     "id": "26.1-snapshot-11",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-11",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-11",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3184f070f88880768c10c356e600eda5&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/b18b1649ad5123f032bd63987c5e58a7a4e983e8",
       "neoforge": "https://github.com/neoforged/Snowman/commit/561fae2d879e70fdff0bad7371245c397f2c8b02"
@@ -270,7 +254,6 @@
     "id": "26.1-snapshot-10",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-10",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-10",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3114f070f888805d976add0888ad3bd7&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3fe5b8ed0a2bde4842cbce7be0f7f33286823411",
       "neoforge": "https://github.com/neoforged/Snowman/commit/6e3426b980524452edabfd91023752ff3a4ebc8d"
@@ -288,7 +271,6 @@
     "id": "26.1-snapshot-9",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-9",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-9",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=30b4f070f8888085ab59cbd93f3ccf2a&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe",
       "neoforge": "https://github.com/neoforged/Snowman/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe"
@@ -305,7 +287,6 @@
     "id": "26.1-snapshot-8",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-8",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-8",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=30a4f070f888803ca1e4f11b62fbcd0a&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/82d6f33da9f31c96ea27818b3ab466fc7134c0fd",
       "neoforge": "https://github.com/neoforged/Snowman/commit/82d6f33da9f31c96ea27818b3ab466fc7134c0fd"
@@ -323,7 +304,6 @@
     "id": "26.1-snapshot-7",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-7",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-7",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3034f070f8888083ba89c4a42fa91ffc&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/70df7cea5af6fa9db2aa26058ece5817587872ea",
       "neoforge": "https://github.com/neoforged/Snowman/commit/70df7cea5af6fa9db2aa26058ece5817587872ea"
@@ -341,7 +321,6 @@
     "id": "26.1-snapshot-6",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-6",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-6",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2fc4f070f88880d4a33cebdeaf5dac85&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/50e8572b700be19726d9d250c03142196fa396d8",
       "neoforge": "https://github.com/neoforged/Snowman/commit/50e8572b700be19726d9d250c03142196fa396d8"
@@ -359,7 +338,6 @@
     "id": "26.1-snapshot-5",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-5",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-5",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2f54f070f88880c08579ed403fd0d4bc&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c14348a275c60e45552e626c4763bd107ed4bf24",
       "neoforge": "https://github.com/neoforged/Snowman/commit/c14348a275c60e45552e626c4763bd107ed4bf24"
@@ -377,7 +355,6 @@
     "id": "26.1-snapshot-4",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-4",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-4",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2ee4f070f88880718a68d91f542a80e7&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a680b7c5a7fb3af094e1df0378a2f8098dd066d6",
       "neoforge": "https://github.com/neoforged/Snowman/commit/a680b7c5a7fb3af094e1df0378a2f8098dd066d6"
@@ -395,7 +372,6 @@
     "id": "26.1-snapshot-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-3",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2e74f070f88880c0a8f6f1de7e62c418&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/267ca579ae98928beff4cbc7c3946c3516b3556b",
       "neoforge": "https://github.com/neoforged/Snowman/commit/267ca579ae98928beff4cbc7c3946c3516b3556b"
@@ -413,7 +389,6 @@
     "id": "26.1-snapshot-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-2",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2e14f070f88880ec8dd7d172e6ba4e58&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c75852363925125bdc02842fa03e93589b9dab82",
       "neoforge": "https://github.com/neoforged/Snowman/commit/c75852363925125bdc02842fa03e93589b9dab82"
@@ -431,7 +406,6 @@
     "id": "26.1-snapshot-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-1",
     "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2cb4f070f88880f68dd0def7c0fad125&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9e0b9a280d3c3531fd4520236172f944fe625812",
       "neoforge": "https://github.com/neoforged/Snowman/commit/9e0b9a280d3c3531fd4520236172f944fe625812"
@@ -449,7 +423,6 @@
     "id": "1.21.11",
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11",
     "changelog": "https://misode.github.io/versions/?id=1.21.11",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2c44f070f8888055ad50c3fb70ba0284&pm=c",
     "primer": "https://docs.neoforged.net/primer/docs/1.21.11/",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c6967bc41398f6848393b6cce8cea606e5955e0d",
@@ -468,7 +441,6 @@
     "id": "1.21.11-release-candidate-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-3",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-rc3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2c34f070f88880f89521c6c66d60fe09&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8e5ee5cf21067ac5e7be6a7d1ec8dfcdf18cb840",
       "neoforge": "https://github.com/neoforged/Snowman/commit/c8707743ad27c16911980f34716ec06c26082378"
@@ -485,7 +457,6 @@
     "id": "1.21.11-release-candidate-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-2",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-rc2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2c04f070f88880eaa180d8f32d477a4b&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8e85c35d76b1e5a9a6df9f3e34ebca34e3e79216",
       "neoforge": "https://github.com/neoforged/Snowman/commit/dba57227544fe247d5cd9284b68679dcce29ce82"
@@ -502,7 +473,6 @@
     "id": "1.21.11-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-rc1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2be4f070f88880b88735e8c587898f83&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e523b3da8cc64f77131ac8064e54a41b31f0bb4b",
       "neoforge": "https://github.com/neoforged/Snowman/commit/2e940ecc98dca79a750dd05d0bb859541721cf08"
@@ -519,7 +489,6 @@
     "id": "1.21.11-pre-release-5",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-5",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-pre5",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2be4f070f888802f9bddefd653bfca32&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bca7cf25ae012064467180618d2b161d06ffbe91",
       "neoforge": "https://github.com/neoforged/Snowman/commit/5df8be572efaa818239145eb7c8d4734580d36f7"
@@ -533,7 +502,6 @@
     "id": "1.21.11-pre-release-4",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-4",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-pre4",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2b64f070f888800b97b0e1ca65ad62d8&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2a0c4cde35daf0c06a365513056a942eea3a1ae",
       "neoforge": "https://github.com/neoforged/Snowman/commit/29450878a3b5544175d1d5158ae6d6fe6f11c962"
@@ -550,7 +518,6 @@
     "id": "1.21.11-pre-release-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-pre3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2bc4f070f8888060a620efa3ea7a1744&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/0888d9c69d08a3b0260f90cbab122c18450d2946",
       "neoforge": "https://github.com/neoforged/Snowman/commit/7f7ff44e9d3766b71a451730221e8ced1a86e5dd"
@@ -567,7 +534,6 @@
     "id": "1.21.11-pre-release-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-2",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-pre2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2b24f070f888800d9ba1e74dacb04c5d&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/552ace82f671a2366fa8cc595b961516c0e367b0",
       "neoforge": "https://github.com/neoforged/Snowman/commit/a87d4454f335188bafc83d14e06bf39bd5e96677"
@@ -584,7 +550,6 @@
     "id": "1.21.11-pre-release-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.11-pre1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2af4f070f8888044940ce57e37fcc147&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/85aa20db3df1762ca25c36625fb96c6db6fd1235",
       "neoforge": "https://github.com/neoforged/Snowman/commit/269e814dda9001e2934a96cd8807399cb22a1d6e"
@@ -601,7 +566,6 @@
     "id": "25w46a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w46a",
     "changelog": "https://misode.github.io/versions/?id=25w46a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2a84f070f88880319495ecf29ae1c349&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/05ecc0fac4c1dc715b638d7a95ddef02bcd3c61c",
       "neoforge": "https://github.com/neoforged/Snowman/commit/ae4fe2cce41c62627a56052be36cee28ea4d61f7"
@@ -618,7 +582,6 @@
     "id": "25w45a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w45a",
     "changelog": "https://misode.github.io/versions/?id=25w45a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2a14f070f888805bb0dee2658269e0ab&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8ca5d2d1a1842efefb7b1aa04047e5c9ab9ef3e9",
       "neoforge": "https://github.com/neoforged/Snowman/commit/3ea660bd0b9481306ce5bc99c3673f02361baba2"
@@ -636,7 +599,6 @@
     "id": "25w44a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w44a",
     "changelog": "https://misode.github.io/versions/?id=25w44a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=29a4f070f8888014afe5f5f1019a938e&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/071cef72bcd38f534be08b57606113c573766b46",
       "neoforge": "https://github.com/neoforged/Snowman/commit/659cd0f62b3f39c4a87ee87260ab1fdb6b04cfb4"
@@ -654,7 +616,6 @@
     "id": "25w43a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w43a",
     "changelog": "https://misode.github.io/versions/?id=25w43a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2934f070f888805aa391cd897d7550bf&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/61e38e2ec24e7c31cc7f379138071f89158b85f0",
       "neoforge": "https://github.com/neoforged/Snowman/commit/2bc64296c468ac77a321bbc367b1a95d8775275f"
@@ -672,7 +633,6 @@
     "id": "25w42a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w42a",
     "changelog": "https://misode.github.io/versions/?id=25w42a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=28c4f070f888800685f3e67cd0335b57&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c05fc2d20ef5aa448cb849a7924e9d5da60537b0",
       "neoforge": "https://github.com/neoforged/Snowman/commit/e294f9dba4fe4dd4d797472c4f4bb989fd010e7a"
@@ -690,7 +650,6 @@
     "id": "25w41a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w41a",
     "changelog": "https://misode.github.io/versions/?id=25w41a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2874f070f88880caafc0e3553474b3cc&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bab931029a9c0d9028afe9ce0b4aa4b916df2fb5",
       "neoforge": "https://github.com/neoforged/Snowman/commit/507f56cd5b759b50f6e3a91d962556ec8cfa0ce2"
@@ -708,7 +667,6 @@
     "id": "1.21.10",
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10",
     "changelog": "https://misode.github.io/versions/?id=1.21.10",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2804f070f88880daafd0f0ac17031757&pm=c",
     "primer": "https://docs.neoforged.net/primer/docs/1.21.10/",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6ec8db0e002a8837d924969e15e70e6cde81b4b7",
@@ -726,7 +684,6 @@
     "id": "1.21.10-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-10-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.10-rc1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2804f070f888806e895cc12236c58c88&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/80c55709f2d1b418aaa093e2910e90bda77e0973",
       "neoforge": "https://github.com/neoforged/Snowman/commit/0f6ec3a0af999a933bf3e56454e80b0f78bb08da"
@@ -744,7 +701,6 @@
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9",
     "changelog": "https://misode.github.io/versions/?id=1.21.9",
     "primer": "https://docs.neoforged.net/primer/docs/1.21.9/",
-    "notion":  "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2754f070f88880b4b4e3e4e5d98e5b33&pm=c",
     "snowman": {
       "forgecraft": "https://www.youtube.com/watch?v=sJdWQXbtSA8",
       "neoforge": "https://github.com/neoforged/Snowman/commit/cf8e953561315c86d91e68174bbd9163ebbacf9f"
@@ -761,7 +717,6 @@
     "id": "1.21.9-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.9-rc1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2794f070f8888023b59bd08e9f8eca27&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ab5c6b2f2fe0f8e73bb8ba5b99e3832f516f2239",
       "neoforge": "https://github.com/neoforged/Snowman/commit/9857185387079527a8606cbaa4a587040e344fc5"
@@ -778,7 +733,6 @@
     "id": "1.21.9-pre-release-4",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-4",
     "changelog": "https://misode.github.io/versions/?id=1.21.9-pre4",
-    "notion":  "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2774f070f8888007a519d5aa58bfc898&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6eeffabf5da0a7348735f374eb95c9665f469205",
       "neoforge": "https://github.com/neoforged/Snowman/commit/63cf18bd3e1bf5feb65bc04d6e43be6ecd92eb32"
@@ -795,7 +749,6 @@
     "id": "1.21.9-pre-release-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=1.21.9-pre3",
-    "notion":  "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2764f070f8888073bd6ac0a62aba2dfb&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/5bc6a8b6b648db19781a9313c803376c2e1a7d09",
       "neoforge": "https://github.com/neoforged/Snowman/commit/e4a838591c62bf24669ccf9db40a8f321efb6c58"
@@ -812,7 +765,6 @@
     "id": "1.21.9-pre-release-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-2",
     "changelog": "https://misode.github.io/versions/?id=1.21.9-pre2",
-    "notion":  "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2734f070f888805b8b08f6668256f779&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d89a937021ad6a364f7e7aab1bf9f3be08d232f9",
       "neoforge": "https://github.com/neoforged/Snowman/commit/9227cd8311deeabb438138822d1c24e6c59edbd0"
@@ -829,7 +781,6 @@
     "id": "1.21.9-pre-release-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.9-pre1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2704f070f888808abae6c8586904736a&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d2a70ff1cc5b80b0e6c94a702212661610694757",
       "neoforge": "https://github.com/neoforged/Snowman/commit/d2a70ff1cc5b80b0e6c94a702212661610694757"
@@ -847,7 +798,6 @@
     "id": "25w37a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w37a",
     "changelog": "https://misode.github.io/versions/?id=25w37a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2694f070f8888085abbcfbc5d6b631b3&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6185955ea9df2576c4b70b05602abdb80c855d8d",
       "neoforge": "https://github.com/neoforged/Snowman/commit/6185955ea9df2576c4b70b05602abdb80c855d8d"
@@ -864,7 +814,6 @@
     "id": "25w36b",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w36a",
     "changelog": "https://misode.github.io/versions/?id=25w36b",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2624f070f88880fbbc18fa70189a5b98&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/af69b4ba9f50958b1da8d225796502463614b7a6",
       "neoforge": "https://github.com/neoforged/Snowman/commit/af69b4ba9f50958b1da8d225796502463614b7a6"
@@ -882,7 +831,6 @@
     "id": "25w36a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w36a",
     "changelog": "https://misode.github.io/versions/?id=25w36a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2624f070f8888019a837e253c146c41f&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f23239ea40b6ad5199ca990a657040b07cf0ae35",
       "neoforge": "https://github.com/neoforged/Snowman/commit/f23239ea40b6ad5199ca990a657040b07cf0ae35"
@@ -900,7 +848,6 @@
     "id": "25w35a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w35a",
     "changelog": "https://misode.github.io/versions/?id=25w35a",
-    "notion": "https://www.notion.so/apexmodder/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=25b4f070f888804cb9c3d923b69db2a3&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c",
       "neoforge": "https://github.com/neoforged/Snowman/commit/fb33d7a56c4de1ce29fc90f3231c23bc1c750a0c"
@@ -918,7 +865,6 @@
     "id": "25w34b",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34a",
     "changelog": "https://misode.github.io/versions/?id=25w34b",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2544f070f888809abf45f7fb24dbdc80&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d",
       "neoforge": "https://github.com/neoforged/Snowman/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d"
@@ -936,7 +882,6 @@
     "id": "25w34a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34a",
     "changelog": "https://misode.github.io/versions/?id=25w34a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2544f070f88880c3bc42e26af83ef00d&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/60460f6928682f12e03f4590dc6fd0db9bca7083",
       "neoforge": "https://github.com/neoforged/Snowman/commit/60460f6928682f12e03f4590dc6fd0db9bca7083"
@@ -954,7 +899,6 @@
     "id": "25w33a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w33a",
     "changelog": "https://misode.github.io/versions/?id=25w33a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888809eabc5d2eb194e0361&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c849148d9a52e36d1ba86bf6a32774712c64f4f5",
       "neoforge": "https://github.com/neoforged/Snowman/commit/c849148d9a52e36d1ba86bf6a32774712c64f4f5"
@@ -972,7 +916,6 @@
     "id": "25w32a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w32a",
     "changelog": "https://misode.github.io/versions/?id=25w32a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888806ca5a9f12ebb4d30f9&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/140021b11fb008c9a584fb61c77262fef48dc947",
       "neoforge": "https://github.com/neoforged/Snowman/commit/140021b11fb008c9a584fb61c77262fef48dc947"
@@ -990,7 +933,6 @@
     "id": "25w31a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w31a",
     "changelog": "https://misode.github.io/versions/?id=25w31a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888803a9774d34a3cf022ec&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3d07356f9416d5045b57e8b65626556b99c6f7f8",
       "neoforge": "https://github.com/neoforged/Snowman/commit/3d07356f9416d5045b57e8b65626556b99c6f7f8"
@@ -1009,7 +951,6 @@
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-8",
     "changelog": "https://misode.github.io/versions/?id=1.21.8",
     "primer": "https://docs.neoforged.net/primer/docs/1.21.8",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888097a269d96a6101d2f6&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/cc5b054ab702dd0423b1140fda6a43f7b73f3dbb",
       "neoforge": "https://github.com/neoforged/Snowman/commit/cc5b054ab702dd0423b1140fda6a43f7b73f3dbb"
@@ -1026,7 +967,6 @@
     "id": "1.21.8-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-8-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.8-rc1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888096a4b7d1501403b5fe&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/479b7af38164d160c386807438a63150f3ddfb33",
       "neoforge": "https://github.com/neoforged/Snowman/commit/479b7af38164d160c386807438a63150f3ddfb33"
@@ -1044,7 +984,6 @@
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-7",
     "changelog": "https://misode.github.io/versions/?id=1.21.7",
     "primer": "https://docs.neoforged.net/primer/docs/1.21.7",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880fdacb3d293a4f63783&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8af4e5114d1380080b518b7c29c715e5909ea05b",
       "neoforge": "https://github.com/neoforged/Snowman/commit/8af4e5114d1380080b518b7c29c715e5909ea05b"
@@ -1061,7 +1000,6 @@
     "id": "1.21.7-release-candidate-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-7-release-candidate-2",
     "changelog": "https://misode.github.io/versions/?id=1.21.7-rc2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888082a708d037506a98b9&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/116e8513bcb947f404c4142e55d96803cae31f12",
       "neoforge": "https://github.com/neoforged/Snowman/commit/116e8513bcb947f404c4142e55d96803cae31f12"
@@ -1078,7 +1016,6 @@
     "id": "1.21.7-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-7-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.7-rc1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888805b8d64c822f5759a69&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee",
       "neoforge": "https://github.com/neoforged/Snowman/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee"
@@ -1096,7 +1033,6 @@
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-6",
     "changelog": "https://misode.github.io/versions/?id=1.21.6",
     "primer": "https://docs.neoforged.net/primer/docs/1.21.6",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2524f070f88880a69bbfc51d4e83101d&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/4d8b82cb5bf567b2570c7f4a217ab9cf277c4c6f",
       "neoforge": "https://github.com/neoforged/Snowman/commit/4d8b82cb5bf567b2570c7f4a217ab9cf277c4c6f"
@@ -1114,7 +1050,6 @@
     "id": "1.21.6-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.6-rc1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2524f070f88880ea99d7f98889251894&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e2d9b7a950deeb3b4980c523c13357b491cd8008",
       "neoforge": "https://github.com/neoforged/Snowman/commit/e2d9b7a950deeb3b4980c523c13357b491cd8008"
@@ -1131,7 +1066,6 @@
     "id": "1.21.6-pre-release-4",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-4",
     "changelog": "https://misode.github.io/versions/?id=1.21.6-pre4",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888800e88d3d0631a4b9ecf&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d4064eaf16eb4993a1808ddd05a318f006275357",
       "neoforge": "https://github.com/neoforged/Snowman/commit/d4064eaf16eb4993a1808ddd05a318f006275357"
@@ -1148,7 +1082,6 @@
     "id": "1.21.6-pre-release-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=1.21.6-pre3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888064b6c1e656d9df6351&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f7041ccea260573979ee0d74cf6aac261bb71c67",
       "neoforge": "https://github.com/neoforged/Snowman/commit/f7041ccea260573979ee0d74cf6aac261bb71c67"
@@ -1165,7 +1098,6 @@
     "id": "1.21.6-pre-release-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-2",
     "changelog": "https://misode.github.io/versions/?id=1.21.6-pre2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888004bea6d1ebc962fb2d&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3572c91c10f8ca9c478df3a11ffefef598d85342",
       "neoforge": "https://github.com/neoforged/Snowman/commit/3572c91c10f8ca9c478df3a11ffefef598d85342"
@@ -1182,7 +1114,6 @@
     "id": "1.21.6-pre-release-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.6-pre1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2524f070f88880bc8f2fd6325326425e&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/755b8c1bf7cffc0a8b4359f49bbb548f74d7d791",
       "neoforge": "https://github.com/neoforged/Snowman/commit/755b8c1bf7cffc0a8b4359f49bbb548f74d7d791"
@@ -1200,7 +1131,6 @@
     "id": "25w21a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w21a",
     "changelog": "https://misode.github.io/versions/?id=25w21a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888054b6f7c91d6db0d125&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ef1f13ae0dcddc1ab222d20aa160a9a4ee3e40a0",
       "neoforge": "https://github.com/neoforged/Snowman/commit/ef1f13ae0dcddc1ab222d20aa160a9a4ee3e40a0"
@@ -1218,7 +1148,6 @@
     "id": "25w20a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w20a",
     "changelog": "https://misode.github.io/versions/?id=25w20a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880a2b8a0fa093dcea244&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/23d9efaa0bb0ab6b6749885d7cb715ce48b46cce",
       "neoforge": "https://github.com/neoforged/Snowman/commit/23d9efaa0bb0ab6b6749885d7cb715ce48b46cce"
@@ -1236,7 +1165,6 @@
     "id": "25w19a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w19a",
     "changelog": "https://misode.github.io/versions/?id=25w19a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880cabb56e9b1a0cb9a5c&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46",
       "neoforge": "https://github.com/neoforged/Snowman/commit/3f057a146c8ad5679e8a6fe3e8e23f97f043cb46"
@@ -1254,7 +1182,6 @@
     "id": "25w18a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w18a",
     "changelog": "https://misode.github.io/versions/?id=25w18a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880aca6ffe4232b29a08a&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/d3c19d0ace585fe154acf0ec3d2dd4753ed111e7",
       "neoforge": "https://github.com/neoforged/Snowman/commit/d3c19d0ace585fe154acf0ec3d2dd4753ed111e7"
@@ -1272,7 +1199,6 @@
     "id": "25w17a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w17a",
     "changelog": "https://misode.github.io/versions/?id=25w17a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880cf87ebe1a4274c2c5d&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/1f88caed7ce184f8bf6f0c5773c202df06ce863f",
       "neoforge": "https://github.com/neoforged/Snowman/commit/1f88caed7ce184f8bf6f0c5773c202df06ce863f"
@@ -1289,7 +1215,6 @@
     "id": "25w16a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w16a",
     "changelog": "https://misode.github.io/versions/?id=25w16a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880a08015d14257b41847&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/77c96b6461bc64b82ecd301129ebdedaae418252",
       "neoforge": "https://github.com/neoforged/Snowman/commit/77c96b6461bc64b82ecd301129ebdedaae418252"
@@ -1307,7 +1232,6 @@
     "id": "25w15a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w15a",
     "changelog": "https://misode.github.io/versions/?id=25w15a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888070a67bf57fa6d52a05&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f00c8deffced2fd328033f85ebab6ffa5e38aa4a",
       "neoforge": "https://github.com/neoforged/Snowman/commit/f00c8deffced2fd328033f85ebab6ffa5e38aa4a"
@@ -1326,7 +1250,6 @@
     "article": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-5",
     "changelog": "https://misode.github.io/versions/?id=1.21.5",
     "primer": "https://docs.neoforged.net/primer/docs/1.21.5",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888032b6bdff55db11aa58&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ddf5d69f89444694f477416e74658d512acb7e7d",
       "neoforge": "https://github.com/neoforged/Snowman/commit/ddf5d69f89444694f477416e74658d512acb7e7d"
@@ -1344,7 +1267,6 @@
     "id": "1.21.5-release-candidate-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-2",
     "changelog": "https://misode.github.io/versions/?id=1.21.5-rc2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888808a9141ff55153f94f0&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c0fd0cb364cda4ec237b866deb806baca039385a",
       "neoforge": "https://github.com/neoforged/Snowman/commit/c0fd0cb364cda4ec237b866deb806baca039385a"
@@ -1361,7 +1283,6 @@
     "id": "1.21.5-release-candidate-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.5-rc1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880d2a1e8f4e4082113aa&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be",
       "neoforge": "https://github.com/neoforged/Snowman/commit/e2e7a315779b3fcbadcdf40bf1b05c164fe0c8be"
@@ -1378,7 +1299,6 @@
     "id": "1.21.5-pre-release-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=1.21.5-pre3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880ab9dbaee63d9910ec7&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/cd80d7caf9f23e1300c122d86ac02324866752e3",
       "neoforge": "https://github.com/neoforged/Snowman/commit/cd80d7caf9f23e1300c122d86ac02324866752e3"
@@ -1395,7 +1315,6 @@
     "id": "1.21.5-pre-release-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-2",
     "changelog": "https://misode.github.io/versions/?id=1.21.5-pre2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888804ab174eca60f06cce2&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/1474888acbd85eef71e51b6fcad3c94c683ec20b",
       "neoforge": "https://github.com/neoforged/Snowman/commit/1474888acbd85eef71e51b6fcad3c94c683ec20b"
@@ -1412,7 +1331,6 @@
     "id": "1.21.5-pre-release-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-1",
     "changelog": "https://misode.github.io/versions/?id=1.21.5-pre1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880c284edf23971e23a40&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/899a13de019fbed1d2c8d7e1e51930723b343e4f",
       "neoforge": "https://github.com/neoforged/Snowman/commit/899a13de019fbed1d2c8d7e1e51930723b343e4f"
@@ -1429,7 +1347,6 @@
     "id": "25w10a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w10a",
     "changelog": "https://misode.github.io/versions/?id=25w10a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888014bfaad8ddf5fbc3fd&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9875521be8358c308c6cb4c512cc2e31250fce00",
       "neoforge": "https://github.com/neoforged/Snowman/commit/9875521be8358c308c6cb4c512cc2e31250fce00"
@@ -1447,7 +1364,6 @@
     "id": "25w09b",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w09b",
     "changelog": "https://misode.github.io/versions/?id=25w09b",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880afbf30eb0ea90bc51c&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/4704ba3371d6e4991ff3c4c489d7d388dbb9d541",
       "neoforge": "https://github.com/neoforged/Snowman/commit/4704ba3371d6e4991ff3c4c489d7d388dbb9d541"
@@ -1464,7 +1380,6 @@
     "id": "25w09a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w09a",
     "changelog": "https://misode.github.io/versions/?id=25w09a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880c08ea5c539402c9e65&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/7363452196fbfe1002d5549786717a566603c8ce",
       "neoforge": "https://github.com/neoforged/Snowman/commit/7363452196fbfe1002d5549786717a566603c8ce"
@@ -1482,7 +1397,6 @@
     "id": "25w08a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w08a",
     "changelog": "https://misode.github.io/versions/?id=25w08a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f8888029bcabfb4fa0808925&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9088716d6c9e892c5e7f3e0396726da7f39ad9f6",
       "neoforge": "https://github.com/neoforged/Snowman/commit/9088716d6c9e892c5e7f3e0396726da7f39ad9f6"
@@ -1500,7 +1414,6 @@
     "id": "25w07a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w07a",
     "changelog": "https://misode.github.io/versions/?id=25w07a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880ba8b54db7fa26a37c6&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/19e7ee913c184700aa316b1753c9ed58428a580b",
       "neoforge": "https://github.com/neoforged/Snowman/commit/19e7ee913c184700aa316b1753c9ed58428a580b"
@@ -1518,7 +1431,6 @@
     "id": "25w06a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w06a",
     "changelog": "https://misode.github.io/versions/?id=25w06a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f888800ab1e4f7cba5196502&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/eb667cead5093ec7f80422b1f21243c6003a30fb",
       "neoforge": "https://github.com/neoforged/Snowman/commit/eb667cead5093ec7f80422b1f21243c6003a30fb"
@@ -1536,7 +1448,6 @@
     "id": "25w05a",
     "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w05a",
     "changelog": "https://misode.github.io/versions/?id=25w05a",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2534f070f88880c094f6ebda245594b5&pm=c",
     "snowman": {
       "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/9ed1d6043cc03cb238cec685b73d8278d815608a",
       "neoforge": "https://github.com/neoforged/Snowman/commit/9ed1d6043cc03cb238cec685b73d8278d815608a"

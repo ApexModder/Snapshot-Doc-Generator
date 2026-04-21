@@ -31,10 +31,6 @@ final class DiscordGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
-        link(output, "Notion", version.notion(), false);
-        newLine(output);
-
-        listItem(output);
         link(output, "SnowMan", version.snowman().get(forgeCraft), false);
         newLine(output);
 

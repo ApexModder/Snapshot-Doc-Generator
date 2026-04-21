@@ -1,11 +1,11 @@
 # 1.21.11 - Mounts of Mayhem
 
-|    ID     |  Release Type  |   Next Version    |       Previous Version        |
-|:---------:|:--------------:|:-----------------:|:-----------------------------:|
-|  1.21.11  |    RELEASE     |  26.1-snapshot-1  |  1.21.11-release-candidate-3  |
+|    ID     |  Release Type  |
+|:---------:|:--------------:|
+|  1.21.11  |    release     |
 
 ### Links
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11/>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11>
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.11>
 

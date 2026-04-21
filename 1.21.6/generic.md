@@ -1,8 +1,8 @@
 # 1.21.6 - Chase the Skies
 
-|    ID    |  Release Type  |         Next Version         |       Previous Version       |
-|:--------:|:--------------:|:----------------------------:|:----------------------------:|
-|  1.21.6  |    RELEASE     |  1.21.7-release-candidate-1  |  1.21.6-release-candidate-1  |
+|    ID    |  Release Type  |
+|:--------:|:--------------:|
+|  1.21.6  |    release     |
 
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.6>

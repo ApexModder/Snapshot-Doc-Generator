@@ -1,0 +1,11 @@
+# 1.21.11 - Release Candidate -2
+
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11>
+- **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-2
+- **Changelog**: <https://misode.github.io/versions/?id=1.21.11-rc2>
+- **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/8e85c35d76b1e5a9a6df9f3e34ebca34e3e79216>
+-# _Ping Mikey for access_
+
+**SlicedLimes Videos**:
+- **Main**: https://www.youtube.com/watch?v=rVrdRT4HjaI
+- **Pack**: N/A

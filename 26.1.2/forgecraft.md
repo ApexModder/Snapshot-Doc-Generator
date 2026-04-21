@@ -1,6 +1,6 @@
 # 26.1.2 - Hotfix
 
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md>
+- **Primer**: <https://docs.neoforged.net/primer/docs/26.1>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-2
 - **Changelog**: <https://misode.github.io/versions/?id=26.1.2>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/0069910efbd90234b002dc8ef811d33e304f44a3>

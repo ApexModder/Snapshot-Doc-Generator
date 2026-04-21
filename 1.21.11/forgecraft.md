@@ -1,6 +1,6 @@
 # 1.21.11 - Mounts of Mayhem
 
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11/>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.11>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/c6967bc41398f6848393b6cce8cea606e5955e0d>

@@ -1,8 +1,8 @@
 # Snapshot 25w07a
 
-|    ID    |  Release Type  |  Next Version  |  Previous Version  |
-|:--------:|:--------------:|:--------------:|:------------------:|
-|  25w07a  |    SNAPSHOT    |     25w08a     |       25w06a       |
+|    ID    |   Release Type    |
+|:--------:|:-----------------:|
+|  25w07a  |  snapshot-legacy  |
 
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.5>

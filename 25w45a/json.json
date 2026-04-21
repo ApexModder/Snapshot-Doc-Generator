@@ -1,8 +1,5 @@
 {
-    "display_name": "Snapshot 25w45a",
-    "id": "25w45a",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w45a",
-    "changelog": "https://misode.github.io/versions/?id=25w45a",
+    "primer": "https://docs.neoforged.net/primer/docs/1.21.11",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/8ca5d2d1a1842efefb7b1aa04047e5c9ab9ef3e9",
         "neoforge": "https://github.com/neoforged/Snowman/commit/3ea660bd0b9481306ce5bc99c3673f02361baba2"
@@ -10,8 +7,5 @@
     "videos": {
         "main": "https://www.youtube.com/watch?v=JBhZriLnIFs",
         "pack": "https://www.youtube.com/watch?v=AdzhN1oPYR0"
-    },
-    "type": "SNAPSHOT",
-    "next": "25w46a",
-    "previous": "25w44a"
+    }
 }

@@ -1,8 +1,8 @@
 # 1.21.5 - Spring to Life
 
-|    ID    |  Release Type  |  Next Version  |       Previous Version       |
-|:--------:|:--------------:|:--------------:|:----------------------------:|
-|  1.21.5  |    RELEASE     |     25w15a     |  1.21.5-release-candidate-2  |
+|    ID    |  Release Type  |
+|:--------:|:--------------:|
+|  1.21.5  |    release     |
 
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.5>

@@ -1,7 +1,7 @@
-# 25w34b - Hotfix
+# Snapshot 25w34b
 
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9/>
-- **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34a
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
+- **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34b
 - **Changelog**: <https://misode.github.io/versions/?id=25w34b>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/261483b3c9c32d1ad84d2d928ae8794657cfd48d>
 -# _Ping Mikey for access_

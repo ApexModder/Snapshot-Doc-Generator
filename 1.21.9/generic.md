@@ -1,11 +1,11 @@
 # 1.21.9 - Copper Age
 
-|    ID    |  Release Type  |         Next Version          |       Previous Version       |
-|:--------:|:--------------:|:-----------------------------:|:----------------------------:|
-|  1.21.9  |    RELEASE     |  1.21.10-release-candidate-1  |  1.21.9-release-candidate-1  |
+|    ID    |  Release Type  |
+|:--------:|:--------------:|
+|  1.21.9  |    release     |
 
 ### Links
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9/>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9>
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.9>
 

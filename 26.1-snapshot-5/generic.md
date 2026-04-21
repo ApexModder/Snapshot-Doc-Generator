@@ -1,11 +1,11 @@
-# 26.1 Snapshot 5
+# Snapshot 26.1-snapshot-5
 
-|        ID         |  Release Type  |   Next Version    |  Previous Version  |
-|:-----------------:|:--------------:|:-----------------:|:------------------:|
-|  26.1-snapshot-5  |    SNAPSHOT    |  26.1-snapshot-6  |  26.1-snapshot-4   |
+|        ID         |  Release Type  |
+|:-----------------:|:--------------:|
+|  26.1-snapshot-5  |    snapshot    |
 
 ### Links
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md>
+- **Primer**: <https://docs.neoforged.net/primer/docs/26.1>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-5>
 - **Changelog**: <https://misode.github.io/versions/?id=26.1-snapshot-5>
 

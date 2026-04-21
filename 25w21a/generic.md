@@ -1,8 +1,8 @@
 # Snapshot 25w21a
 
-|    ID    |  Release Type  |      Next Version      |  Previous Version  |
-|:--------:|:--------------:|:----------------------:|:------------------:|
-|  25w21a  |    SNAPSHOT    |  1.21.6-pre-release-1  |       25w20a       |
+|    ID    |   Release Type    |
+|:--------:|:-----------------:|
+|  25w21a  |  snapshot-legacy  |
 
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.6>

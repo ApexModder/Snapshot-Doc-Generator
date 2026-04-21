@@ -1,11 +1,11 @@
 # 26w14a - HerdCraft
 
-|    ID    |  Release Type  |  Next Version  |  Previous Version  |
-|:--------:|:--------------:|:--------------:|:------------------:|
-|  26w14a  |  APRIL_FOOLS   |      N/A       |        26.1        |
+|    ID    |  Release Type  |
+|:--------:|:--------------:|
+|  26w14a  |  april-fools   |
 
 ### Links
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md>
+- **Primer**: N/A
 - **Article**: <https://www.minecraft.net/en-us/article/the-herdcraft-update>
 - **Changelog**: <https://misode.github.io/versions/?id=26w14a>
 

@@ -1,8 +1,8 @@
 # 1.21.8 - Hotfix
 
-|    ID    |  Release Type  |  Next Version  |       Previous Version       |
-|:--------:|:--------------:|:--------------:|:----------------------------:|
-|  1.21.8  |    RELEASE     |     25w31a     |  1.21.8-release-candidate-1  |
+|    ID    |  Release Type  |
+|:--------:|:--------------:|
+|  1.21.8  |    release     |
 
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.8>

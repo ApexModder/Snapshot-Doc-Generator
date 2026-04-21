@@ -1,8 +1,8 @@
 # 1.21.7 - Hotfix
 
-|    ID    |  Release Type  |         Next Version         |       Previous Version       |
-|:--------:|:--------------:|:----------------------------:|:----------------------------:|
-|  1.21.7  |    RELEASE     |  1.21.8-release-candidate-1  |  1.21.7-release-candidate-2  |
+|    ID    |  Release Type  |
+|:--------:|:--------------:|
+|  1.21.7  |    release     |
 
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.7>

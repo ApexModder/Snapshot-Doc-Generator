@@ -1,11 +1,11 @@
 # Snapshot 25w41a
 
-|    ID    |  Release Type  |  Next Version  |  Previous Version  |
-|:--------:|:--------------:|:--------------:|:------------------:|
-|  25w41a  |    SNAPSHOT    |     25w42a     |      1.21.10       |
+|    ID    |   Release Type    |
+|:--------:|:-----------------:|
+|  25w41a  |  snapshot-legacy  |
 
 ### Links
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11/>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-snapshot-25w41a>
 - **Changelog**: <https://misode.github.io/versions/?id=25w41a>
 

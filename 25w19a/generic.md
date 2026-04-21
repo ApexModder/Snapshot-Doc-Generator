@@ -1,8 +1,8 @@
 # Snapshot 25w19a
 
-|    ID    |  Release Type  |  Next Version  |  Previous Version  |
-|:--------:|:--------------:|:--------------:|:------------------:|
-|  25w19a  |    SNAPSHOT    |     25w20a     |       25w18a       |
+|    ID    |   Release Type    |
+|:--------:|:-----------------:|
+|  25w19a  |  snapshot-legacy  |
 
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.6>

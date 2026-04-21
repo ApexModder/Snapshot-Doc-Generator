@@ -1,0 +1,18 @@
+# 1.21.11 - Release Candidate -1
+
+|              ID               |    Release Type     |
+|:-----------------------------:|:-------------------:|
+|  1.21.11-release-candidate-1  |  release-candidate  |
+
+### Links
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11>
+- **Article**: <https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-1>
+- **Changelog**: <https://misode.github.io/versions/?id=1.21.11-rc1>
+
+### SnowMan
+- **NeoForge**: <https://github.com/neoforged/Snowman/commit/2e940ecc98dca79a750dd05d0bb859541721cf08>
+- **ForgeCraft**: <https://github.com/forgecraft/minecraft-sources/commit/e523b3da8cc64f77131ac8064e54a41b31f0bb4b>
+
+### Update Videos
+- **Main**: <https://www.youtube.com/watch?v=j083J7kmeIk>
+- **Resource/Data Pack**: N/A

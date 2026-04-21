@@ -1,8 +1,8 @@
-# 26.2 Snapshot 1
+# Snapshot 26.2-snapshot-1
 
-|        ID         |  Release Type  |   Next Version    |  Previous Version  |
-|:-----------------:|:--------------:|:-----------------:|:------------------:|
-|  26.2-snapshot-1  |    SNAPSHOT    |  26.2-snapshot-2  |       26.1.1       |
+|        ID         |  Release Type  |
+|:-----------------:|:--------------:|
+|  26.2-snapshot-1  |    snapshot    |
 
 ### Links
 - **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md>

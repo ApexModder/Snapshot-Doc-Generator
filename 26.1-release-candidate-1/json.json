@@ -1,0 +1,7 @@
+{
+    "primer": "https://docs.neoforged.net/primer/docs/26.1",
+    "snowman": {
+        "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a2f42ae4232f26161b4a07008c8104573e9acab3",
+        "neoforge": "https://github.com/neoforged/Snowman/commit/4c9105d034a3bf9fdab7a8fd02b97aae3b553c56"
+    }
+}

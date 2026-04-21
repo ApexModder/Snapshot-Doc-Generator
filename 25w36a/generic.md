@@ -1,11 +1,11 @@
 # Snapshot 25w36a
 
-|    ID    |  Release Type  |  Next Version  |  Previous Version  |
-|:--------:|:--------------:|:--------------:|:------------------:|
-|  25w36a  |    SNAPSHOT    |     25w36b     |       25w35a       |
+|    ID    |   Release Type    |
+|:--------:|:-----------------:|
+|  25w36a  |  snapshot-legacy  |
 
 ### Links
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9/>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-snapshot-25w36a>
 - **Changelog**: <https://misode.github.io/versions/?id=25w36a>
 

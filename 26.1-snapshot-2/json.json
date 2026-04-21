@@ -1,8 +1,5 @@
 {
-    "display_name": "26.1 Snapshot 2",
-    "id": "26.1-snapshot-2",
-    "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-2",
-    "changelog": "https://misode.github.io/versions/?id=26.1-snapshot-2",
+    "primer": "https://docs.neoforged.net/primer/docs/26.1",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c75852363925125bdc02842fa03e93589b9dab82",
         "neoforge": "https://github.com/neoforged/Snowman/commit/c75852363925125bdc02842fa03e93589b9dab82"
@@ -10,8 +7,5 @@
     "videos": {
         "main": "https://www.youtube.com/watch?v=ro-fzLZXEfI",
         "pack": "https://www.youtube.com/watch?v=RzGvQBs-h-0"
-    },
-    "type": "SNAPSHOT",
-    "next": "26.1-snapshot-3",
-    "previous": "26.1-snapshot-1"
+    }
 }

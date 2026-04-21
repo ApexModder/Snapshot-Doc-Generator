@@ -1,11 +1,11 @@
 # 26.1.2 - Hotfix
 
-|    ID    |  Release Type  |  Next Version  |       Previous Version       |
-|:--------:|:--------------:|:--------------:|:----------------------------:|
-|  26.1.2  |    RELEASE     |      N/A       |  26.1.2-release-candidate-1  |
+|    ID    |  Release Type  |
+|:--------:|:--------------:|
+|  26.1.2  |    release     |
 
 ### Links
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md>
+- **Primer**: <https://docs.neoforged.net/primer/docs/26.1>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-2>
 - **Changelog**: <https://misode.github.io/versions/?id=26.1.2>
 

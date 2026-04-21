@@ -1,12 +1,12 @@
-# 25w34b - Hotfix
+# Snapshot 25w34b
 
-|    ID    |  Release Type  |  Next Version  |  Previous Version  |
-|:--------:|:--------------:|:--------------:|:------------------:|
-|  25w34b  |    SNAPSHOT    |     25w35a     |       25w34a       |
+|    ID    |   Release Type    |
+|:--------:|:-----------------:|
+|  25w34b  |  snapshot-legacy  |
 
 ### Links
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9/>
-- **Article**: <https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34a>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
+- **Article**: <https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34b>
 - **Changelog**: <https://misode.github.io/versions/?id=25w34b>
 
 ### SnowMan

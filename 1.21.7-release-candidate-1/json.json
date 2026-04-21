@@ -1,0 +1,10 @@
+{
+    "primer": "https://docs.neoforged.net/primer/docs/1.21.7",
+    "snowman": {
+        "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee",
+        "neoforge": "https://github.com/neoforged/Snowman/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=FS0eIaCxKHc"
+    }
+}

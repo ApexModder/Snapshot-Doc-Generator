@@ -1,6 +1,6 @@
 # Snapshot 25w32a
 
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9/>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w32a
 - **Changelog**: <https://misode.github.io/versions/?id=25w32a>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/140021b11fb008c9a584fb61c77262fef48dc947>

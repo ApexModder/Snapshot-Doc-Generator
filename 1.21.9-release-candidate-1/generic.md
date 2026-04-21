@@ -1,0 +1,18 @@
+# 1.21.9 - Release Candidate -1
+
+|              ID              |    Release Type     |
+|:----------------------------:|:-------------------:|
+|  1.21.9-release-candidate-1  |  release-candidate  |
+
+### Links
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
+- **Article**: <https://www.minecraft.net/en-us/article/minecraft-1-21-9-release-candidate-1>
+- **Changelog**: <https://misode.github.io/versions/?id=1.21.9-rc1>
+
+### SnowMan
+- **NeoForge**: <https://github.com/neoforged/Snowman/commit/9857185387079527a8606cbaa4a587040e344fc5>
+- **ForgeCraft**: <https://github.com/forgecraft/minecraft-sources/commit/ab5c6b2f2fe0f8e73bb8ba5b99e3832f516f2239>
+
+### Update Videos
+- **Main**: <https://www.youtube.com/watch?v=VNM8xiegswc>
+- **Resource/Data Pack**: N/A

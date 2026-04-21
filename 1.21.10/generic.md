@@ -1,11 +1,11 @@
 # 1.21.10 - Hotfix
 
-|    ID     |  Release Type  |  Next Version  |       Previous Version        |
-|:---------:|:--------------:|:--------------:|:-----------------------------:|
-|  1.21.10  |    RELEASE     |     25w41a     |  1.21.10-release-candidate-1  |
+|    ID     |  Release Type  |
+|:---------:|:--------------:|
+|  1.21.10  |    release     |
 
 ### Links
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.10/>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.10>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10>
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.10>
 

@@ -1,11 +1,11 @@
 # Snapshot 25w32a
 
-|    ID    |  Release Type  |  Next Version  |  Previous Version  |
-|:--------:|:--------------:|:--------------:|:------------------:|
-|  25w32a  |    SNAPSHOT    |     25w33a     |       25w31a       |
+|    ID    |   Release Type    |
+|:--------:|:-----------------:|
+|  25w32a  |  snapshot-legacy  |
 
 ### Links
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9/>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-snapshot-25w32a>
 - **Changelog**: <https://misode.github.io/versions/?id=25w32a>
 

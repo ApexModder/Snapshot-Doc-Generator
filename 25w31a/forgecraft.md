@@ -1,6 +1,6 @@
 # Snapshot 25w31a
 
-- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9/>
+- **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w31a
 - **Changelog**: <https://misode.github.io/versions/?id=25w31a>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/3d07356f9416d5045b57e8b65626556b99c6f7f8>

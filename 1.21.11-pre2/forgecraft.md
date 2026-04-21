@@ -3,7 +3,6 @@
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11/>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-2
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.11-pre2>
-- **Notion**: <https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2b24f070f888800d9ba1e74dacb04c5d&pm=c>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/552ace82f671a2366fa8cc595b961516c0e367b0>
 -# _Ping Mikey for access_
 

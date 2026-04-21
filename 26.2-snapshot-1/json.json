@@ -3,7 +3,6 @@
     "id": "26.2-snapshot-1",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-1",
     "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-1",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=33b4f070f888806bb2b1c8c986fddafd&pm=c",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/2f8defa650c5786c6743d8e4a8b80c10c081d442",
         "neoforge": "https://github.com/neoforged/Snowman/commit/80d71c9c7e96c72906fb4836362fc90151a40305"

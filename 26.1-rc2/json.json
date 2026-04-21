@@ -3,7 +3,6 @@
     "id": "26.1-release-candidate-2",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-2",
     "changelog": "https://misode.github.io/versions/?id=26.1-rc-2",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3294f070f88880eebc16e128599a2dd3&pm=c",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6cd67428324c905330fa0cb1717200749c9e2561",
         "neoforge": "https://github.com/neoforged/Snowman/commit/8f42f359a7c9ce8778cf17f3794848dc699a97d7"

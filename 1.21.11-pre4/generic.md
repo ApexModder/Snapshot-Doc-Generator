@@ -8,7 +8,6 @@
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11/>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-4>
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.11-pre4>
-- **Notion**: <https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2b64f070f888800b97b0e1ca65ad62d8&pm=c>
 
 ### SnowMan
 - **NeoForge**: <https://github.com/neoforged/Snowman/commit/29450878a3b5544175d1d5158ae6d6fe6f11c962>

@@ -3,7 +3,6 @@
     "id": "26.1-pre-release-3",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3",
     "changelog": "https://misode.github.io/versions/?id=26.1-pre-3",
-    "notion": "https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=3264f070f88880afbadce050e5dc7c0f&pm=c",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/935700989716f4da0ebce7b187224ae3e38acf11",
         "neoforge": "https://github.com/neoforged/Snowman/commit/935700989716f4da0ebce7b187224ae3e38acf11"

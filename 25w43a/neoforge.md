@@ -3,7 +3,6 @@
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11/>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w43a
 - **Changelog**: <https://misode.github.io/versions/?id=25w43a>
-- **Notion**: <https://apexmodder.notion.site/2524f070f88880648482e3cbdcba566a?v=2524f070f88880b29f60000c52785ecb&p=2934f070f888805aa391cd897d7550bf&pm=c>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/2bc64296c468ac77a321bbc367b1a95d8775275f>
 
 **SlicedLimes Videos**:

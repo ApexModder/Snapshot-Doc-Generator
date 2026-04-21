@@ -1,6 +1,6 @@
 [
   {
-    "display_name": "26.2 Snapshot 44",
+    "display_name": "26.2 Snapshot 4",
     "id": "26.2-snapshot-4",
     "article": "https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-4",
     "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-4",
@@ -31,7 +31,7 @@
       "pack": "https://www.youtube.com/watch?v=mD4nduuih1g"
     },
     "type": "SNAPSHOT",
-    "next": "26.2-snapshot-3",
+    "next": "26.2-snapshot-4",
     "previous": "26.2-snapshot-2"
   },
   {

@@ -6,8 +6,8 @@
     "changelog": "https://misode.github.io/versions/?id=26.2-snapshot-4",
     "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port%2F26.2/primers/26.2/index.md",
     "snowman": {
-      "forgecraft": null,
-      "neoforge": null
+      "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a43a04a720cace4ea5a52e3423af35f869ae5e78",
+      "neoforge": "https://github.com/neoforged/Snowman/commit/43b5fdb25e4f6d2fac4be5c30bce63ec65505ed0"
     },
     "videos": {
       "main": null,

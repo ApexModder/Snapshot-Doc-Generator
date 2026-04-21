@@ -11,7 +11,7 @@
     },
     "videos": {
       "main": "https://www.youtube.com/watch?v=yXBeZqfkXas",
-      "pack": null
+      "pack": "https://www.youtube.com/watch?v=mD4nduuih1g"
     },
     "type": "SNAPSHOT",
     "previous": "26.2-snapshot-2"

@@ -10,8 +10,8 @@
 - **Changelog**: <https://misode.github.io/versions/?id=26.2-snapshot-5>
 
 ### SnowMan
-- **NeoForge**: N/A
-- **ForgeCraft**: N/A
+- **NeoForge**: <https://github.com/neoforged/Snowman/commit/8539f67f6a4814af76f948e6e8ea72aa1bcd8850>
+- **ForgeCraft**: <https://github.com/forgecraft/minecraft-sources/commit/b565ed6ad04540bb15aa703ef47fbca064a9042a>
 
 ### Update Videos
 - **Main**: N/A

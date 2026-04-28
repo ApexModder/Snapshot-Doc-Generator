@@ -1,4 +1,15 @@
 {
+    "26.2-snapshot-5": {
+        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
+        "snowman": {
+            "forgecraft": null,
+            "neoforge": null
+        },
+        "videos": {
+            "main": null,
+            "pack": null
+        }
+    },
     "26.2-snapshot-4": {
         "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md",
         "snowman": {

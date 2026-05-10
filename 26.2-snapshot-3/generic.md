@@ -5,7 +5,7 @@
 |  26.2-snapshot-3  |    snapshot    |
 
 ### Links
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/update/26.1/primers/26.1/index.md>
+- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-3>
 - **Changelog**: <https://misode.github.io/versions/?id=26.2-snapshot-3>
 

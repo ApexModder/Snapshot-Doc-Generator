@@ -14,23 +14,19 @@ public final class ReleaseType {
     public static final ReleaseType RELEASE_CANDIDATE = ReleaseType.builder()
             .article(id -> "minecraft-" + id)
             .shortHand(id -> StringUtils.replace(id, "release-candidate-", "rc"))
-            .displayName(id -> extractVersionAndBuild(id, "Release Candidate"))
             .build("release-candidate");
 
     public static final ReleaseType PRE_RELEASE = ReleaseType.builder()
             .article(id -> "minecraft-" + id)
             .shortHand(id -> StringUtils.replace(id, "pre-release-", "pre"))
-            .displayName(id -> extractVersionAndBuild(id, "Pre Release"))
             .build("pre-release");
 
     public static final ReleaseType SNAPSHOT = ReleaseType.builder()
             .article(id -> "minecraft-" + id)
-            .displayName(id -> "Snapshot " + id)
             .build("snapshot");
 
     public static final ReleaseType SNAPSHOT_LEGACY = ReleaseType.builder()
             .article(id -> "minecraft-snapshot-" + id)
-            .displayName(id -> "Snapshot " + id)
             .build("snapshot-legacy");
 
     public static final ReleaseType APRIL_FOOLS = ReleaseType.builder().build("april-fools");
@@ -43,23 +39,17 @@ public final class ReleaseType {
 
     private final String serializedName;
     private final UnaryOperator<String> shortHand;
-    private final UnaryOperator<String> displayName;
     private final @Nullable UnaryOperator<String> article;
 
     private ReleaseType(String serializedName, Builder builder) {
         this.serializedName = serializedName;
 
         shortHand = builder.shortHand;
-        displayName = builder.displayName;
         article = builder.article;
     }
 
     public String shortHand(Version version) {
         return shortHand.apply(version.id());
-    }
-
-    public String displayName(Version version) {
-        return displayName.apply(version.id());
     }
 
     public String article(Version version) {
@@ -107,12 +97,6 @@ public final class ReleaseType {
         return serializedName;
     }
 
-    private static String extractVersionAndBuild(String id, String human) {
-        var version = id.substring(0, id.indexOf('-'));
-        var build = id.substring(id.lastIndexOf('-'));
-        return version + " - " + human + " " + build;
-    }
-
     public static ReleaseType from(String id) {
         var oldMatcher = OLD_SNAPSHOT_FORMAT.matcher(id);
 
@@ -151,7 +135,6 @@ public final class ReleaseType {
 
     private static final class Builder {
         private UnaryOperator<String> shortHand = UnaryOperator.identity();
-        private UnaryOperator<String> displayName = UnaryOperator.identity();
         private @Nullable UnaryOperator<String> article = null;
 
         private Builder() {
@@ -159,11 +142,6 @@ public final class ReleaseType {
 
         public Builder shortHand(UnaryOperator<String> shortHand) {
             this.shortHand = shortHand;
-            return this;
-        }
-
-        public Builder displayName(UnaryOperator<String> displayName) {
-            this.displayName = displayName;
             return this;
         }
 

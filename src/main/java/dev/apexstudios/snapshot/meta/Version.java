@@ -52,7 +52,6 @@ public final class Version {
     }
 
     public String displayName() {
-        var displayName = releaseType.displayName(this);
-        return metadata.drop().map(suffix -> displayName + " - " + suffix).orElse(displayName);
+        return metadata.drop().map(suffix -> id + " - " + suffix).orElse(id);
     }
 }

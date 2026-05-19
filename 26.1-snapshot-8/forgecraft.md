@@ -1,4 +1,4 @@
-# Snapshot 26.1-snapshot-8
+# 26.1-snapshot-8
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/26.1>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-8

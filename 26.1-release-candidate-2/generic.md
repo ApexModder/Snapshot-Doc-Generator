@@ -1,4 +1,4 @@
-# 26.1 - Release Candidate -2
+# 26.1-release-candidate-2
 
 |             ID             |    Release Type     |
 |:--------------------------:|:-------------------:|

@@ -1,4 +1,4 @@
-# Snapshot 25w34b
+# 25w34b
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34b

@@ -1,4 +1,4 @@
-# Snapshot 26.2-snapshot-6
+# 26.2-snapshot-6
 
 - **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-6

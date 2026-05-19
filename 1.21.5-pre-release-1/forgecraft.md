@@ -1,4 +1,4 @@
-# 1.21.5 - Pre Release -1
+# 1.21.5-pre-release-1
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.5>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-1

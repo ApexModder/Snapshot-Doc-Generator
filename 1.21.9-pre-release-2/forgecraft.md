@@ -1,4 +1,4 @@
-# 1.21.9 - Pre Release -2
+# 1.21.9-pre-release-2
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-2

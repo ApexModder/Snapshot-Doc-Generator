@@ -1,4 +1,4 @@
-# 26.1 - Release Candidate -2
+# 26.1-release-candidate-2
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/26.1>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-2

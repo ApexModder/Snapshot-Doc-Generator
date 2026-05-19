@@ -1,4 +1,4 @@
-# Snapshot 26.1-snapshot-10
+# 26.1-snapshot-10
 
 |         ID         |  Release Type  |
 |:------------------:|:--------------:|

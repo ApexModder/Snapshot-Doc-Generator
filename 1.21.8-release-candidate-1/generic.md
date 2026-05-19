@@ -1,4 +1,4 @@
-# 1.21.8 - Release Candidate -1
+# 1.21.8-release-candidate-1
 
 |              ID              |    Release Type     |
 |:----------------------------:|:-------------------:|

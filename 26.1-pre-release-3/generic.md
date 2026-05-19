@@ -1,4 +1,4 @@
-# 26.1 - Pre Release -3
+# 26.1-pre-release-3
 
 |          ID          |  Release Type  |
 |:--------------------:|:--------------:|

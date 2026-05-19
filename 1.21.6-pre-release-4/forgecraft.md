@@ -1,4 +1,4 @@
-# 1.21.6 - Pre Release -4
+# 1.21.6-pre-release-4
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.6>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-4

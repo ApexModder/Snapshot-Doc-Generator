@@ -1,4 +1,4 @@
-# 1.21.5 - Release Candidate -2
+# 1.21.5-release-candidate-2
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.5>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-2

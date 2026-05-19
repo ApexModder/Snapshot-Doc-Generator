@@ -1,4 +1,4 @@
-# 1.21.7 - Release Candidate -1
+# 1.21.7-release-candidate-1
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.7>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-7-release-candidate-1

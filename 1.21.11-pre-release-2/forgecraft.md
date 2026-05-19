@@ -1,4 +1,4 @@
-# 1.21.11 - Pre Release -2
+# 1.21.11-pre-release-2
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-2

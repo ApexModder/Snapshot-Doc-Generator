@@ -1,4 +1,4 @@
-# Snapshot 25w21a
+# 25w21a
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.6>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w21a

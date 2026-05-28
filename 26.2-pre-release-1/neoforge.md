@@ -6,7 +6,7 @@
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/12e53ae0b77343129910ea9434a6d79e68449dbf>
 
 **SlicedLimes Videos**:
-- **Main**: N/A
-- **Pack**: N/A
+- **Main**: https://www.youtube.com/watch?v=t8OtviRjRoU
+- **Pack**: https://www.youtube.com/watch?v=7FB0y4NG_l4
 
 ||<@&1067092163520909374>||

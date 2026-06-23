@@ -1,4 +1,15 @@
 {
+    "26.3-snapshot-1": {
+        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.3/primers/26.3/index.md",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ceb68a60b3ad08d46d7da95fca5bcc4d05f4533e",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/22a7bd16efbd20d022d9ad6f4c599a0a40fc933d"
+        },
+        "videos": {
+            "main": null,
+            "pack": null
+        }
+    },
     "26.2": {
         "drop": "Chaos Cubed",
         "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
@@ -7,8 +18,7 @@
             "neoforge": "https://github.com/neoforged/Snowman/commit/79c1bf2670b3b1f38da91863b95f0dd9be7b1ae1"
         },
         "videos": {
-            "main": "https://www.youtube.com/watch?v=YGAUomxJVZ0",
-            "pack": null
+            "main": "https://www.youtube.com/watch?v=YGAUomxJVZ0"
         }
     },
     "26.2-release-candidate-2": {
@@ -18,8 +28,7 @@
             "neoforge": "https://github.com/neoforged/Snowman/commit/b2ae326cbbfc70027fa7868a9b88318b6b430071"
         },
         "videos": {
-            "main": "https://www.youtube.com/watch?v=NMSjarUvmsg",
-            "pack": null
+            "main": "https://www.youtube.com/watch?v=NMSjarUvmsg"
         }
     },
     "26.2-release-candidate-1": {

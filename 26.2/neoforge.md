@@ -1,6 +1,6 @@
 # 26.2 - Chaos Cubed
 
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md>
+- **Primer**: <https://docs.neoforged.net/primer/docs/26.2>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2
 - **Changelog**: <https://misode.github.io/versions/?id=26.2>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/79c1bf2670b3b1f38da91863b95f0dd9be7b1ae1>

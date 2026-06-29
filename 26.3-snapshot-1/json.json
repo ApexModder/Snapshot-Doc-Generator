@@ -1,7 +1,10 @@
 {
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.3/primers/26.3/index.md",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ceb68a60b3ad08d46d7da95fca5bcc4d05f4533e",
         "neoforge": "https://github.com/neoforged/Snowman/commit/22a7bd16efbd20d022d9ad6f4c599a0a40fc933d"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=zR5Cm1rH0LE",
+        "pack": "https://www.youtube.com/watch?v=4YZv3zXndb8"
     }
 }

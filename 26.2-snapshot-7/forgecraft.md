@@ -1,6 +1,6 @@
 # 26.2-snapshot-7
 
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md>
+- **Primer**: <https://docs.neoforged.net/primer/docs/26.2>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-7
 - **Changelog**: <https://misode.github.io/versions/?id=26.2-snapshot-7>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/5bd55f68e27637e104330a28df0cbc7a2f153f79>

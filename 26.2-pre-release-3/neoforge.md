@@ -1,6 +1,6 @@
 # 26.2-pre-release-3
 
-- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md>
+- **Primer**: <https://docs.neoforged.net/primer/docs/26.2>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-3
 - **Changelog**: <https://misode.github.io/versions/?id=26.2-pre3>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/fec4faf86c13d14750fb81614bc255af8f34ded5>

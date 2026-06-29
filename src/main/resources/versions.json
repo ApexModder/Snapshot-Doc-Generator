@@ -1,18 +1,18 @@
 {
     "26.3-snapshot-1": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.3/primers/26.3/index.md",
+        "primer": null,
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ceb68a60b3ad08d46d7da95fca5bcc4d05f4533e",
             "neoforge": "https://github.com/neoforged/Snowman/commit/22a7bd16efbd20d022d9ad6f4c599a0a40fc933d"
         },
         "videos": {
-            "main": null,
-            "pack": null
+            "main": "https://www.youtube.com/watch?v=zR5Cm1rH0LE",
+            "pack": "https://www.youtube.com/watch?v=4YZv3zXndb8"
         }
     },
     "26.2": {
         "drop": "Chaos Cubed",
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/b8104bcaafa03f2c098330bb5816357fcc334ecd",
             "neoforge": "https://github.com/neoforged/Snowman/commit/79c1bf2670b3b1f38da91863b95f0dd9be7b1ae1"
@@ -22,7 +22,7 @@
         }
     },
     "26.2-release-candidate-2": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/558090b617bf4d44625dccecbbeb941fd993202e",
             "neoforge": "https://github.com/neoforged/Snowman/commit/b2ae326cbbfc70027fa7868a9b88318b6b430071"
@@ -32,7 +32,7 @@
         }
     },
     "26.2-release-candidate-1": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3714ecf3349a9228accc4071d30ac72894f418eb",
             "neoforge": "https://github.com/neoforged/Snowman/commit/a906a5bc2ad3b4bdb95ac5a0b73b0a18a872effa"
@@ -42,7 +42,7 @@
         }
     },
     "26.2-pre-release-6": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ef382d2e7f975bfd0528644f979a67259674d555",
             "neoforge": "https://github.com/neoforged/Snowman/commit/583dae3f903f1097245e453a9c808eb5697b5603"
@@ -52,7 +52,7 @@
         }
     },
     "26.2-pre-release-5": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/bd2fb7487a98f83f8fbc9c0f905232043103d3fd",
             "neoforge": "https://github.com/neoforged/Snowman/commit/86f782195b4a52e3ec57cc6a493f6ced96601b9f"
@@ -62,7 +62,7 @@
         }
     },
     "26.2-pre-release-4": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/6806a89a83c03cb96dc13c236f103de5b2f6fe18",
             "neoforge": "https://github.com/neoforged/Snowman/commit/a483a8d4ad38b86d147d88ca272eb8ab521aa06c"
@@ -73,7 +73,7 @@
         }
     },
     "26.2-pre-release-3": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/7ae45e9ba2477586b41e47497b8f8257774e0f12",
             "neoforge": "https://github.com/neoforged/Snowman/commit/fec4faf86c13d14750fb81614bc255af8f34ded5"
@@ -83,7 +83,7 @@
         }
     },
     "26.2-pre-release-2": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c7f43d4cc04e10a5975976d65ebf4cf7df24238e",
             "neoforge": "https://github.com/neoforged/Snowman/commit/0c91b0265bd13c23fe66b811f93b620cfa42951d"
@@ -93,7 +93,7 @@
         }
     },
     "26.2-pre-release-1": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/98fb79711f6a792b06bee2c8484920ff489fd74a",
             "neoforge": "https://github.com/neoforged/Snowman/commit/12e53ae0b77343129910ea9434a6d79e68449dbf"
@@ -104,7 +104,7 @@
         }
     },
     "26.2-snapshot-8": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/18a04e7a606f97071507a5ee9569e015bd3d05f7",
             "neoforge": "https://github.com/neoforged/Snowman/commit/b30ad518a70dd588e90f088840fdd75fa5e2af52"
@@ -115,7 +115,7 @@
         }
     },
     "26.2-snapshot-7": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/5bd55f68e27637e104330a28df0cbc7a2f153f79",
             "neoforge": "https://github.com/neoforged/Snowman/commit/e6d246e9d9d29043c764e8195a84736c011b193c"
@@ -126,7 +126,7 @@
         }
     },
     "26.2-snapshot-6": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/68aba7a188d5e0146b542fc31405368ebb6f0286",
             "neoforge": "https://github.com/neoforged/Snowman/commit/53700c224577592092e688193595bad3bcc46adf"
@@ -137,7 +137,7 @@
         }
     },
     "26.2-snapshot-5": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/b565ed6ad04540bb15aa703ef47fbca064a9042a",
             "neoforge": "https://github.com/neoforged/Snowman/commit/8539f67f6a4814af76f948e6e8ea72aa1bcd8850"
@@ -148,7 +148,7 @@
         }
     },
     "26.2-snapshot-4": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/a43a04a720cace4ea5a52e3423af35f869ae5e78",
             "neoforge": "https://github.com/neoforged/Snowman/commit/43b5fdb25e4f6d2fac4be5c30bce63ec65505ed0"
@@ -159,7 +159,7 @@
         }
     },
     "26.2-snapshot-3": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/3674fc8e63de2b59b018f6bba00bed5db36d315b",
             "neoforge": "https://github.com/neoforged/Snowman/commit/e7f33df5ad981dd3cef42d63e0ad1e052e6bc204"
@@ -170,7 +170,7 @@
         }
     },
     "26.2-snapshot-2": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ca0d7902a5ccf624421ca1847d7fd6af1b03d356",
             "neoforge": "https://github.com/neoforged/Snowman/commit/fdbe65f4b1c76e792d9cbf4c673596ddf408b072"
@@ -198,7 +198,7 @@
         }
     },
     "26.2-snapshot-1": {
-        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.2/primers/26.2/index.md",
+        "primer": "https://docs.neoforged.net/primer/docs/26.2",
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/2f8defa650c5786c6743d8e4a8b80c10c081d442",
             "neoforge": "https://github.com/neoforged/Snowman/commit/80d71c9c7e96c72906fb4836362fc90151a40305"

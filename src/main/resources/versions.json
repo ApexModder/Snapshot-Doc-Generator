@@ -1,4 +1,15 @@
 {
+    "26.3-snapshot-3": {
+        "primer": null,
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/2cbcea19cc19325ab4ec4165ff35d80dfe9b3aa9",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/6e1f20edd27da540688f7c64978925044e59069f"
+        },
+        "videos": {
+            "main": null,
+            "pack": null
+        }
+    },
     "26.3-snapshot-2": {
         "primer": null,
         "snowman": {
@@ -6,8 +17,8 @@
             "neoforge": "https://github.com/neoforged/Snowman/commit/87e29358b475c518ade076401d61d2f9006b0935"
         },
         "videos": {
-            "main": null,
-            "pack": null
+            "main": "https://www.youtube.com/watch?v=O_xO9IhPNWw",
+            "pack": "https://www.youtube.com/watch?v=35K0jTiCi5I"
         }
     },
     "26.3-snapshot-1": {

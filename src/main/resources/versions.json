@@ -7,7 +7,7 @@
         },
         "videos": {
             "main": null,
-            "pack": null
+            "pack": "https://www.youtube.com/watch?v=f3BtrNtBd50"
         }
     },
     "26.3-snapshot-4": {
@@ -18,7 +18,7 @@
         },
         "videos": {
             "main": "https://www.youtube.com/watch?v=u-SQf0RMVns",
-            "pack": null
+            "pack": "https://www.youtube.com/watch?v=f3BtrNtBd50"
         }
     },
     "26.3-snapshot-3": {

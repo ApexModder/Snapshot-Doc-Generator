@@ -7,6 +7,6 @@
 
 **SlicedLimes Videos**:
 - **Main**: https://www.youtube.com/watch?v=kr31NneNC5E
-- **Pack**: N/A
+- **Pack**: https://www.youtube.com/watch?v=BqJZcewTnjg
 
 ||<@&1067092163520909374>||

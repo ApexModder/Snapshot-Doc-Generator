@@ -1,4 +1,15 @@
 {
+    "26.3-snapshot-8": {
+        "primer": null,
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/c52090dbb8dd69eee482b5f9abe9f31861ad275f",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/6267bac999aacc9b65c4c85413581469147687c9"
+        },
+        "videos": {
+            "main": null,
+            "pack": null
+        }
+    },
     "26.3-snapshot-7": {
         "primer": null,
         "snowman": {

@@ -3,7 +3,7 @@
 - **Primer**: N/A
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-9
 - **Changelog**: <https://misode.github.io/versions/?id=26.3-snapshot-9>
-- **SnowMan**: N/A
+- **SnowMan**: <https://github.com/neoforged/Snowman/commit/c5ce941e84c640acc99cbf9571656d0473471047>
 
 **SlicedLimes Videos**:
 - **Main**: N/A

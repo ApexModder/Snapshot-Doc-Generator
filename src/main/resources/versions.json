@@ -1,4 +1,15 @@
 {
+    "26.3-pre-release-1": {
+        "primer": null,
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f3b8e270e0f6491a35fa3186c15cd8e57b5d6faa",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/c59d366429643d0d66c05d65d07dc46c9de017da"
+        },
+        "videos": {
+            "main": null,
+            "pack": null
+        }
+    },
     "26.3-snapshot-10": {
         "primer": null,
         "snowman": {

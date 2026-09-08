@@ -7,5 +7,5 @@
 -# _Ping Mikey for access_
 
 **SlicedLimes Videos**:
-- **Main**: N/A
-- **Pack**: N/A
+- **Main**: https://www.youtube.com/watch?v=GTtUZbv78fw
+- **Pack**: https://www.youtube.com/watch?v=Pgirst8EZWg

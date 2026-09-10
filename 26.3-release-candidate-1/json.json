@@ -2,5 +2,8 @@
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f099ddba82b19400df7bb33fdd447ebab729fb46",
         "neoforge": "https://github.com/neoforged/Snowman/commit/4663d056e8f6f1ef1981639fb3ae027bd3d22536"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=Xl1dludSBSk"
     }
 }

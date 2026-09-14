@@ -1,6 +1,6 @@
 # 26.3-snapshot-6
 
-- **Primer**: N/A
+- **Primer**: <https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.3/primers/26.3/index.md>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-6
 - **Changelog**: <https://misode.github.io/versions/?id=26.3-snapshot-6>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/b7354fc4d3d1a4b0a657cca985b6f5de7bc3f7e9>

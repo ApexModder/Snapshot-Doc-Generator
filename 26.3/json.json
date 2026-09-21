@@ -1,5 +1,5 @@
 {
-    "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.3/primers/26.3/index.md",
+    "primer": "https://docs.neoforged.net/primer/docs/26.3",
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/dfd5494ae7fe226cc492bc89e1a99ada8d19c56c",
         "neoforge": "https://github.com/neoforged/Snowman/commit/997c1a0b9c8cc57c835c1f0d9a69474aeccbb2c4"

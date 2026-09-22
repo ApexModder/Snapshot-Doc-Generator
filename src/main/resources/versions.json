@@ -1,4 +1,15 @@
 {
+    "26.4-snapshot-1": {
+        "primer": null,
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/f4be0d6eaacc4f15a1318624cbae107ac9418b51",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/8f35239268e58e575c1f1f84ca58d6e083907331"
+        },
+        "videos": {
+            "main": null,
+            "pack": null
+        }
+    },
     "26.3": {
         "drop": "Wilderness Bound",
         "primer": "https://docs.neoforged.net/primer/docs/26.3",

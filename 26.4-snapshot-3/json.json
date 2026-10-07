@@ -3,5 +3,8 @@
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/7f4f84f63e55e54107dc9e0808516787788a832b",
         "neoforge": "https://github.com/neoforged/Snowman/commit/bde2bee7e89002c96cd515360ab25f719f346c35"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=Gxn_bQwbpNw"
     }
 }

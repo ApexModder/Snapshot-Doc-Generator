@@ -3,5 +3,9 @@
     "snowman": {
         "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/dfd3027239c731f27d8d9811e7b4b5281e671407",
         "neoforge": "https://github.com/neoforged/Snowman/commit/b167f393c5e1722bfd76f36fdcfd5178df05e97a"
+    },
+    "videos": {
+        "main": "https://www.youtube.com/watch?v=wX2FxRqgrtE",
+        "pack": "https://www.youtube.com/watch?v=n5QVsGa-zuo"
     }
 }

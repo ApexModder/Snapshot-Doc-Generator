@@ -15,10 +15,6 @@
         "snowman": {
             "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/52ad85267c47b7e1a3ec77abdfbd64a1382a9c27",
             "neoforge": "https://github.com/neoforged/Snowman/commit/adabc321bb071118a5526569c00920fad96eda36"
-        },
-        "videos": {
-            "main": "https://www.youtube.com/watch?v=G76Y0uJwzBw",
-            "pack": null
         }
     },
     "26.4-snapshot-8": {

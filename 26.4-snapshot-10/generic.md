@@ -15,4 +15,4 @@
 
 ### Update Videos
 - **Main**: <https://www.youtube.com/watch?v=G76Y0uJwzBw>
-- **Resource/Data Pack**: N/A
+- **Resource/Data Pack**: <https://www.youtube.com/watch?v=E10Um5HHZI8>

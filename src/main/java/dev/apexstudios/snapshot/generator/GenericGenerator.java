@@ -33,6 +33,10 @@ final class GenericGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
+        link(output, "Wiki", version.wiki(), false);
+        newLine(output);
+
+        listItem(output);
         link(output, "Changelog", version.changelog(), false);
         newLine(output);
 

@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.6>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w16a
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_25w16a
 - **Changelog**: <https://misode.github.io/versions/?id=25w16a>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/77c96b6461bc64b82ecd301129ebdedaae418252>
 -# _Ping Mikey for access_

@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-9-release-candidate-1
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_1.21.9_Release_Candidate_1
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.9-rc1>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/ab5c6b2f2fe0f8e73bb8ba5b99e3832f516f2239>
 -# _Ping Mikey for access_

@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.6>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w20a
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_25w20a
 - **Changelog**: <https://misode.github.io/versions/?id=25w20a>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/23d9efaa0bb0ab6b6749885d7cb715ce48b46cce>
 

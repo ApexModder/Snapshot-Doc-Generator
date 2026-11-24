@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.5>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-3
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_1.21.5_Pre-Release_3
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.5-pre3>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/cd80d7caf9f23e1300c122d86ac02324866752e3>
 

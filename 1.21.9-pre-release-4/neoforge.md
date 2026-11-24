@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.9>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-4
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_1.21.9_Pre-Release_4
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.9-pre4>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/63cf18bd3e1bf5feb65bc04d6e43be6ecd92eb32>
 

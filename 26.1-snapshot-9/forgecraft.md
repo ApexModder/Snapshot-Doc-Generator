@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/26.1>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-9
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_26.1_Snapshot_9
 - **Changelog**: <https://misode.github.io/versions/?id=26.1-snapshot-9>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/bfc01c208ab8837b6ca179d24995b276f2b61dfe>
 -# _Ping Mikey for access_

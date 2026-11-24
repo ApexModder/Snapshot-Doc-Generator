@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.5>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-snapshot-25w09b
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_25w09b
 - **Changelog**: <https://misode.github.io/versions/?id=25w09b>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/4704ba3371d6e4991ff3c4c489d7d388dbb9d541>
 -# _Ping Mikey for access_

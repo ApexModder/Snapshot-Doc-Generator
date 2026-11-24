@@ -7,6 +7,7 @@
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-snapshot-25w41a>
+- **Wiki**: <https://minecraft.wiki/w/Java_Edition_25w41a>
 - **Changelog**: <https://misode.github.io/versions/?id=25w41a>
 
 ### SnowMan

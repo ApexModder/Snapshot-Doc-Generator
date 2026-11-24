@@ -7,6 +7,7 @@
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.5>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-2>
+- **Wiki**: <https://minecraft.wiki/w/Java_Edition_1.21.5_Pre-Release_2>
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.5-pre2>
 
 ### SnowMan

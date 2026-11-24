@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.6>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-2
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_1.21.6_Pre-Release_2
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.6-pre2>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/3572c91c10f8ca9c478df3a11ffefef598d85342>
 -# _Ping Mikey for access_

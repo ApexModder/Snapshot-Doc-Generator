@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/26.1>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-2
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_26.1_Release_Candidate_2
 - **Changelog**: <https://misode.github.io/versions/?id=26.1-rc2>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/8f42f359a7c9ce8778cf17f3794848dc699a97d7>
 

@@ -7,6 +7,7 @@
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.6>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-1-21-6-release-candidate-1>
+- **Wiki**: <https://minecraft.wiki/w/Java_Edition_1.21.6_Release_Candidate_1>
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.6-rc1>
 
 ### SnowMan

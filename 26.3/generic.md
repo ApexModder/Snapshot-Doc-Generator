@@ -7,6 +7,7 @@
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/26.3>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3>
+- **Wiki**: <https://minecraft.wiki/w/Java_Edition_26.3>
 - **Changelog**: <https://misode.github.io/versions/?id=26.3>
 
 ### SnowMan

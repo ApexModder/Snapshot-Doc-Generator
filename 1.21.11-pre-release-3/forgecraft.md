@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-3
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_1.21.11_Pre-Release_3
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.11-pre3>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/0888d9c69d08a3b0260f90cbab122c18450d2946>
 -# _Ping Mikey for access_

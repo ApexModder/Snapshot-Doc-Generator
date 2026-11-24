@@ -7,6 +7,7 @@
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/26.3>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-7>
+- **Wiki**: <https://minecraft.wiki/w/Java_Edition_26.3_Snapshot_7>
 - **Changelog**: <https://misode.github.io/versions/?id=26.3-snapshot-7>
 
 ### SnowMan

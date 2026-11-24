@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.5>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-2
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_1.21.5_Release_Candidate_2
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.5-rc2>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/c0fd0cb364cda4ec237b866deb806baca039385a>
 

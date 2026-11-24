@@ -2,6 +2,7 @@
 
 - **Primer**: N/A
 - **Article**: https://www.minecraft.net/en-us/article/the-herdcraft-update
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_26w14a
 - **Changelog**: <https://misode.github.io/versions/?id=26w14a>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/4c979212ec73069a3d9e1cb8e978f2208396713e>
 

@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/26.2>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-5
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_26.2_Pre-Release_5
 - **Changelog**: <https://misode.github.io/versions/?id=26.2-pre5>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/86f782195b4a52e3ec57cc6a493f6ced96601b9f>
 

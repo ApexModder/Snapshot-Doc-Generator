@@ -7,6 +7,7 @@
 ### Links
 - **Primer**: <https://docs.neoforged.net/primer/docs/26.2>
 - **Article**: <https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-4>
+- **Wiki**: <https://minecraft.wiki/w/Java_Edition_26.2_Pre-Release_4>
 - **Changelog**: <https://misode.github.io/versions/?id=26.2-pre4>
 
 ### SnowMan

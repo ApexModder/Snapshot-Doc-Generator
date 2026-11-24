@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.7>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-1-21-7-release-candidate-1
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_1.21.7_Release_Candidate_1
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.7-rc1>
 - **SnowMan**: <https://github.com/forgecraft/minecraft-sources/commit/abf463f7418025fcea0d9a860e346bc18e90a9ee>
 -# _Ping Mikey for access_

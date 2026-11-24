@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/26.2>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-3
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_26.2_Snapshot_3
 - **Changelog**: <https://misode.github.io/versions/?id=26.2-snapshot-3>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/e7f33df5ad981dd3cef42d63e0ad1e052e6bc204>
 

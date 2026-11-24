@@ -7,6 +7,7 @@
 ### Links
 - **Primer**: N/A
 - **Article**: <https://www.minecraft.net/en-us/article/the-herdcraft-update>
+- **Wiki**: <https://minecraft.wiki/w/Java_Edition_26w14a>
 - **Changelog**: <https://misode.github.io/versions/?id=26w14a>
 
 ### SnowMan

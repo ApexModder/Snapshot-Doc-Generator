@@ -2,6 +2,7 @@
 
 - **Primer**: <https://docs.neoforged.net/primer/docs/1.21.11>
 - **Article**: https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11
+- **Wiki**: https://minecraft.wiki/w/Java_Edition_1.21.11
 - **Changelog**: <https://misode.github.io/versions/?id=1.21.11>
 - **SnowMan**: <https://github.com/neoforged/Snowman/commit/2b20261ce2875fed454fddad2091fb1a126153ea>
 

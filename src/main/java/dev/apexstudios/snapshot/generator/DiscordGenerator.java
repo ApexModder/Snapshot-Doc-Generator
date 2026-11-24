@@ -27,6 +27,10 @@ final class DiscordGenerator extends MarkdownGenerator {
         newLine(output);
 
         listItem(output);
+        link(output, "Wiki", version.wiki(), true);
+        newLine(output);
+
+        listItem(output);
         link(output, "Changelog", version.changelog(), false);
         newLine(output);
 

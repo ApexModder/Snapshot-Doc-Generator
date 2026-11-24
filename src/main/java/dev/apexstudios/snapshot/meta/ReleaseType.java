@@ -4,6 +4,7 @@ import java.util.Objects;
 import java.util.function.UnaryOperator;
 import java.util.regex.Pattern;
 import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang3.text.WordUtils;
 import org.jetbrains.annotations.Nullable;
 
 public final class ReleaseType {
@@ -68,6 +69,23 @@ public final class ReleaseType {
         // https://www.minecraft.net/en-us/article/the-herdcraft-update
 
         return "https://www.minecraft.net/en-us/article/" + Objects.requireNonNull(article).apply(version.cleanId());
+    }
+
+    public String wiki(Version version) {
+        // https://minecraft.wiki/w/Java_Edition_26.4_Pre-Release_1
+        // https://minecraft.wiki/w/Java_Edition_26.4_Snapshot_10
+        // https://minecraft.wiki/w/Java_Edition_26.4
+        // https://minecraft.wiki/w/Java_Edition_26.3_Release_Candidate_2
+        // https://minecraft.wiki/w/Java_Edition_26w14a
+        // https://minecraft.wiki/w/Java_Edition_25w14craftmine
+
+        // https://minecraft.wiki/w/Java_Edition_1.14
+        // https://minecraft.wiki/w/Java_Edition_18w43a
+        // https://minecraft.wiki/w/Java_Edition_1.14_Pre-Release_3
+
+        var id = WordUtils.capitalizeFully(version.id().replace('-', ' ')).replace(' ', '_');
+        id = StringUtils.replaceOnceIgnoreCase(id, "pre_release", "Pre-Release");
+        return "https://minecraft.wiki/w/Java_Edition_" + id;
     }
 
     public String changelog(Version version) {

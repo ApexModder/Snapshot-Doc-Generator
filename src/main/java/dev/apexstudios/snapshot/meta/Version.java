@@ -31,6 +31,10 @@ public final class Version {
         return metadata.articleOverride().orElseGet(() -> releaseType.article(this));
     }
 
+    public String wiki() {
+        return metadata.wikiOverride().orElseGet(() -> releaseType.wiki(this));
+    }
+
     public String changelog() {
         return releaseType.changelog(this);
     }

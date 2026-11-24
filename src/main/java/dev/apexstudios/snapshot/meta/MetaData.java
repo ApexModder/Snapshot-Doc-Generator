@@ -9,6 +9,7 @@ public record MetaData(
         Optional<String> articleOverride,
         Optional<String> drop,
         Optional<String> primer,
+        Optional<String> wikiOverride,
         SnowMan snowman,
         Videos videos
 ) {
@@ -16,6 +17,7 @@ public record MetaData(
             Codec.optionalField("article_override", Codecs.NON_BLANK_STRING, false).forGetter(MetaData::articleOverride),
             Codec.optionalField("drop", Codecs.NON_BLANK_STRING, false).forGetter(MetaData::drop),
             Codec.optionalField("primer", Codecs.NON_BLANK_STRING, false).forGetter(MetaData::primer),
+            Codec.optionalField("wiki_override", Codecs.NON_BLANK_STRING, false).forGetter(MetaData::wikiOverride),
             SnowMan.CODEC.optionalFieldOf("snowman", SnowMan.EMPTY).forGetter(MetaData::snowman),
             Videos.CODEC.optionalFieldOf("videos", Videos.EMPTY).forGetter(MetaData::videos)
     ).apply(builder, MetaData::new));

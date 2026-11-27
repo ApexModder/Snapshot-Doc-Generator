@@ -1,4 +1,15 @@
 {
+    "26.4-pre-release-2": {
+        "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.4/primers/26.4/index.md",
+        "snowman": {
+            "forgecraft": "https://github.com/forgecraft/minecraft-sources/commit/ce59dbd21417c67dee81404118a846a57968fbe7",
+            "neoforge": "https://github.com/neoforged/Snowman/commit/5d1efcd1f4d6388eec3a0312f3bbcf2bf92c2568"
+        },
+        "videos": {
+            "main": null,
+            "pack": null
+        }
+    },
     "26.4-pre-release-1": {
         "primer": "https://github.com/ChampionAsh5357/neoforged-github/blob/port/26.4/primers/26.4/index.md",
         "snowman": {
